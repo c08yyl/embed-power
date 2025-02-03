@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928573.70 
+libxdmcp-native-1_1.1.4-r0: do_populate_sysroot_setscene
+Elapsed time: 0.32 seconds
+utime: 46
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 720186
+IO wchar: 156415
+IO syscr: 234
+IO syscw: 84
+IO read_bytes: 12288
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.460204
+rusage ru_stime: 0.049855
+rusage ru_maxrss: 53036
+rusage ru_minflt: 8219
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 344
+Child rusage ru_utime: 0.018817
+Child rusage ru_stime: 0.020419
+Child rusage ru_maxrss: 53036
+Child rusage ru_minflt: 1630
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 96
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 58
+Status: PASSED 
+Ended: 1712928574.03 

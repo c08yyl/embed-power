@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928298.15 
+nettle-3.9.1-r0: do_create_spdx_setscene
+Elapsed time: 0.28 seconds
+utime: 39
+stime: 3
+cutime: 1
+cstime: 5
+IO rchar: 4572160
+IO wchar: 8073288
+IO syscr: 701
+IO syscw: 570
+IO read_bytes: 126976
+IO write_bytes: 4050944
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.392341
+rusage ru_stime: 0.038464
+rusage ru_maxrss: 51820
+rusage ru_minflt: 7840
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 39
+rusage ru_nivcsw: 102
+Child rusage ru_utime: 0.013989999999999999
+Child rusage ru_stime: 0.05424
+Child rusage ru_maxrss: 51820
+Child rusage ru_minflt: 2827
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 248
+Child rusage ru_oublock: 7808
+Child rusage ru_nvcsw: 260
+Child rusage ru_nivcsw: 257
+Status: PASSED 
+Ended: 1712928298.44 

@@ -1,0 +1,5 @@
+/kitchen/build/tmp/deploy/images/qemux86-64/bzImage
+/kitchen/build/tmp/deploy/images/qemux86-64/bzImage-qemux86-64.bin
+/kitchen/build/tmp/deploy/images/qemux86-64/bzImage--6.6.23+git0+f7f00b22ef_2d01bc1d4e-r0-qemux86-64-20240409034438.bin
+/kitchen/build/tmp/deploy/images/qemux86-64/modules--6.6.23+git0+f7f00b22ef_2d01bc1d4e-r0-qemux86-64-20240409034438.tgz
+/kitchen/build/tmp/deploy/images/qemux86-64/modules-qemux86-64.tgz

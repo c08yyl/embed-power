@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928306.67 
+autoconf-archive-native-2023.02.20-r0: do_populate_lic_setscene
+Elapsed time: 0.20 seconds
+utime: 43
+stime: 3
+cutime: 0
+cstime: 2
+IO rchar: 691682
+IO wchar: 150131
+IO syscr: 237
+IO syscw: 78
+IO read_bytes: 20480
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.435419
+rusage ru_stime: 0.039945999999999995
+rusage ru_maxrss: 53408
+rusage ru_minflt: 8146
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 404
+Child rusage ru_utime: 0.009583999999999999
+Child rusage ru_stime: 0.028699
+Child rusage ru_maxrss: 53408
+Child rusage ru_minflt: 1614
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 96
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 28
+Status: PASSED 
+Ended: 1712928306.87 

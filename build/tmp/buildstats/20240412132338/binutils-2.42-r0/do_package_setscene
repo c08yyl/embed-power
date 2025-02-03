@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928327.99 
+binutils-2.42-r0: do_package_setscene
+Elapsed time: 4.69 seconds
+utime: 68
+stime: 17
+cutime: 107
+cstime: 200
+IO rchar: 261296933
+IO wchar: 398442464
+IO syscr: 39301
+IO syscw: 29179
+IO read_bytes: 60227584
+IO write_bytes: 200900608
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.685881
+rusage ru_stime: 0.175652
+rusage ru_maxrss: 51132
+rusage ru_minflt: 8578
+rusage ru_majflt: 0
+rusage ru_inblock: 256
+rusage ru_oublock: 528
+rusage ru_nvcsw: 6559
+rusage ru_nivcsw: 777
+Child rusage ru_utime: 1.073751
+Child rusage ru_stime: 2.000349
+Child rusage ru_maxrss: 87160
+Child rusage ru_minflt: 33835
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 117376
+Child rusage ru_oublock: 391856
+Child rusage ru_nvcsw: 22286
+Child rusage ru_nivcsw: 28644
+Status: PASSED 
+Ended: 1712928332.68 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928308.35 
+dwarfsrcfiles-native-1.0-r0: do_populate_lic_setscene
+Elapsed time: 0.19 seconds
+utime: 44
+stime: 2
+cutime: 1
+cstime: 2
+IO rchar: 639250
+IO wchar: 101961
+IO syscr: 210
+IO syscw: 61
+IO read_bytes: 12288
+IO write_bytes: 77824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.440729
+rusage ru_stime: 0.027545
+rusage ru_maxrss: 52560
+rusage ru_minflt: 7755
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 106
+Child rusage ru_utime: 0.014303
+Child rusage ru_stime: 0.021497
+Child rusage ru_maxrss: 52560
+Child rusage ru_minflt: 1575
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 54
+Status: PASSED 
+Ended: 1712928308.54 

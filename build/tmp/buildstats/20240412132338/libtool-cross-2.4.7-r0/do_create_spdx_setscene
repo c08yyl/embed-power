@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928300.96 
+libtool-cross-2.4.7-r0: do_create_spdx_setscene
+Elapsed time: 0.22 seconds
+utime: 34
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 452315
+IO wchar: 94063
+IO syscr: 215
+IO syscw: 61
+IO read_bytes: 151552
+IO write_bytes: 65536
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.340258
+rusage ru_stime: 0.046931999999999995
+rusage ru_maxrss: 51444
+rusage ru_minflt: 7642
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 112
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 165
+Child rusage ru_utime: 0.027434999999999998
+Child rusage ru_stime: 0.010506
+Child rusage ru_maxrss: 51444
+Child rusage ru_minflt: 1604
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 280
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 29
+Status: PASSED 
+Ended: 1712928301.18 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928569.46 
+libxxf86vm-native-1_1.1.5-r0: do_populate_sysroot_setscene
+Elapsed time: 0.22 seconds
+utime: 45
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 706203
+IO wchar: 143304
+IO syscr: 228
+IO syscw: 79
+IO read_bytes: 12288
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.453847
+rusage ru_stime: 0.049579
+rusage ru_maxrss: 52796
+rusage ru_minflt: 8226
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 243
+Child rusage ru_utime: 0.020929
+Child rusage ru_stime: 0.017754
+Child rusage ru_maxrss: 52796
+Child rusage ru_minflt: 1636
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1712928569.68 

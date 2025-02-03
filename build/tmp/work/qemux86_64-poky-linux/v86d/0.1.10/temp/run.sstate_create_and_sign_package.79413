@@ -1,0 +1,85 @@
+def sstate_create_and_sign_package(d):
+    from pathlib import Path
+
+    # Best effort touch
+    def touch(file):
+        try:
+            file.touch()
+        except:
+            pass
+
+    def update_file(src, dst, force=False):
+        if dst.is_symlink() and not dst.exists():
+            force=True
+        try:
+            # This relies on that src is a temporary file that can be renamed
+            # or left as is.
+            if force:
+                src.rename(dst)
+            else:
+                os.link(src, dst)
+            return True
+        except:
+            pass
+
+        if dst.exists():
+            touch(dst)
+
+        return False
+
+    sign_pkg = (
+        bb.utils.to_boolean(d.getVar("SSTATE_VERIFY_SIG")) and
+        bool(d.getVar("SSTATE_SIG_KEY"))
+    )
+
+    sstate_pkg = Path(d.getVar("SSTATE_PKG"))
+    sstate_pkg_sig = Path(str(sstate_pkg) + ".sig")
+    if sign_pkg:
+        if sstate_pkg.exists() and sstate_pkg_sig.exists():
+            touch(sstate_pkg)
+            touch(sstate_pkg_sig)
+            return
+    else:
+        if sstate_pkg.exists():
+            touch(sstate_pkg)
+            return
+
+    # Create the required sstate directory if it is not present.
+    if not sstate_pkg.parent.is_dir():
+        with bb.utils.umask(0o002):
+            bb.utils.mkdirhier(str(sstate_pkg.parent))
+
+    if sign_pkg:
+        from tempfile import TemporaryDirectory
+        with TemporaryDirectory(dir=sstate_pkg.parent) as tmp_dir:
+            tmp_pkg = Path(tmp_dir) / sstate_pkg.name
+            d.setVar("TMP_SSTATE_PKG", str(tmp_pkg))
+            bb.build.exec_func('sstate_archive_package', d)
+
+            from oe.gpg_sign import get_signer
+            signer = get_signer(d, 'local')
+            signer.detach_sign(str(tmp_pkg), d.getVar('SSTATE_SIG_KEY'), None,
+                                d.getVar('SSTATE_SIG_PASSPHRASE'), armor=False)
+
+            tmp_pkg_sig = Path(tmp_dir) / sstate_pkg_sig.name
+            if not update_file(tmp_pkg_sig, sstate_pkg_sig):
+                # If the created signature file could not be copied into place,
+                # then we should not use the sstate package either.
+                return
+
+            # If the .sig file was updated, then the sstate package must also
+            # be updated.
+            update_file(tmp_pkg, sstate_pkg, force=True)
+    else:
+        from tempfile import NamedTemporaryFile
+        with NamedTemporaryFile(prefix=sstate_pkg.name, dir=sstate_pkg.parent) as tmp_pkg_fd:
+            tmp_pkg = tmp_pkg_fd.name
+            d.setVar("TMP_SSTATE_PKG", str(tmp_pkg))
+            bb.build.exec_func('sstate_archive_package',d)
+            update_file(tmp_pkg, sstate_pkg)
+            # update_file() may have renamed tmp_pkg, which must exist when the
+            # NamedTemporaryFile() context handler ends.
+            touch(Path(tmp_pkg))
+
+sstate_create_and_sign_package(d)
+

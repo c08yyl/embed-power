@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928509.25 
+python3-calver-native-2022.6.26-r0: do_populate_lic_setscene
+Elapsed time: 0.27 seconds
+utime: 47
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 655495
+IO wchar: 113238
+IO syscr: 237
+IO syscw: 75
+IO read_bytes: 12288
+IO write_bytes: 90112
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.476817
+rusage ru_stime: 0.056762999999999994
+rusage ru_maxrss: 52004
+rusage ru_minflt: 8085
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 120
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 560
+Child rusage ru_utime: 0.011564999999999999
+Child rusage ru_stime: 0.026078
+Child rusage ru_maxrss: 50980
+Child rusage ru_minflt: 1630
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 61
+Status: PASSED 
+Ended: 1712928509.52 

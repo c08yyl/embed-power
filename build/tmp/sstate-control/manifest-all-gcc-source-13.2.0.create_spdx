@@ -1,0 +1,10 @@
+/kitchen/build/tmp/deploy/spdx/all/recipes/recipe-gcc-source-13.2.0.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/all/sstate:gcc-source-13.2.0:all-poky-linux:13.2.0:r0:all:11:/recipe-gcc-source-13.2.0.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/all/http:__spdx.org_spdxdoc_recipe-gcc-source-13.2.0-844388fb-cf41-504e-81ab-eddb3548c387
+/kitchen/build/tmp/deploy/spdx/by-hash/all/sstate:gcc-source-13.2.0:all-poky-linux:13.2.0:r0:all:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/all/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/by-hash/all/
+/kitchen/build/tmp/deploy/spdx/all/recipes/
+/kitchen/build/tmp/deploy/spdx/by-hash/
+/kitchen/build/tmp/deploy/spdx/all/

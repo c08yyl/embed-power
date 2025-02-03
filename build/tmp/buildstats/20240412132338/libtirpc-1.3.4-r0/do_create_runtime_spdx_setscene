@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928267.05 
+libtirpc-1.3.4-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.35 seconds
+utime: 37
+stime: 3
+cutime: 0
+cstime: 2
+IO rchar: 451317
+IO wchar: 105963
+IO syscr: 219
+IO syscw: 80
+IO read_bytes: 4096
+IO write_bytes: 77824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.37628799999999996
+rusage ru_stime: 0.038008
+rusage ru_maxrss: 51108
+rusage ru_minflt: 7709
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 304
+Child rusage ru_utime: 0.009066
+Child rusage ru_stime: 0.029921
+Child rusage ru_maxrss: 51108
+Child rusage ru_minflt: 1607
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 39
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1712928267.40 

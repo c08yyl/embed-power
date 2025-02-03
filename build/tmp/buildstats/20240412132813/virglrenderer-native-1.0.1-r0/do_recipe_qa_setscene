@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928539.22 
+virglrenderer-native-1.0.1-r0: do_recipe_qa_setscene
+Elapsed time: 0.23 seconds
+utime: 50
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 589550
+IO wchar: 60539
+IO syscr: 119
+IO syscw: 57
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.500684
+rusage ru_stime: 0.024031999999999998
+rusage ru_maxrss: 51964
+rusage ru_minflt: 8025
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 295
+Child rusage ru_utime: 0.013859999999999999
+Child rusage ru_stime: 0.005109
+Child rusage ru_maxrss: 48280
+Child rusage ru_minflt: 925
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 34
+Child rusage ru_nivcsw: 43
+Status: PASSED 
+Ended: 1712928539.45 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928289.18 
+libcap-ng-0.8.4-r0: do_package_qa_setscene
+Elapsed time: 0.19 seconds
+utime: 37
+stime: 3
+cutime: 0
+cstime: 0
+IO rchar: 358547
+IO wchar: 53992
+IO syscr: 105
+IO syscw: 42
+IO read_bytes: 143360
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.372788
+rusage ru_stime: 0.032067
+rusage ru_maxrss: 51752
+rusage ru_minflt: 7590
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 124
+Child rusage ru_utime: 0.009252999999999999
+Child rusage ru_stime: 0.009706
+Child rusage ru_maxrss: 46880
+Child rusage ru_minflt: 909
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 280
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 34
+Child rusage ru_nivcsw: 9
+Status: PASSED 
+Ended: 1712928289.37 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928404.17 
+libgpg-error-1.48-r0: do_packagedata_setscene
+Elapsed time: 0.46 seconds
+utime: 45
+stime: 3
+cutime: 2
+cstime: 4
+IO rchar: 657692
+IO wchar: 330535
+IO syscr: 484
+IO syscw: 428
+IO read_bytes: 163840
+IO write_bytes: 327680
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.45220099999999996
+rusage ru_stime: 0.038394
+rusage ru_maxrss: 51976
+rusage ru_minflt: 7950
+rusage ru_majflt: 0
+rusage ru_inblock: 40
+rusage ru_oublock: 160
+rusage ru_nvcsw: 109
+rusage ru_nivcsw: 1919
+Child rusage ru_utime: 0.022907999999999998
+Child rusage ru_stime: 0.045146
+Child rusage ru_maxrss: 51976
+Child rusage ru_minflt: 1686
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 280
+Child rusage ru_oublock: 480
+Child rusage ru_nvcsw: 51
+Child rusage ru_nivcsw: 270
+Status: PASSED 
+Ended: 1712928404.63 

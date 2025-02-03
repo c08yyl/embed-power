@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928874.46 
+diffutils-3.10-r0: do_package_write_deb
+Elapsed time: 16.01 seconds
+utime: 406
+stime: 139
+cutime: 602
+cstime: 371
+IO rchar: 32532600
+IO wchar: 13365946
+IO syscr: 15376
+IO syscw: 2377
+IO read_bytes: 7798784
+IO write_bytes: 5902336
+IO cancelled_write_bytes: 1720320
+rusage ru_utime: 4.067569
+rusage ru_stime: 1.3928449999999999
+rusage ru_maxrss: 56164
+rusage ru_minflt: 36750
+rusage ru_majflt: 0
+rusage ru_inblock: 1216
+rusage ru_oublock: 296
+rusage ru_nvcsw: 158
+rusage ru_nivcsw: 2241
+Child rusage ru_utime: 6.028871
+Child rusage ru_stime: 3.715695
+Child rusage ru_maxrss: 53460
+Child rusage ru_minflt: 537118
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 14016
+Child rusage ru_oublock: 11232
+Child rusage ru_nvcsw: 6139
+Child rusage ru_nivcsw: 6242
+Status: PASSED 
+Ended: 1712928890.47 

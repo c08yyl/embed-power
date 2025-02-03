@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928267.77 
+lzlib-1.14-r0: do_package_qa_setscene
+Elapsed time: 0.31 seconds
+utime: 34
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 331238
+IO wchar: 48596
+IO syscr: 93
+IO syscw: 36
+IO read_bytes: 4096
+IO write_bytes: 45056
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.349913
+rusage ru_stime: 0.032174999999999995
+rusage ru_maxrss: 49964
+rusage ru_minflt: 7147
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 178
+Child rusage ru_utime: 0.007871
+Child rusage ru_stime: 0.010029999999999999
+Child rusage ru_maxrss: 46408
+Child rusage ru_minflt: 895
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 31
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1712928268.09 

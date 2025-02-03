@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928269.87 
+sed-4.9-r0: do_create_spdx_setscene
+Elapsed time: 0.25 seconds
+utime: 40
+stime: 5
+cutime: 2
+cstime: 4
+IO rchar: 893349
+IO wchar: 783250
+IO syscr: 562
+IO syscw: 431
+IO read_bytes: 28672
+IO write_bytes: 438272
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.403155
+rusage ru_stime: 0.050883
+rusage ru_maxrss: 50592
+rusage ru_minflt: 7813
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 146
+rusage ru_nivcsw: 400
+Child rusage ru_utime: 0.020236
+Child rusage ru_stime: 0.042422
+Child rusage ru_maxrss: 50592
+Child rusage ru_minflt: 1811
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 56
+Child rusage ru_oublock: 704
+Child rusage ru_nvcsw: 64
+Child rusage ru_nivcsw: 73
+Status: PASSED 
+Ended: 1712928270.12 

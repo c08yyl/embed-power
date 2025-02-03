@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928362.86 
+libedit-20230828-3.1-r0: do_recipe_qa_setscene
+Elapsed time: 0.19 seconds
+utime: 36
+stime: 6
+cutime: 1
+cstime: 0
+IO rchar: 374857
+IO wchar: 53767
+IO syscr: 106
+IO syscw: 41
+IO read_bytes: 12288
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.36860499999999996
+rusage ru_stime: 0.064105
+rusage ru_maxrss: 52276
+rusage ru_minflt: 7742
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 96
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 126
+Child rusage ru_utime: 0.010997
+Child rusage ru_stime: 0.007762
+Child rusage ru_maxrss: 47824
+Child rusage ru_minflt: 919
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 32
+Child rusage ru_nivcsw: 44
+Status: PASSED 
+Ended: 1712928363.04 

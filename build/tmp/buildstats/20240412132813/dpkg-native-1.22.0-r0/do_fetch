@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928622.74 
+dpkg-native-1.22.0-r0: do_fetch
+Elapsed time: 0.46 seconds
+utime: 45
+stime: 4
+cutime: 12
+cstime: 7
+IO rchar: 2080443
+IO wchar: 88052
+IO syscr: 515
+IO syscw: 122
+IO read_bytes: 3887104
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.457414
+rusage ru_stime: 0.046125
+rusage ru_maxrss: 52304
+rusage ru_minflt: 7767
+rusage ru_majflt: 0
+rusage ru_inblock: 312
+rusage ru_oublock: 136
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 291
+Child rusage ru_utime: 0.129801
+Child rusage ru_stime: 0.07717099999999999
+Child rusage ru_maxrss: 48236
+Child rusage ru_minflt: 5777
+Child rusage ru_majflt: 50
+Child rusage ru_inblock: 7280
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 67
+Child rusage ru_nivcsw: 152
+Status: PASSED 
+Ended: 1712928623.20 

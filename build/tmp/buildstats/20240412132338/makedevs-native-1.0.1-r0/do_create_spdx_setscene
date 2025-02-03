@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928312.29 
+makedevs-native-1.0.1-r0: do_create_spdx_setscene
+Elapsed time: 0.18 seconds
+utime: 43
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 625241
+IO wchar: 75806
+IO syscr: 209
+IO syscw: 62
+IO read_bytes: 24576
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.431191
+rusage ru_stime: 0.032237999999999996
+rusage ru_maxrss: 52232
+rusage ru_minflt: 7807
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 199
+Child rusage ru_utime: 0.018276999999999998
+Child rusage ru_stime: 0.021327
+Child rusage ru_maxrss: 52232
+Child rusage ru_minflt: 1565
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 45
+Child rusage ru_nivcsw: 16
+Status: PASSED 
+Ended: 1712928312.47 

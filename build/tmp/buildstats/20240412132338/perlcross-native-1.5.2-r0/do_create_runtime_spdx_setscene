@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928314.24 
+perlcross-native-1.5.2-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.17 seconds
+utime: 43
+stime: 1
+cutime: 0
+cstime: 1
+IO rchar: 557058
+IO wchar: 53742
+IO syscr: 111
+IO syscw: 50
+IO read_bytes: 16384
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.43769199999999997
+rusage ru_stime: 0.01621
+rusage ru_maxrss: 52264
+rusage ru_minflt: 7683
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 96
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 426
+Child rusage ru_utime: 0.005939
+Child rusage ru_stime: 0.013051
+Child rusage ru_maxrss: 48748
+Child rusage ru_minflt: 909
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 34
+Child rusage ru_nivcsw: 66
+Status: PASSED 
+Ended: 1712928314.40 

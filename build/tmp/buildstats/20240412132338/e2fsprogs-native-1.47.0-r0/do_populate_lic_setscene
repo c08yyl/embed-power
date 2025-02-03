@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928308.69 
+e2fsprogs-native-1.47.0-r0: do_populate_lic_setscene
+Elapsed time: 0.18 seconds
+utime: 50
+stime: 3
+cutime: 0
+cstime: 3
+IO rchar: 786240
+IO wchar: 270853
+IO syscr: 246
+IO syscw: 99
+IO read_bytes: 20480
+IO write_bytes: 184320
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.509756
+rusage ru_stime: 0.034755999999999995
+rusage ru_maxrss: 53312
+rusage ru_minflt: 8553
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 307
+Child rusage ru_utime: 0.006566
+Child rusage ru_stime: 0.030955999999999997
+Child rusage ru_maxrss: 53312
+Child rusage ru_minflt: 1647
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 256
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 29
+Status: PASSED 
+Ended: 1712928308.87 

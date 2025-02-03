@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928241.88 
+packagegroup-core-boot-1.0-r0: do_populate_lic_setscene
+Elapsed time: 0.20 seconds
+utime: 33
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 391981
+IO wchar: 63553
+IO syscr: 201
+IO syscw: 51
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.334383
+rusage ru_stime: 0.036258
+rusage ru_maxrss: 49632
+rusage ru_minflt: 7162
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 169
+Child rusage ru_utime: 0.01681
+Child rusage ru_stime: 0.018286
+Child rusage ru_maxrss: 49632
+Child rusage ru_minflt: 1579
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 17
+Status: PASSED 
+Ended: 1712928242.07 

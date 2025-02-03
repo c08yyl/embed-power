@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928273.29 
+tzcode-native-2024a-r0: do_create_spdx_setscene
+Elapsed time: 0.21 seconds
+utime: 26
+stime: 6
+cutime: 2
+cstime: 2
+IO rchar: 419351
+IO wchar: 86853
+IO syscr: 226
+IO syscw: 68
+IO read_bytes: 4096
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.26315099999999997
+rusage ru_stime: 0.062842
+rusage ru_maxrss: 50316
+rusage ru_minflt: 7278
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 396
+Child rusage ru_utime: 0.020666
+Child rusage ru_stime: 0.021011
+Child rusage ru_maxrss: 50316
+Child rusage ru_minflt: 1576
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 49
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1712928273.50 

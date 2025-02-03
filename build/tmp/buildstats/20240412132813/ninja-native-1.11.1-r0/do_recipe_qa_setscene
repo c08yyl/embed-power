@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928603.55 
+ninja-native-1.11.1-r0: do_recipe_qa_setscene
+Elapsed time: 0.31 seconds
+utime: 43
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 570531
+IO wchar: 51095
+IO syscr: 103
+IO syscw: 43
+IO read_bytes: 4096
+IO write_bytes: 45056
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.431012
+rusage ru_stime: 0.051157
+rusage ru_maxrss: 52248
+rusage ru_minflt: 7724
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 402
+Child rusage ru_utime: 0.007272
+Child rusage ru_stime: 0.011859
+Child rusage ru_maxrss: 48736
+Child rusage ru_minflt: 922
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 26
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1712928603.87 

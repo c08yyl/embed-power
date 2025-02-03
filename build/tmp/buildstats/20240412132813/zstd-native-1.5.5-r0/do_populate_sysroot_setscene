@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928607.76 
+zstd-native-1.5.5-r0: do_populate_sysroot_setscene
+Elapsed time: 0.35 seconds
+utime: 43
+stime: 4
+cutime: 2
+cstime: 6
+IO rchar: 6765961
+IO wchar: 9258563
+IO syscr: 716
+IO syscw: 528
+IO read_bytes: 651264
+IO write_bytes: 5541888
+IO cancelled_write_bytes: 1736704
+rusage ru_utime: 0.439334
+rusage ru_stime: 0.047070999999999995
+rusage ru_maxrss: 52716
+rusage ru_minflt: 7984
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 104
+rusage ru_nvcsw: 36
+rusage ru_nivcsw: 401
+Child rusage ru_utime: 0.027489
+Child rusage ru_stime: 0.061604
+Child rusage ru_maxrss: 52716
+Child rusage ru_minflt: 4364
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1264
+Child rusage ru_oublock: 10720
+Child rusage ru_nvcsw: 144
+Child rusage ru_nivcsw: 145
+Status: PASSED 
+Ended: 1712928608.11 

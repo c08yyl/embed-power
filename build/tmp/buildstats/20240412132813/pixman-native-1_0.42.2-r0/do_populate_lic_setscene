@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928569.71 
+pixman-native-1_0.42.2-r0: do_populate_lic_setscene
+Elapsed time: 0.21 seconds
+utime: 49
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 666181
+IO wchar: 87640
+IO syscr: 224
+IO syscw: 79
+IO read_bytes: 8192
+IO write_bytes: 81920
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.499422
+rusage ru_stime: 0.035958
+rusage ru_maxrss: 52240
+rusage ru_minflt: 8234
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 213
+Child rusage ru_utime: 0.011068
+Child rusage ru_stime: 0.023785999999999998
+Child rusage ru_maxrss: 52240
+Child rusage ru_minflt: 1583
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1712928569.92 

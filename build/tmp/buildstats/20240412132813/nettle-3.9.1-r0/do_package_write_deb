@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928761.48 
+nettle-3.9.1-r0: do_package_write_deb
+Elapsed time: 54.39 seconds
+utime: 1598
+stime: 245
+cutime: 3065
+cstime: 165
+IO rchar: 122158108
+IO wchar: 70747071
+IO syscr: 18926
+IO syscw: 7277
+IO read_bytes: 50544640
+IO write_bytes: 16658432
+IO cancelled_write_bytes: 5095424
+rusage ru_utime: 15.990038
+rusage ru_stime: 2.453105
+rusage ru_maxrss: 55816
+rusage ru_minflt: 25472
+rusage ru_majflt: 0
+rusage ru_inblock: 392
+rusage ru_oublock: 296
+rusage ru_nvcsw: 253
+rusage ru_nivcsw: 5391
+Child rusage ru_utime: 30.652139
+Child rusage ru_stime: 1.651882
+Child rusage ru_maxrss: 217352
+Child rusage ru_minflt: 200618
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 98328
+Child rusage ru_oublock: 32240
+Child rusage ru_nvcsw: 7367
+Child rusage ru_nivcsw: 14874
+Status: PASSED 
+Ended: 1712928815.87 

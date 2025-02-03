@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928584.69 
+ca-certificates-native-20211016-r0: do_create_spdx_setscene
+Elapsed time: 0.23 seconds
+utime: 44
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 659608
+IO wchar: 89151
+IO syscr: 213
+IO syscw: 63
+IO read_bytes: 4096
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.441177
+rusage ru_stime: 0.037387
+rusage ru_maxrss: 51592
+rusage ru_minflt: 7822
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 458
+Child rusage ru_utime: 0.018344
+Child rusage ru_stime: 0.01907
+Child rusage ru_maxrss: 51592
+Child rusage ru_minflt: 1585
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 53
+Status: PASSED 
+Ended: 1712928584.92 

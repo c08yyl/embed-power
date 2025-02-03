@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928232.30 
+openssl-3.2.1-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.24 seconds
+utime: 39
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 515418
+IO wchar: 168514
+IO syscr: 243
+IO syscw: 123
+IO read_bytes: 4096
+IO write_bytes: 118784
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.397053
+rusage ru_stime: 0.046258
+rusage ru_maxrss: 50364
+rusage ru_minflt: 7818
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 255
+Child rusage ru_utime: 0.017436
+Child rusage ru_stime: 0.027274999999999997
+Child rusage ru_maxrss: 50364
+Child rusage ru_minflt: 1629
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 104
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 31
+Status: PASSED 
+Ended: 1712928232.54 

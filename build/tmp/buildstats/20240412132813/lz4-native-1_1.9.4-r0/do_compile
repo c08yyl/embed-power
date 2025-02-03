@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928644.13 
+lz4-native-1_1.9.4-r0: do_compile
+Elapsed time: 28.00 seconds
+utime: 43
+stime: 5
+cutime: 2969
+cstime: 128
+IO rchar: 15351818
+IO wchar: 2563748
+IO syscr: 4323
+IO syscw: 869
+IO read_bytes: 385024
+IO write_bytes: 1130496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.43302999999999997
+rusage ru_stime: 0.054583
+rusage ru_maxrss: 55328
+rusage ru_minflt: 6342
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 40
+rusage ru_nvcsw: 36
+rusage ru_nivcsw: 556
+Child rusage ru_utime: 29.692059
+Child rusage ru_stime: 1.286705
+Child rusage ru_maxrss: 77540
+Child rusage ru_minflt: 127295
+Child rusage ru_majflt: 13
+Child rusage ru_inblock: 752
+Child rusage ru_oublock: 2168
+Child rusage ru_nvcsw: 747
+Child rusage ru_nivcsw: 16999
+Status: PASSED 
+Ended: 1712928672.13 

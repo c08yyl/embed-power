@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712930118.11 
+libgcc-13.2.0-r0: do_package_write_deb
+Elapsed time: 37.25 seconds
+utime: 924
+stime: 169
+cutime: 1446
+cstime: 88
+IO rchar: 54444975
+IO wchar: 35771837
+IO syscr: 8293
+IO syscw: 3203
+IO read_bytes: 18173952
+IO write_bytes: 14512128
+IO cancelled_write_bytes: 4366336
+rusage ru_utime: 9.245709
+rusage ru_stime: 1.6936689999999999
+rusage ru_maxrss: 52232
+rusage ru_minflt: 23172
+rusage ru_majflt: 7
+rusage ru_inblock: 1256
+rusage ru_oublock: 296
+rusage ru_nvcsw: 291
+rusage ru_nivcsw: 2930
+Child rusage ru_utime: 14.460671
+Child rusage ru_stime: 0.8889009999999999
+Child rusage ru_maxrss: 105472
+Child rusage ru_minflt: 106993
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 34240
+Child rusage ru_oublock: 28048
+Child rusage ru_nvcsw: 2315
+Child rusage ru_nivcsw: 5886
+Status: PASSED 
+Ended: 1712930155.35 

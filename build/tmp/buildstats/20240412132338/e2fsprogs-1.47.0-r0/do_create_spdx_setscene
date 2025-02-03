@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928280.94 
+e2fsprogs-1.47.0-r0: do_create_spdx_setscene
+Elapsed time: 0.28 seconds
+utime: 47
+stime: 3
+cutime: 1
+cstime: 5
+IO rchar: 2338992
+IO wchar: 3401354
+IO syscr: 618
+IO syscw: 514
+IO read_bytes: 147456
+IO write_bytes: 1724416
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.471329
+rusage ru_stime: 0.031953999999999996
+rusage ru_maxrss: 51484
+rusage ru_minflt: 8049
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 118
+rusage ru_nivcsw: 632
+Child rusage ru_utime: 0.017249
+Child rusage ru_stime: 0.056755
+Child rusage ru_maxrss: 51484
+Child rusage ru_minflt: 2501
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 288
+Child rusage ru_oublock: 3216
+Child rusage ru_nvcsw: 189
+Child rusage ru_nivcsw: 278
+Status: PASSED 
+Ended: 1712928281.22 

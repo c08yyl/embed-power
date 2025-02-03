@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928308.29 
+dwarfsrcfiles-native-1.0-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.19 seconds
+utime: 42
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 550578
+IO wchar: 52732
+IO syscr: 106
+IO syscw: 48
+IO read_bytes: 12288
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.423545
+rusage ru_stime: 0.031666
+rusage ru_maxrss: 52300
+rusage ru_minflt: 7690
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 96
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 381
+Child rusage ru_utime: 0.003947
+Child rusage ru_stime: 0.014419
+Child rusage ru_maxrss: 48700
+Child rusage ru_minflt: 919
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 31
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1712928308.48 

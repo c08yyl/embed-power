@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928411.31 
+libseccomp-2.5.5-r0: do_package_setscene
+Elapsed time: 1.29 seconds
+utime: 50
+stime: 8
+cutime: 15
+cstime: 40
+IO rchar: 32863357
+IO wchar: 58751214
+IO syscr: 8343
+IO syscw: 5573
+IO read_bytes: 2568192
+IO write_bytes: 30208000
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.500908
+rusage ru_stime: 0.089906
+rusage ru_maxrss: 51256
+rusage ru_minflt: 8436
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 288
+rusage ru_nvcsw: 1915
+rusage ru_nivcsw: 433
+Child rusage ru_utime: 0.152601
+Child rusage ru_stime: 0.403922
+Child rusage ru_maxrss: 48344
+Child rusage ru_minflt: 11951
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 5008
+Child rusage ru_oublock: 58712
+Child rusage ru_nvcsw: 3791
+Child rusage ru_nivcsw: 5285
+Status: PASSED 
+Ended: 1712928412.61 

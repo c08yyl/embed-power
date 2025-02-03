@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928525.02 
+libarchive-native-3.7.2-r0: do_create_spdx_setscene
+Elapsed time: 0.30 seconds
+utime: 49
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 685084
+IO wchar: 97767
+IO syscr: 223
+IO syscw: 69
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.49554299999999996
+rusage ru_stime: 0.034827
+rusage ru_maxrss: 51880
+rusage ru_minflt: 8154
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 304
+Child rusage ru_utime: 0.012528
+Child rusage ru_stime: 0.026629999999999997
+Child rusage ru_maxrss: 51880
+Child rusage ru_minflt: 1602
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 70
+Status: PASSED 
+Ended: 1712928525.32 

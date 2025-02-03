@@ -1,0 +1,16 @@
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/runtime-shadow-securetty.spdx.json
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/runtime-shadow-securetty-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/runtime-shadow-securetty-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:shadow-securetty:qemux86_64-poky-linux:4.6:r0:qemux86_64:11:/runtime-shadow-securetty.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:shadow-securetty:qemux86_64-poky-linux:4.6:r0:qemux86_64:11:/runtime-shadow-securetty-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:shadow-securetty:qemux86_64-poky-linux:4.6:r0:qemux86_64:11:/runtime-shadow-securetty-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-shadow-securetty-de7a6d50-5439-5297-a5f0-8318e83ff5d3
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-shadow-securetty-dev-9768cf31-06fc-50b9-9876-20f43f04be38
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-shadow-securetty-dbg-f1fdea34-c90e-5fb4-9605-3fafb0940edb
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:shadow-securetty:qemux86_64-poky-linux:4.6:r0:qemux86_64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/by-hash/

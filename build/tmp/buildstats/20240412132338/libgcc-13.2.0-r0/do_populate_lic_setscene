@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928252.02 
+libgcc-13.2.0-r0: do_populate_lic_setscene
+Elapsed time: 0.20 seconds
+utime: 41
+stime: 2
+cutime: 2
+cstime: 1
+IO rchar: 605857
+IO wchar: 332440
+IO syscr: 248
+IO syscw: 91
+IO read_bytes: 28672
+IO write_bytes: 196608
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.413352
+rusage ru_stime: 0.028367
+rusage ru_maxrss: 50784
+rusage ru_minflt: 7793
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 350
+Child rusage ru_utime: 0.02234
+Child rusage ru_stime: 0.016340999999999998
+Child rusage ru_maxrss: 50784
+Child rusage ru_minflt: 1676
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 56
+Child rusage ru_oublock: 280
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1712928252.22 

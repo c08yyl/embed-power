@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928751.06 
+libunistring-1.2-r0: do_package_write_deb
+Elapsed time: 13.48 seconds
+utime: 527
+stime: 121
+cutime: 832
+cstime: 101
+IO rchar: 38011265
+IO wchar: 21936329
+IO syscr: 8992
+IO syscw: 2931
+IO read_bytes: 15704064
+IO write_bytes: 6135808
+IO cancelled_write_bytes: 1581056
+rusage ru_utime: 5.279718
+rusage ru_stime: 1.211548
+rusage ru_maxrss: 54848
+rusage ru_minflt: 24418
+rusage ru_majflt: 0
+rusage ru_inblock: 352
+rusage ru_oublock: 288
+rusage ru_nvcsw: 73
+rusage ru_nivcsw: 1928
+Child rusage ru_utime: 8.323326
+Child rusage ru_stime: 1.010732
+Child rusage ru_maxrss: 104332
+Child rusage ru_minflt: 116000
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 30320
+Child rusage ru_oublock: 11696
+Child rusage ru_nvcsw: 4314
+Child rusage ru_nivcsw: 5719
+Status: PASSED 
+Ended: 1712928764.55 

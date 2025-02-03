@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928296.08 
+libcap-2.69-r0: do_create_spdx_setscene
+Elapsed time: 0.20 seconds
+utime: 33
+stime: 5
+cutime: 2
+cstime: 2
+IO rchar: 578242
+IO wchar: 370044
+IO syscr: 225
+IO syscw: 102
+IO read_bytes: 16384
+IO write_bytes: 204800
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.33496499999999996
+rusage ru_stime: 0.053104
+rusage ru_maxrss: 50624
+rusage ru_minflt: 7381
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 107
+Child rusage ru_utime: 0.022564999999999998
+Child rusage ru_stime: 0.022108
+Child rusage ru_maxrss: 50624
+Child rusage ru_minflt: 1661
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 296
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1712928296.29 

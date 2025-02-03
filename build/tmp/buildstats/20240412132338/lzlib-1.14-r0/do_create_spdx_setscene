@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928292.88 
+lzlib-1.14-r0: do_create_spdx_setscene
+Elapsed time: 0.21 seconds
+utime: 35
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 434806
+IO wchar: 107761
+IO syscr: 227
+IO syscw: 85
+IO read_bytes: 12288
+IO write_bytes: 73728
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.354782
+rusage ru_stime: 0.043362
+rusage ru_maxrss: 50436
+rusage ru_minflt: 7366
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 104
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 100
+Child rusage ru_utime: 0.02386
+Child rusage ru_stime: 0.015493999999999999
+Child rusage ru_maxrss: 50436
+Child rusage ru_minflt: 1596
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1712928293.09 

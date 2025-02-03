@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928557.90 
+python3-typing-extensions-native-4.10.0-r0: do_populate_sysroot_setscene
+Elapsed time: 0.27 seconds
+utime: 45
+stime: 6
+cutime: 2
+cstime: 2
+IO rchar: 979611
+IO wchar: 610028
+IO syscr: 260
+IO syscw: 109
+IO read_bytes: 73728
+IO write_bytes: 335872
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.454182
+rusage ru_stime: 0.064883
+rusage ru_maxrss: 51500
+rusage ru_minflt: 7858
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 953
+Child rusage ru_utime: 0.020075
+Child rusage ru_stime: 0.021873
+Child rusage ru_maxrss: 51500
+Child rusage ru_minflt: 1777
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 136
+Child rusage ru_oublock: 544
+Child rusage ru_nvcsw: 56
+Child rusage ru_nivcsw: 193
+Status: PASSED 
+Ended: 1712928558.17 

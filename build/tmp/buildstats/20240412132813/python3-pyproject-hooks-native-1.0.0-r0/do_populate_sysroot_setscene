@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928580.57 
+python3-pyproject-hooks-native-1.0.0-r0: do_populate_sysroot_setscene
+Elapsed time: 0.29 seconds
+utime: 44
+stime: 8
+cutime: 1
+cstime: 2
+IO rchar: 751941
+IO wchar: 228132
+IO syscr: 277
+IO syscw: 124
+IO read_bytes: 20480
+IO write_bytes: 159744
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.447276
+rusage ru_stime: 0.082393
+rusage ru_maxrss: 51496
+rusage ru_minflt: 7883
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 471
+Child rusage ru_utime: 0.017613
+Child rusage ru_stime: 0.025942
+Child rusage ru_maxrss: 51496
+Child rusage ru_minflt: 1651
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 200
+Child rusage ru_nvcsw: 48
+Child rusage ru_nivcsw: 71
+Status: PASSED 
+Ended: 1712928580.87 

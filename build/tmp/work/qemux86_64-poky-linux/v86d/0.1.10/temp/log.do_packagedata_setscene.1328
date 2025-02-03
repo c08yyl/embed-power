@@ -1,0 +1,38 @@
+DEBUG: Executing python function do_packagedata_setscene
+DEBUG: Executing shell function sstate_unpack_package
+pkgdata-pdata-input/
+pkgdata-pdata-input/runtime-rprovides/
+pkgdata-pdata-input/v86d
+pkgdata-pdata-input/runtime-reverse/
+pkgdata-pdata-input/runtime-reverse/v86d-dbg
+pkgdata-pdata-input/runtime-reverse/v86d-dev
+pkgdata-pdata-input/runtime-reverse/v86d
+pkgdata-pdata-input/runtime-reverse/v86d-src
+pkgdata-pdata-input/shlibs2/
+pkgdata-pdata-input/runtime/
+pkgdata-pdata-input/runtime/v86d-dbg
+pkgdata-pdata-input/runtime/v86d-doc
+pkgdata-pdata-input/runtime/v86d.packaged
+pkgdata-pdata-input/runtime/v86d-dev
+pkgdata-pdata-input/runtime/v86d
+pkgdata-pdata-input/runtime/v86d-src.packaged
+pkgdata-pdata-input/runtime/v86d-src
+pkgdata-pdata-input/runtime/v86d-locale
+pkgdata-pdata-input/runtime/v86d-staticdev
+pkgdata-pdata-input/runtime/v86d-dev.packaged
+pkgdata-pdata-input/runtime/v86d-dbg.packaged
+pkgdata-pdata-input/extended/
+pkgdata-pdata-input/extended/v86d-locale.json.zstd
+pkgdata-pdata-input/extended/v86d-staticdev.json.zstd
+pkgdata-pdata-input/extended/v86d-dev.json.zstd
+pkgdata-pdata-input/extended/v86d-doc.json.zstd
+pkgdata-pdata-input/extended/v86d-src.json.zstd
+pkgdata-pdata-input/extended/v86d.json.zstd
+pkgdata-pdata-input/extended/v86d-dbg.json.zstd
+DEBUG: Shell function sstate_unpack_package finished
+DEBUG: Executing python function sstate_hardcode_path_unpack
+DEBUG: Python function sstate_hardcode_path_unpack finished
+DEBUG: Executing python function uninative_changeinterp
+DEBUG: Python function uninative_changeinterp finished
+DEBUG: Staging files from /kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/pkgdata-pdata-input to /kitchen/build/tmp/pkgdata/qemux86-64
+DEBUG: Python function do_packagedata_setscene finished

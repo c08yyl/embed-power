@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929289.82 
+perl-5.38.2-r0: do_package_write_deb
+Elapsed time: 465.09 seconds
+utime: 6869
+stime: 969
+cutime: 30187
+cstime: 5771
+IO rchar: 1029306510
+IO wchar: 509557232
+IO syscr: 339904
+IO syscw: 69558
+IO read_bytes: 406077440
+IO write_bytes: 145743872
+IO cancelled_write_bytes: 40288256
+rusage ru_utime: 68.693409
+rusage ru_stime: 9.695138
+rusage ru_maxrss: 68392
+rusage ru_minflt: 252101
+rusage ru_majflt: 6
+rusage ru_inblock: 42336
+rusage ru_oublock: 624
+rusage ru_nvcsw: 1543
+rusage ru_nivcsw: 27316
+Child rusage ru_utime: 301.873577
+Child rusage ru_stime: 57.717911
+Child rusage ru_maxrss: 502948
+Child rusage ru_minflt: 6957571
+Child rusage ru_majflt: 34
+Child rusage ru_inblock: 750784
+Child rusage ru_oublock: 284032
+Child rusage ru_nvcsw: 161069
+Child rusage ru_nivcsw: 206617
+Status: PASSED 
+Ended: 1712929754.91 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928243.79 
+ttyrun-2.31.0-r0: do_create_spdx_setscene
+Elapsed time: 0.21 seconds
+utime: 35
+stime: 2
+cutime: 1
+cstime: 2
+IO rchar: 433679
+IO wchar: 122794
+IO syscr: 214
+IO syscw: 79
+IO read_bytes: 4096
+IO write_bytes: 77824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.35994899999999996
+rusage ru_stime: 0.02831
+rusage ru_maxrss: 49760
+rusage ru_minflt: 7260
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 445
+Child rusage ru_utime: 0.016901
+Child rusage ru_stime: 0.021889
+Child rusage ru_maxrss: 49760
+Child rusage ru_minflt: 1599
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 29
+Status: PASSED 
+Ended: 1712928244.00 

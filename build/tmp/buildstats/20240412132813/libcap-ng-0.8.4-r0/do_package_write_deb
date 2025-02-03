@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929930.03 
+libcap-ng-0.8.4-r0: do_package_write_deb
+Elapsed time: 9.13 seconds
+utime: 113
+stime: 92
+cutime: 78
+cstime: 54
+IO rchar: 5387739
+IO wchar: 2453617
+IO syscr: 3210
+IO syscw: 714
+IO read_bytes: 1613824
+IO write_bytes: 1847296
+IO cancelled_write_bytes: 159744
+rusage ru_utime: 1.136277
+rusage ru_stime: 0.929681
+rusage ru_maxrss: 52252
+rusage ru_minflt: 24715
+rusage ru_majflt: 1
+rusage ru_inblock: 1816
+rusage ru_oublock: 288
+rusage ru_nvcsw: 106
+rusage ru_nivcsw: 627
+Child rusage ru_utime: 0.7857259999999999
+Child rusage ru_stime: 0.542208
+Child rusage ru_maxrss: 49840
+Child rusage ru_minflt: 83553
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 1336
+Child rusage ru_oublock: 3320
+Child rusage ru_nvcsw: 853
+Child rusage ru_nivcsw: 964
+Status: PASSED 
+Ended: 1712929939.16 

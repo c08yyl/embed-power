@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929190.27 
+sqlite3-3_3.45.1-r0: do_package_write_deb
+Elapsed time: 55.86 seconds
+utime: 1037
+stime: 198
+cutime: 1851
+cstime: 99
+IO rchar: 62422426
+IO wchar: 40947733
+IO syscr: 8925
+IO syscw: 3338
+IO read_bytes: 20373504
+IO write_bytes: 16846848
+IO cancelled_write_bytes: 5148672
+rusage ru_utime: 10.378014
+rusage ru_stime: 1.980718
+rusage ru_maxrss: 55136
+rusage ru_minflt: 22507
+rusage ru_majflt: 0
+rusage ru_inblock: 1728
+rusage ru_oublock: 296
+rusage ru_nvcsw: 278
+rusage ru_nivcsw: 3053
+Child rusage ru_utime: 18.511881
+Child rusage ru_stime: 0.995755
+Child rusage ru_maxrss: 107648
+Child rusage ru_minflt: 134728
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 38064
+Child rusage ru_oublock: 32608
+Child rusage ru_nvcsw: 2438
+Child rusage ru_nivcsw: 7018
+Status: PASSED 
+Ended: 1712929246.13 

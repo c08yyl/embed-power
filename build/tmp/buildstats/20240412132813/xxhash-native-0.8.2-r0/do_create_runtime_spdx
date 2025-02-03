@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928658.55 
+xxhash-native-0.8.2-r0: do_create_runtime_spdx
+Elapsed time: 0.30 seconds
+utime: 50
+stime: 3
+cutime: 2
+cstime: 2
+IO rchar: 923645
+IO wchar: 335822
+IO syscr: 262
+IO syscw: 104
+IO read_bytes: 0
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.506473
+rusage ru_stime: 0.032674999999999996
+rusage ru_maxrss: 56472
+rusage ru_minflt: 9153
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 217
+Child rusage ru_utime: 0.026424
+Child rusage ru_stime: 0.026875
+Child rusage ru_maxrss: 56472
+Child rusage ru_minflt: 3428
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 53
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1712928658.85 

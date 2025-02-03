@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928588.51 
+libbsd-native-0.12.1-r0: do_create_spdx_setscene
+Elapsed time: 0.23 seconds
+utime: 42
+stime: 8
+cutime: 1
+cstime: 2
+IO rchar: 678819
+IO wchar: 94341
+IO syscr: 221
+IO syscw: 68
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.421542
+rusage ru_stime: 0.086672
+rusage ru_maxrss: 52856
+rusage ru_minflt: 8262
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 305
+Child rusage ru_utime: 0.01337
+Child rusage ru_stime: 0.023974
+Child rusage ru_maxrss: 52856
+Child rusage ru_minflt: 1603
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1712928588.74 

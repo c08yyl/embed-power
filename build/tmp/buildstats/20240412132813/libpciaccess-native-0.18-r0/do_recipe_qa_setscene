@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928561.77 
+libpciaccess-native-0.18-r0: do_recipe_qa_setscene
+Elapsed time: 0.25 seconds
+utime: 47
+stime: 7
+cutime: 0
+cstime: 1
+IO rchar: 589206
+IO wchar: 60282
+IO syscr: 119
+IO syscw: 57
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.47262
+rusage ru_stime: 0.07070599999999999
+rusage ru_maxrss: 52328
+rusage ru_minflt: 8065
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 301
+Child rusage ru_utime: 0.008855
+Child rusage ru_stime: 0.010631
+Child rusage ru_maxrss: 48676
+Child rusage ru_minflt: 907
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 25
+Child rusage ru_nivcsw: 65
+Status: PASSED 
+Ended: 1712928562.02 

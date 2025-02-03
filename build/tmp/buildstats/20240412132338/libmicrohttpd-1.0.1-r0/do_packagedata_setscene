@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928391.90 
+libmicrohttpd-1.0.1-r0: do_packagedata_setscene
+Elapsed time: 0.34 seconds
+utime: 38
+stime: 5
+cutime: 0
+cstime: 3
+IO rchar: 469336
+IO wchar: 126002
+IO syscr: 218
+IO syscw: 106
+IO read_bytes: 20480
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.3856
+rusage ru_stime: 0.052216
+rusage ru_maxrss: 52372
+rusage ru_minflt: 7865
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 112
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 1756
+Child rusage ru_utime: 0.007434
+Child rusage ru_stime: 0.035855
+Child rusage ru_maxrss: 52372
+Child rusage ru_minflt: 1604
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 152
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 31
+Status: PASSED 
+Ended: 1712928392.23 

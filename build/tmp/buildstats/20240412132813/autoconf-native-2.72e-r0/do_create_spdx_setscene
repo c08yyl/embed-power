@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928622.23 
+autoconf-native-2.72e-r0: do_create_spdx_setscene
+Elapsed time: 0.21 seconds
+utime: 43
+stime: 6
+cutime: 1
+cstime: 2
+IO rchar: 683745
+IO wchar: 93466
+IO syscr: 221
+IO syscw: 68
+IO read_bytes: 4096
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.44009
+rusage ru_stime: 0.064013
+rusage ru_maxrss: 53704
+rusage ru_minflt: 8386
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 257
+Child rusage ru_utime: 0.012761
+Child rusage ru_stime: 0.023941
+Child rusage ru_maxrss: 53704
+Child rusage ru_minflt: 1592
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1712928622.43 

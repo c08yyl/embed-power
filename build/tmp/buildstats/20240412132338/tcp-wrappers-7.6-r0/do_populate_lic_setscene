@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928271.67 
+tcp-wrappers-7.6-r0: do_populate_lic_setscene
+Elapsed time: 0.20 seconds
+utime: 32
+stime: 6
+cutime: 1
+cstime: 1
+IO rchar: 400993
+IO wchar: 62853
+IO syscr: 200
+IO syscw: 52
+IO read_bytes: 4096
+IO write_bytes: 65536
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.324449
+rusage ru_stime: 0.06408799999999999
+rusage ru_maxrss: 50284
+rusage ru_minflt: 7311
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 151
+Child rusage ru_utime: 0.015725
+Child rusage ru_stime: 0.018841
+Child rusage ru_maxrss: 50284
+Child rusage ru_minflt: 1595
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 45
+Child rusage ru_nivcsw: 29
+Status: PASSED 
+Ended: 1712928271.87 

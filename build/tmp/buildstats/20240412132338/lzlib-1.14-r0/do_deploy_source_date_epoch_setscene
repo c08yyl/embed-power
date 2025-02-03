@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928396.49 
+lzlib-1.14-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.23 seconds
+utime: 37
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 340433
+IO wchar: 50357
+IO syscr: 99
+IO syscw: 42
+IO read_bytes: 12288
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.379212
+rusage ru_stime: 0.039501
+rusage ru_maxrss: 51260
+rusage ru_minflt: 7329
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 96
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 1267
+Child rusage ru_utime: 0.006804999999999999
+Child rusage ru_stime: 0.012617999999999999
+Child rusage ru_maxrss: 47752
+Child rusage ru_minflt: 918
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 127
+Status: PASSED 
+Ended: 1712928396.72 

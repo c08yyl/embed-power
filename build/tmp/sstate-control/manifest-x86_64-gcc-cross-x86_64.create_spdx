@@ -1,0 +1,10 @@
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/sstate:gcc-cross-x86_64:x86_64-poky-linux:13.2.0:r0:x86_64:11:/recipe-gcc-cross-x86_64.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/x86_64/http:__spdx.org_spdxdoc_recipe-gcc-cross-x86_64-a54677b2-404d-5f88-948b-b1314035058d
+/kitchen/build/tmp/deploy/spdx/x86_64/recipes/recipe-gcc-cross-x86_64.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/sstate:gcc-cross-x86_64:x86_64-poky-linux:13.2.0:r0:x86_64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/x86_64/
+/kitchen/build/tmp/deploy/spdx/x86_64/recipes/
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/by-hash/
+/kitchen/build/tmp/deploy/spdx/x86_64/

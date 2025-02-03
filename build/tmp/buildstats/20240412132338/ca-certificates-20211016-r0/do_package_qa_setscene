@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928282.88 
+ca-certificates-20211016-r0: do_package_qa_setscene
+Elapsed time: 0.16 seconds
+utime: 32
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 324838
+IO wchar: 46363
+IO syscr: 93
+IO syscw: 37
+IO read_bytes: 4096
+IO write_bytes: 45056
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.329269
+rusage ru_stime: 0.028454999999999998
+rusage ru_maxrss: 50228
+rusage ru_minflt: 7153
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 290
+Child rusage ru_utime: 0.004756
+Child rusage ru_stime: 0.013401999999999999
+Child rusage ru_maxrss: 46672
+Child rusage ru_minflt: 885
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1712928283.04 

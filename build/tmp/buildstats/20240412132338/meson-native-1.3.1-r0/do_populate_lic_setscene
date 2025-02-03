@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928312.57 
+meson-native-1.3.1-r0: do_populate_lic_setscene
+Elapsed time: 0.19 seconds
+utime: 46
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 661791
+IO wchar: 113821
+IO syscr: 242
+IO syscw: 79
+IO read_bytes: 12288
+IO write_bytes: 81920
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.46441699999999997
+rusage ru_stime: 0.047632
+rusage ru_maxrss: 53640
+rusage ru_minflt: 8239
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 224
+Child rusage ru_utime: 0.012631
+Child rusage ru_stime: 0.024124
+Child rusage ru_maxrss: 53640
+Child rusage ru_minflt: 1582
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 47
+Child rusage ru_nivcsw: 23
+Status: PASSED 
+Ended: 1712928312.76 

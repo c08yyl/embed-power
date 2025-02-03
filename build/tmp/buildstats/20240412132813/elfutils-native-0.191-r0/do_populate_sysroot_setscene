@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928564.02 
+elfutils-native-0.191-r0: do_populate_sysroot_setscene
+Elapsed time: 0.48 seconds
+utime: 53
+stime: 4
+cutime: 7
+cstime: 12
+IO rchar: 11144729
+IO wchar: 15425596
+IO syscr: 1250
+IO syscw: 929
+IO read_bytes: 1114112
+IO write_bytes: 9441280
+IO cancelled_write_bytes: 3104768
+rusage ru_utime: 0.5352319999999999
+rusage ru_stime: 0.04523
+rusage ru_maxrss: 52684
+rusage ru_minflt: 8458
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 135
+rusage ru_nivcsw: 209
+Child rusage ru_utime: 0.072016
+Child rusage ru_stime: 0.121503
+Child rusage ru_maxrss: 52684
+Child rusage ru_minflt: 7442
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2176
+Child rusage ru_oublock: 18304
+Child rusage ru_nvcsw: 568
+Child rusage ru_nivcsw: 645
+Status: PASSED 
+Ended: 1712928564.50 

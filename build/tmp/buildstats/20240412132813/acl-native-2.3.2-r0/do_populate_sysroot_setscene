@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928581.81 
+acl-native-2.3.2-r0: do_populate_sysroot_setscene
+Elapsed time: 0.39 seconds
+utime: 49
+stime: 4
+cutime: 1
+cstime: 4
+IO rchar: 965366
+IO wchar: 445939
+IO syscr: 324
+IO syscw: 121
+IO read_bytes: 40960
+IO write_bytes: 303104
+IO cancelled_write_bytes: 90112
+rusage ru_utime: 0.49721
+rusage ru_stime: 0.04931
+rusage ru_maxrss: 52540
+rusage ru_minflt: 8346
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 34
+rusage ru_nivcsw: 430
+Child rusage ru_utime: 0.018795
+Child rusage ru_stime: 0.040284
+Child rusage ru_maxrss: 52540
+Child rusage ru_minflt: 2152
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 80
+Child rusage ru_oublock: 488
+Child rusage ru_nvcsw: 45
+Child rusage ru_nivcsw: 175
+Status: PASSED 
+Ended: 1712928582.20 

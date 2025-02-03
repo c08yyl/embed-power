@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928581.34 
+python3-installer-native-0.7.0-r0: do_populate_sysroot_setscene
+Elapsed time: 0.26 seconds
+utime: 47
+stime: 3
+cutime: 2
+cstime: 3
+IO rchar: 1877420
+IO wchar: 2015234
+IO syscr: 389
+IO syscw: 250
+IO read_bytes: 258048
+IO write_bytes: 1069056
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.47693599999999997
+rusage ru_stime: 0.031533
+rusage ru_maxrss: 51896
+rusage ru_minflt: 7859
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 38
+rusage ru_nivcsw: 293
+Child rusage ru_utime: 0.020109
+Child rusage ru_stime: 0.03181
+Child rusage ru_maxrss: 51896
+Child rusage ru_minflt: 2171
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 496
+Child rusage ru_oublock: 1976
+Child rusage ru_nvcsw: 114
+Child rusage ru_nivcsw: 119
+Status: PASSED 
+Ended: 1712928581.60 

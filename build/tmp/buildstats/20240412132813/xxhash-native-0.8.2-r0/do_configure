@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928643.51 
+xxhash-native-0.8.2-r0: do_configure
+Elapsed time: 0.17 seconds
+utime: 44
+stime: 3
+cutime: 0
+cstime: 0
+IO rchar: 512392
+IO wchar: 56392
+IO syscr: 68
+IO syscw: 47
+IO read_bytes: 0
+IO write_bytes: 65536
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.446092
+rusage ru_stime: 0.035845999999999996
+rusage ru_maxrss: 56224
+rusage ru_minflt: 6960
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 113
+Child rusage ru_utime: 0.0018369999999999999
+Child rusage ru_stime: 0.008742999999999999
+Child rusage ru_maxrss: 51476
+Child rusage ru_minflt: 577
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 8
+Child rusage ru_nivcsw: 4
+Status: PASSED 
+Ended: 1712928643.68 

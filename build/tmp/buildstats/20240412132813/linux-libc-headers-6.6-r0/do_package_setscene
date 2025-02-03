@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928561.44 
+linux-libc-headers-6.6-r0: do_package_setscene
+Elapsed time: 1.93 seconds
+utime: 54
+stime: 14
+cutime: 16
+cstime: 53
+IO rchar: 10325766
+IO wchar: 14445266
+IO syscr: 12030
+IO syscw: 5727
+IO read_bytes: 1544192
+IO write_bytes: 9150464
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.5468879999999999
+rusage ru_stime: 0.149887
+rusage ru_maxrss: 50788
+rusage ru_minflt: 8305
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 376
+rusage ru_nvcsw: 4599
+rusage ru_nivcsw: 603
+Child rusage ru_utime: 0.162873
+Child rusage ru_stime: 0.538272
+Child rusage ru_maxrss: 48160
+Child rusage ru_minflt: 4475
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 3016
+Child rusage ru_oublock: 17496
+Child rusage ru_nvcsw: 2653
+Child rusage ru_nivcsw: 6705
+Status: PASSED 
+Ended: 1712928563.37 

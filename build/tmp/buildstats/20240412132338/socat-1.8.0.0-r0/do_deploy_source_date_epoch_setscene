@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928318.35 
+socat-1.8.0.0-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.19 seconds
+utime: 40
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 363725
+IO wchar: 54438
+IO syscr: 107
+IO syscw: 46
+IO read_bytes: 8192
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.40295699999999995
+rusage ru_stime: 0.028491
+rusage ru_maxrss: 52068
+rusage ru_minflt: 7670
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 3
+rusage ru_nivcsw: 100
+Child rusage ru_utime: 0.007613999999999999
+Child rusage ru_stime: 0.013953
+Child rusage ru_maxrss: 47568
+Child rusage ru_minflt: 931
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 27
+Child rusage ru_nivcsw: 158
+Status: PASSED 
+Ended: 1712928318.54 

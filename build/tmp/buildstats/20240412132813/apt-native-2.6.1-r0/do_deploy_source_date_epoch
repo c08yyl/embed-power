@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928655.30 
+apt-native-2.6.1-r0: do_deploy_source_date_epoch
+Elapsed time: 0.57 seconds
+utime: 64
+stime: 10
+cutime: 1
+cstime: 4
+IO rchar: 784400
+IO wchar: 132097
+IO syscr: 313
+IO syscw: 107
+IO read_bytes: 0
+IO write_bytes: 106496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.644084
+rusage ru_stime: 0.102295
+rusage ru_maxrss: 57004
+rusage ru_minflt: 14884
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 344
+Child rusage ru_utime: 0.018633
+Child rusage ru_stime: 0.043243
+Child rusage ru_maxrss: 57004
+Child rusage ru_minflt: 3848
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 57
+Child rusage ru_nivcsw: 63
+Status: PASSED 
+Ended: 1712928655.87 

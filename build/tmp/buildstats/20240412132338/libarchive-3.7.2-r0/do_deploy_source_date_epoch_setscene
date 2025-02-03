@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928369.29 
+libarchive-3.7.2-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.19 seconds
+utime: 39
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 379291
+IO wchar: 56002
+IO syscr: 112
+IO syscw: 48
+IO read_bytes: 8192
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.393445
+rusage ru_stime: 0.029613999999999998
+rusage ru_maxrss: 52336
+rusage ru_minflt: 7749
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 96
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 209
+Child rusage ru_utime: 0.010272
+Child rusage ru_stime: 0.008557
+Child rusage ru_maxrss: 47952
+Child rusage ru_minflt: 918
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1712928369.48 

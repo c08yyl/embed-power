@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928560.68 
+glibc-2.39+git-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.29 seconds
+utime: 46
+stime: 5
+cutime: 1
+cstime: 0
+IO rchar: 400252
+IO wchar: 59328
+IO syscr: 127
+IO syscw: 55
+IO read_bytes: 4096
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.460613
+rusage ru_stime: 0.054648999999999996
+rusage ru_maxrss: 51456
+rusage ru_minflt: 7997
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 3
+rusage ru_nivcsw: 244
+Child rusage ru_utime: 0.012098
+Child rusage ru_stime: 0.008591
+Child rusage ru_maxrss: 47148
+Child rusage ru_minflt: 946
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 24
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1712928560.96 

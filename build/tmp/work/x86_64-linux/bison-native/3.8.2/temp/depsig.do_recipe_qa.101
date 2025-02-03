@@ -1,0 +1,5 @@
+OEOuthashBasic
+15
+SSTATE_PKGSPEC=sstate:bison-native:x86_64-linux:3.8.2:r0:x86_64:11:
+task=recipe_qa
+drwx                                                                                       .

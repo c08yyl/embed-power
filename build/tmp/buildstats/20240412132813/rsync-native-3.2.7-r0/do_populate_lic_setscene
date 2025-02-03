@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928519.55 
+rsync-native-3.2.7-r0: do_populate_lic_setscene
+Elapsed time: 0.25 seconds
+utime: 45
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 732630
+IO wchar: 209304
+IO syscr: 237
+IO syscw: 76
+IO read_bytes: 16384
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.45885
+rusage ru_stime: 0.059687
+rusage ru_maxrss: 51880
+rusage ru_minflt: 8200
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 316
+Child rusage ru_utime: 0.014605
+Child rusage ru_stime: 0.022903
+Child rusage ru_maxrss: 51880
+Child rusage ru_minflt: 1644
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 152
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 45
+Status: PASSED 
+Ended: 1712928519.80 

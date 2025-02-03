@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929815.48 
+python3-3.12.2-r0: do_package_write_deb
+Elapsed time: 181.31 seconds
+utime: 3315
+stime: 411
+cutime: 18439
+cstime: 955
+IO rchar: 638952406
+IO wchar: 404511264
+IO syscr: 103325
+IO syscw: 36412
+IO read_bytes: 229048320
+IO write_bytes: 144621568
+IO cancelled_write_bytes: 48058368
+rusage ru_utime: 33.153374
+rusage ru_stime: 4.111254
+rusage ru_maxrss: 58340
+rusage ru_minflt: 48387
+rusage ru_majflt: 2
+rusage ru_inblock: 7808
+rusage ru_oublock: 320
+rusage ru_nvcsw: 278
+rusage ru_nivcsw: 10032
+Child rusage ru_utime: 184.394315
+Child rusage ru_stime: 9.553637
+Child rusage ru_maxrss: 359432
+Child rusage ru_minflt: 1289579
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 439552
+Child rusage ru_oublock: 282144
+Child rusage ru_nvcsw: 37022
+Child rusage ru_nivcsw: 85000
+Status: PASSED 
+Ended: 1712929996.79 

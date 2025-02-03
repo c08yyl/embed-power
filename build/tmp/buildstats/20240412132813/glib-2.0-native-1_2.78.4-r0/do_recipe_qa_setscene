@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928508.28 
+glib-2.0-native-1_2.78.4-r0: do_recipe_qa_setscene
+Elapsed time: 0.21 seconds
+utime: 58
+stime: 6
+cutime: 0
+cstime: 1
+IO rchar: 602433
+IO wchar: 66356
+IO syscr: 138
+IO syscw: 68
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.5826479999999999
+rusage ru_stime: 0.068546
+rusage ru_maxrss: 51776
+rusage ru_minflt: 8078
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 41
+rusage ru_nivcsw: 1923
+Child rusage ru_utime: 0.0017159999999999999
+Child rusage ru_stime: 0.016744
+Child rusage ru_maxrss: 47972
+Child rusage ru_minflt: 921
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 29
+Child rusage ru_nivcsw: 97
+Status: PASSED 
+Ended: 1712928508.49 

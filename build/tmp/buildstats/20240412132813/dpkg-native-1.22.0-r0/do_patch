@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928627.56 
+dpkg-native-1.22.0-r0: do_patch
+Elapsed time: 2.28 seconds
+utime: 36
+stime: 3
+cutime: 101
+cstime: 82
+IO rchar: 4835605
+IO wchar: 394527
+IO syscr: 7005
+IO syscw: 772
+IO read_bytes: 1159168
+IO write_bytes: 393216
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.36682
+rusage ru_stime: 0.035884
+rusage ru_maxrss: 52748
+rusage ru_minflt: 5472
+rusage ru_majflt: 4
+rusage ru_inblock: 344
+rusage ru_oublock: 160
+rusage ru_nvcsw: 83
+rusage ru_nivcsw: 87
+Child rusage ru_utime: 1.01205
+Child rusage ru_stime: 0.8210799999999999
+Child rusage ru_maxrss: 52748
+Child rusage ru_minflt: 125233
+Child rusage ru_majflt: 39
+Child rusage ru_inblock: 1920
+Child rusage ru_oublock: 608
+Child rusage ru_nvcsw: 2114
+Child rusage ru_nivcsw: 1377
+Status: PASSED 
+Ended: 1712928629.84 

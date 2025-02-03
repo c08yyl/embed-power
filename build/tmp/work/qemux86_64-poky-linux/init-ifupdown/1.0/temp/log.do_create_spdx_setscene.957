@@ -1,0 +1,30 @@
+DEBUG: Executing python function do_create_spdx_setscene
+DEBUG: Executing shell function sstate_unpack_package
+deploy/
+deploy/qemux86_64/
+deploy/qemux86_64/packages/
+deploy/qemux86_64/packages/init-ifupdown.spdx.json
+deploy/qemux86_64/packages/init-ifupdown-dbg.spdx.json
+deploy/qemux86_64/packages/init-ifupdown-dev.spdx.json
+deploy/qemux86_64/recipes/
+deploy/qemux86_64/recipes/recipe-init-ifupdown.spdx.json
+deploy/by-hash/
+deploy/by-hash/qemux86_64/
+deploy/by-hash/qemux86_64/sstate:init-ifupdown:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/
+deploy/by-hash/qemux86_64/sstate:init-ifupdown:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/init-ifupdown.spdx.json
+deploy/by-hash/qemux86_64/sstate:init-ifupdown:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/recipe-init-ifupdown.spdx.json
+deploy/by-hash/qemux86_64/sstate:init-ifupdown:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/init-ifupdown-dbg.spdx.json
+deploy/by-hash/qemux86_64/sstate:init-ifupdown:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/init-ifupdown-dev.spdx.json
+deploy/by-namespace/
+deploy/by-namespace/qemux86_64/
+deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_init-ifupdown-dbg-da4b850a-e365-5b51-954b-82b04bce12b6
+deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_init-ifupdown-1ff2349a-2f2e-53cf-8267-5ef25ca0fe56
+deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_recipe-init-ifupdown-bcc30790-7a90-5124-bb57-e2ea5ac53381
+deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_init-ifupdown-dev-8580b4b4-c9f6-5fe7-a895-01f0cfbf8074
+DEBUG: Shell function sstate_unpack_package finished
+DEBUG: Executing python function sstate_hardcode_path_unpack
+DEBUG: Python function sstate_hardcode_path_unpack finished
+DEBUG: Executing python function uninative_changeinterp
+DEBUG: Python function uninative_changeinterp finished
+DEBUG: Staging files from /kitchen/build/tmp/work/qemux86_64-poky-linux/init-ifupdown/1.0/spdx/deploy to /kitchen/build/tmp/deploy/spdx
+DEBUG: Python function do_create_spdx_setscene finished

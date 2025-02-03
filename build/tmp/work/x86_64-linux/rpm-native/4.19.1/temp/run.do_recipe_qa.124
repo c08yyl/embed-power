@@ -1,0 +1,45 @@
+def do_recipe_qa(d):
+    import re
+
+    def test_missing_metadata(pn, d):
+        fn = d.getVar("FILE")
+        srcfile = d.getVar('SRC_URI').split()
+        # Check that SUMMARY is not the same as the default from bitbake.conf
+        if d.getVar('SUMMARY') == d.expand("${PN} version ${PV}-${PR}"):
+            oe.qa.handle_error("missing-metadata", "Recipe {} in {} does not contain a SUMMARY. Please add an entry.".format(pn, fn), d)
+        if not d.getVar('HOMEPAGE'):
+            if srcfile and srcfile[0].startswith('file') or not d.getVar('SRC_URI'):
+                # We are only interested in recipes SRC_URI fetched from external sources
+                pass
+            else:
+                oe.qa.handle_error("missing-metadata", "Recipe {} in {} does not contain a HOMEPAGE. Please add an entry.".format(pn, fn), d)
+
+    def test_missing_maintainer(pn, d):
+        fn = d.getVar("FILE")
+        if pn.endswith("-native") or pn.startswith("nativesdk-") or "packagegroup-" in pn or "core-image-ptest-" in pn:
+            return
+        if not d.getVar('RECIPE_MAINTAINER'):
+            oe.qa.handle_error("missing-maintainer", "Recipe {} in {} does not have an assigned maintainer. Please add an entry into meta/conf/distro/include/maintainers.inc.".format(pn, fn), d)
+
+    def test_srcuri(pn, d):
+        skip = (d.getVar('INSANE_SKIP') or "").split()
+        if 'src-uri-bad' in skip:
+            bb.note("Recipe %s skipping qa checking: src-uri-bad" % pn)
+            return
+
+        if "${PN}" in d.getVar("SRC_URI", False):
+            oe.qa.handle_error("src-uri-bad", "%s: SRC_URI uses PN not BPN" % pn, d)
+
+        for url in d.getVar("SRC_URI").split():
+            # Search for github and gitlab URLs that pull unstable archives (comment for future greppers)
+            if re.search(r"git(hu|la)b\.com/.+/.+/archive/.+", url) or "//codeload.github.com/" in url:
+                oe.qa.handle_error("src-uri-bad", "%s: SRC_URI uses unstable GitHub/GitLab archives, convert recipe to use git protocol" % pn, d)
+
+    pn = d.getVar('PN')
+    test_missing_metadata(pn, d)
+    test_missing_maintainer(pn, d)
+    test_srcuri(pn, d)
+    oe.qa.exit_if_errors(d)
+
+do_recipe_qa(d)
+

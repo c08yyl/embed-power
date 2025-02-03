@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928600.06 
+util-linux-libuuid-native-2.39.3-r0: do_populate_sysroot_setscene
+Elapsed time: 0.22 seconds
+utime: 43
+stime: 9
+cutime: 0
+cstime: 3
+IO rchar: 728950
+IO wchar: 158723
+IO syscr: 231
+IO syscw: 79
+IO read_bytes: 20480
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.431828
+rusage ru_stime: 0.09848699999999999
+rusage ru_maxrss: 53248
+rusage ru_minflt: 8333
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 563
+Child rusage ru_utime: 0.009337
+Child rusage ru_stime: 0.031280999999999996
+Child rusage ru_maxrss: 53248
+Child rusage ru_minflt: 1638
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 88
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1712928600.29 

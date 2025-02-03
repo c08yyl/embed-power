@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928527.26 
+pbzip2-native-1.1.13-r0: do_populate_sysroot_setscene
+Elapsed time: 0.26 seconds
+utime: 45
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 812314
+IO wchar: 289141
+IO syscr: 241
+IO syscw: 68
+IO read_bytes: 36864
+IO write_bytes: 212992
+IO cancelled_write_bytes: 77824
+rusage ru_utime: 0.45141899999999996
+rusage ru_stime: 0.038915
+rusage ru_maxrss: 50856
+rusage ru_minflt: 7718
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 28
+rusage ru_nivcsw: 301
+Child rusage ru_utime: 0.022956999999999998
+Child rusage ru_stime: 0.019278999999999998
+Child rusage ru_maxrss: 50728
+Child rusage ru_minflt: 1815
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 72
+Child rusage ru_oublock: 320
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 39
+Status: PASSED 
+Ended: 1712928527.52 

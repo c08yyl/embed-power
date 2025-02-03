@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712930139.12 
+ncurses-6.4-r0: do_package_write_deb
+Elapsed time: 23.83 seconds
+utime: 474
+stime: 138
+cutime: 1056
+cstime: 304
+IO rchar: 49212066
+IO wchar: 27925555
+IO syscr: 24520
+IO syscw: 7192
+IO read_bytes: 22802432
+IO write_bytes: 9224192
+IO cancelled_write_bytes: 2740224
+rusage ru_utime: 4.747982
+rusage ru_stime: 1.382524
+rusage ru_maxrss: 53072
+rusage ru_minflt: 28897
+rusage ru_majflt: 3
+rusage ru_inblock: 1208
+rusage ru_oublock: 280
+rusage ru_nvcsw: 233
+rusage ru_nivcsw: 1674
+Child rusage ru_utime: 10.561371
+Child rusage ru_stime: 3.042483
+Child rusage ru_maxrss: 59400
+Child rusage ru_minflt: 318608
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 43328
+Child rusage ru_oublock: 17736
+Child rusage ru_nvcsw: 8427
+Child rusage ru_nivcsw: 15997
+Status: PASSED 
+Ended: 1712930162.95 

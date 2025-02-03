@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928589.23 
+libcap-ng-native-0.8.4-r0: do_populate_sysroot_setscene
+Elapsed time: 0.34 seconds
+utime: 50
+stime: 2
+cutime: 2
+cstime: 3
+IO rchar: 908846
+IO wchar: 383885
+IO syscr: 300
+IO syscw: 108
+IO read_bytes: 28672
+IO write_bytes: 270336
+IO cancelled_write_bytes: 69632
+rusage ru_utime: 0.500471
+rusage ru_stime: 0.026143999999999997
+rusage ru_maxrss: 53000
+rusage ru_minflt: 8360
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 290
+Child rusage ru_utime: 0.022223
+Child rusage ru_stime: 0.035918
+Child rusage ru_maxrss: 53000
+Child rusage ru_minflt: 2256
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 56
+Child rusage ru_oublock: 424
+Child rusage ru_nvcsw: 51
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1712928589.57 

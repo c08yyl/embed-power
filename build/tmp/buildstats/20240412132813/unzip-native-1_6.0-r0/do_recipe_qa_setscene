@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928583.77 
+unzip-native-1_6.0-r0: do_recipe_qa_setscene
+Elapsed time: 0.36 seconds
+utime: 45
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 583619
+IO wchar: 51438
+IO syscr: 106
+IO syscw: 44
+IO read_bytes: 4096
+IO write_bytes: 45056
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.457076
+rusage ru_stime: 0.047535
+rusage ru_maxrss: 52724
+rusage ru_minflt: 8078
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 598
+Child rusage ru_utime: 0.00641
+Child rusage ru_stime: 0.013815
+Child rusage ru_maxrss: 48188
+Child rusage ru_minflt: 912
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 31
+Child rusage ru_nivcsw: 44
+Status: PASSED 
+Ended: 1712928584.13 

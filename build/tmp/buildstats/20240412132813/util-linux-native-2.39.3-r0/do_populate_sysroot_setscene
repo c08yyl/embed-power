@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928567.12 
+util-linux-native-2.39.3-r0: do_populate_sysroot_setscene
+Elapsed time: 1.06 seconds
+utime: 62
+stime: 8
+cutime: 25
+cstime: 34
+IO rchar: 17517874
+IO wchar: 22681057
+IO syscr: 2947
+IO syscw: 1482
+IO read_bytes: 1617920
+IO write_bytes: 15187968
+IO cancelled_write_bytes: 6463488
+rusage ru_utime: 0.624207
+rusage ru_stime: 0.087541
+rusage ru_maxrss: 53080
+rusage ru_minflt: 8744
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 567
+rusage ru_nivcsw: 167
+Child rusage ru_utime: 0.259447
+Child rusage ru_stime: 0.346441
+Child rusage ru_maxrss: 53080
+Child rusage ru_minflt: 21550
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 3160
+Child rusage ru_oublock: 29528
+Child rusage ru_nvcsw: 893
+Child rusage ru_nivcsw: 1395
+Status: PASSED 
+Ended: 1712928568.18 

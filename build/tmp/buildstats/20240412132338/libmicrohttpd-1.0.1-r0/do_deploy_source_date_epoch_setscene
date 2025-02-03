@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928405.64 
+libmicrohttpd-1.0.1-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.29 seconds
+utime: 37
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 364744
+IO wchar: 56977
+IO syscr: 113
+IO syscw: 49
+IO read_bytes: 12288
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.378297
+rusage ru_stime: 0.042899
+rusage ru_maxrss: 52452
+rusage ru_minflt: 7763
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 104
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 2068
+Child rusage ru_utime: 0.003067
+Child rusage ru_stime: 0.016527999999999998
+Child rusage ru_maxrss: 48120
+Child rusage ru_minflt: 927
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 41
+Status: PASSED 
+Ended: 1712928405.93 

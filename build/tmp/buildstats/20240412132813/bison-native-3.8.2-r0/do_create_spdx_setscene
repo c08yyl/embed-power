@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928597.04 
+bison-native-3.8.2-r0: do_create_spdx_setscene
+Elapsed time: 0.28 seconds
+utime: 45
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 682657
+IO wchar: 95032
+IO syscr: 223
+IO syscw: 69
+IO read_bytes: 8192
+IO write_bytes: 65536
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.453297
+rusage ru_stime: 0.059643999999999996
+rusage ru_maxrss: 53188
+rusage ru_minflt: 8309
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 266
+Child rusage ru_utime: 0.014572
+Child rusage ru_stime: 0.023882
+Child rusage ru_maxrss: 53188
+Child rusage ru_minflt: 1601
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 38
+Child rusage ru_nivcsw: 52
+Status: PASSED 
+Ended: 1712928597.32 

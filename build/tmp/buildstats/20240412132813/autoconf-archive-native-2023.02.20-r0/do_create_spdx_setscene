@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928616.03 
+autoconf-archive-native-2023.02.20-r0: do_create_spdx_setscene
+Elapsed time: 0.22 seconds
+utime: 44
+stime: 5
+cutime: 2
+cstime: 1
+IO rchar: 684578
+IO wchar: 95951
+IO syscr: 223
+IO syscw: 69
+IO read_bytes: 8192
+IO write_bytes: 65536
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.447042
+rusage ru_stime: 0.056826999999999996
+rusage ru_maxrss: 53812
+rusage ru_minflt: 8316
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 280
+Child rusage ru_utime: 0.02213
+Child rusage ru_stime: 0.015664
+Child rusage ru_maxrss: 53812
+Child rusage ru_minflt: 1598
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1712928616.25 

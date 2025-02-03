@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928262.85 
+gawk-5.3.0-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.25 seconds
+utime: 39
+stime: 5
+cutime: 2
+cstime: 3
+IO rchar: 599783
+IO wchar: 268542
+IO syscr: 350
+IO syscw: 239
+IO read_bytes: 8192
+IO write_bytes: 192512
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.396221
+rusage ru_stime: 0.050997999999999995
+rusage ru_maxrss: 50548
+rusage ru_minflt: 7826
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 70
+rusage ru_nivcsw: 131
+Child rusage ru_utime: 0.021032
+Child rusage ru_stime: 0.031806
+Child rusage ru_maxrss: 50548
+Child rusage ru_minflt: 1669
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 232
+Child rusage ru_nvcsw: 47
+Child rusage ru_nivcsw: 123
+Status: PASSED 
+Ended: 1712928263.10 

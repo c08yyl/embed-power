@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928537.28 
+opkg-utils-0.6.3-r0: do_packagedata_setscene
+Elapsed time: 0.25 seconds
+utime: 33
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 443161
+IO wchar: 106977
+IO syscr: 209
+IO syscw: 92
+IO read_bytes: 8192
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.335819
+rusage ru_stime: 0.046858
+rusage ru_maxrss: 49960
+rusage ru_minflt: 7432
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 120
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 122
+Child rusage ru_utime: 0.012355999999999999
+Child rusage ru_stime: 0.028037
+Child rusage ru_maxrss: 49960
+Child rusage ru_minflt: 1630
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 104
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 73
+Status: PASSED 
+Ended: 1712928537.53 

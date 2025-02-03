@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929215.70 
+openssl-3.2.1-r0: do_package_write_deb
+Elapsed time: 1306.37 seconds
+utime: 25574
+stime: 2604
+cutime: 148983
+cstime: 1377
+IO rchar: 5260898470
+IO wchar: 3482070433
+IO syscr: 521408
+IO syscw: 253146
+IO read_bytes: 2131247104
+IO write_bytes: 1279664128
+IO cancelled_write_bytes: 22302720
+rusage ru_utime: 255.748432
+rusage ru_stime: 26.041036
+rusage ru_maxrss: 55000
+rusage ru_minflt: 26741
+rusage ru_majflt: 214
+rusage ru_inblock: 163992
+rusage ru_oublock: 304
+rusage ru_nvcsw: 399
+rusage ru_nivcsw: 84869
+Child rusage ru_utime: 1489.838716
+Child rusage ru_stime: 13.778709
+Child rusage ru_maxrss: 541828
+Child rusage ru_minflt: 645795
+Child rusage ru_majflt: 52
+Child rusage ru_inblock: 3998600
+Child rusage ru_oublock: 2499040
+Child rusage ru_nvcsw: 143938
+Child rusage ru_nivcsw: 571736
+Status: PASSED 
+Ended: 1712930522.07 

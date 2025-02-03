@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928543.65 
+python3-mako-native-1.3.2-r0: do_populate_sysroot_setscene
+Elapsed time: 0.33 seconds
+utime: 51
+stime: 1
+cutime: 1
+cstime: 3
+IO rchar: 1554146
+IO wchar: 1470348
+IO syscr: 412
+IO syscw: 346
+IO read_bytes: 180224
+IO write_bytes: 860160
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.511432
+rusage ru_stime: 0.018529999999999998
+rusage ru_maxrss: 51496
+rusage ru_minflt: 7838
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 136
+rusage ru_nvcsw: 66
+rusage ru_nivcsw: 622
+Child rusage ru_utime: 0.018392
+Child rusage ru_stime: 0.038987
+Child rusage ru_maxrss: 51496
+Child rusage ru_minflt: 2024
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 344
+Child rusage ru_oublock: 1544
+Child rusage ru_nvcsw: 107
+Child rusage ru_nivcsw: 278
+Status: PASSED 
+Ended: 1712928543.99 

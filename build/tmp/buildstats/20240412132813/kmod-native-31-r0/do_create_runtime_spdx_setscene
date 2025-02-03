@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928576.56 
+kmod-native-31-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.20 seconds
+utime: 49
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 618669
+IO wchar: 61289
+IO syscr: 134
+IO syscw: 61
+IO read_bytes: 4096
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.49405299999999996
+rusage ru_stime: 0.051380999999999996
+rusage ru_maxrss: 53228
+rusage ru_minflt: 8298
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 428
+Child rusage ru_utime: 0.005514
+Child rusage ru_stime: 0.013824999999999999
+Child rusage ru_maxrss: 48488
+Child rusage ru_minflt: 944
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1712928576.75 

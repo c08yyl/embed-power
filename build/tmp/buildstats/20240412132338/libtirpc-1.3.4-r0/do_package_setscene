@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928371.53 
+libtirpc-1.3.4-r0: do_package_setscene
+Elapsed time: 0.54 seconds
+utime: 43
+stime: 8
+cutime: 3
+cstime: 13
+IO rchar: 3049879
+IO wchar: 3921996
+IO syscr: 2727
+IO syscw: 1179
+IO read_bytes: 516096
+IO write_bytes: 2236416
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.43510299999999996
+rusage ru_stime: 0.087819
+rusage ru_maxrss: 50864
+rusage ru_minflt: 8333
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 200
+rusage ru_nvcsw: 829
+rusage ru_nivcsw: 416
+Child rusage ru_utime: 0.03736
+Child rusage ru_stime: 0.138983
+Child rusage ru_maxrss: 48088
+Child rusage ru_minflt: 2963
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1000
+Child rusage ru_oublock: 4168
+Child rusage ru_nvcsw: 368
+Child rusage ru_nivcsw: 1441
+Status: PASSED 
+Ended: 1712928372.08 

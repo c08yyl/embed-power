@@ -1,0 +1,115 @@
+DEBUG: Executing python function extend_recipe_sysroot
+NOTE: Direct dependencies are ['virtual:native:/kitchen/meta/recipes-devtools/pseudo/pseudo_git.bb:do_populate_sysroot']
+NOTE: Installed into sysroot: ['pseudo-native']
+NOTE: Skipping as already exists in sysroot: []
+DEBUG: Python function extend_recipe_sysroot finished
+DEBUG: Executing python function do_package_setscene
+DEBUG: Executing shell function sstate_unpack_package
+package/
+package/usr/
+package/usr/src/
+package/usr/src/debug/
+package/usr/src/debug/v86d/
+package/usr/src/debug/v86d/0.1.10/
+package/usr/src/debug/v86d/0.1.10/v86_common.c
+package/usr/src/debug/v86d/0.1.10/v86.h
+package/usr/src/debug/v86d/0.1.10/libs/
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/prim_ops.c
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/sys.c
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/decode.c
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/ops2.c
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/fpu.h
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/decode.h
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/regs.h
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/x86emui.h
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/types.h
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/ops.h
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/prim_ops.h
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/ops.c
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/fpu.c
+package/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu.h
+package/usr/src/debug/v86d/0.1.10/v86.c
+package/usr/src/debug/v86d/0.1.10/v86_x86emu.c
+package/usr/src/debug/v86d/0.1.10/v86_mem.c
+package/sbin/
+package/sbin/.debug/
+package/sbin/.debug/v86d
+package/sbin/v86d
+packages-split/
+packages-split/v86d-dbg/
+packages-split/v86d-dbg/sbin/
+packages-split/v86d-dbg/sbin/.debug/
+packages-split/v86d-dbg/sbin/.debug/v86d
+packages-split/v86d-doc/
+packages-split/v86d-dev/
+packages-split/v86d/
+packages-split/v86d/sbin/
+packages-split/v86d/sbin/v86d
+packages-split/v86d.shlibdeps
+packages-split/v86d-src/
+packages-split/v86d-src/usr/
+packages-split/v86d-src/usr/src/
+packages-split/v86d-src/usr/src/debug/
+packages-split/v86d-src/usr/src/debug/v86d/
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/v86_common.c
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/v86.h
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/prim_ops.c
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/sys.c
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/decode.c
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/ops2.c
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/fpu.h
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/decode.h
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/regs.h
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/x86emui.h
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/types.h
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/ops.h
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/prim_ops.h
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/ops.c
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/fpu.c
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu.h
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/v86.c
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/v86_x86emu.c
+packages-split/v86d-src/usr/src/debug/v86d/0.1.10/v86_mem.c
+packages-split/v86d-locale/
+packages-split/v86d-staticdev/
+pkgdata/
+pkgdata/runtime-rprovides/
+pkgdata/v86d
+pkgdata/runtime-reverse/
+pkgdata/runtime-reverse/v86d-dbg
+pkgdata/runtime-reverse/v86d-dev
+pkgdata/runtime-reverse/v86d
+pkgdata/runtime-reverse/v86d-src
+pkgdata/shlibs2/
+pkgdata/runtime/
+pkgdata/runtime/v86d-dbg
+pkgdata/runtime/v86d-doc
+pkgdata/runtime/v86d.packaged
+pkgdata/runtime/v86d-dev
+pkgdata/runtime/v86d
+pkgdata/runtime/v86d-src.packaged
+pkgdata/runtime/v86d-src
+pkgdata/runtime/v86d-locale
+pkgdata/runtime/v86d-staticdev
+pkgdata/runtime/v86d-dev.packaged
+pkgdata/runtime/v86d-dbg.packaged
+pkgdata/extended/
+pkgdata/extended/v86d-locale.json.zstd
+pkgdata/extended/v86d-staticdev.json.zstd
+pkgdata/extended/v86d-dev.json.zstd
+pkgdata/extended/v86d-doc.json.zstd
+pkgdata/extended/v86d-src.json.zstd
+pkgdata/extended/v86d.json.zstd
+pkgdata/extended/v86d-dbg.json.zstd
+DEBUG: Shell function sstate_unpack_package finished
+DEBUG: Executing python function sstate_hardcode_path_unpack
+DEBUG: Python function sstate_hardcode_path_unpack finished
+DEBUG: Executing python function uninative_changeinterp
+DEBUG: Python function uninative_changeinterp finished
+DEBUG: Python function do_package_setscene finished

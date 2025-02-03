@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928315.77 
+pseudo-native-1.9.0+git-r0: do_populate_sysroot_setscene
+Elapsed time: 0.28 seconds
+utime: 43
+stime: 4
+cutime: 1
+cstime: 4
+IO rchar: 2013280
+IO wchar: 2006767
+IO syscr: 355
+IO syscw: 171
+IO read_bytes: 335872
+IO write_bytes: 1232896
+IO cancelled_write_bytes: 372736
+rusage ru_utime: 0.43345
+rusage ru_stime: 0.045229
+rusage ru_maxrss: 53460
+rusage ru_minflt: 8209
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 24
+rusage ru_nivcsw: 347
+Child rusage ru_utime: 0.014204999999999999
+Child rusage ru_stime: 0.046557
+Child rusage ru_maxrss: 53460
+Child rusage ru_minflt: 2616
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 656
+Child rusage ru_oublock: 2312
+Child rusage ru_nvcsw: 79
+Child rusage ru_nivcsw: 58
+Status: PASSED 
+Ended: 1712928316.05 

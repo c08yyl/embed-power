@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928579.45 
+libpng-native-1.6.42-r0: do_populate_sysroot_setscene
+Elapsed time: 0.41 seconds
+utime: 49
+stime: 3
+cutime: 2
+cstime: 4
+IO rchar: 1427759
+IO wchar: 1126948
+IO syscr: 336
+IO syscw: 170
+IO read_bytes: 184320
+IO write_bytes: 655360
+IO cancelled_write_bytes: 77824
+rusage ru_utime: 0.491801
+rusage ru_stime: 0.034852
+rusage ru_maxrss: 52496
+rusage ru_minflt: 8280
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 36
+rusage ru_nivcsw: 367
+Child rusage ru_utime: 0.020111999999999998
+Child rusage ru_stime: 0.040295
+Child rusage ru_maxrss: 52496
+Child rusage ru_minflt: 2223
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 360
+Child rusage ru_oublock: 1160
+Child rusage ru_nvcsw: 68
+Child rusage ru_nivcsw: 159
+Status: PASSED 
+Ended: 1712928579.87 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928560.14 
+libxml2-native-2.12.5-r0: do_populate_sysroot_setscene
+Elapsed time: 0.35 seconds
+utime: 52
+stime: 6
+cutime: 2
+cstime: 6
+IO rchar: 5537299
+IO wchar: 7719074
+IO syscr: 830
+IO syscw: 702
+IO read_bytes: 966656
+IO write_bytes: 4063232
+IO cancelled_write_bytes: 102400
+rusage ru_utime: 0.524451
+rusage ru_stime: 0.066534
+rusage ru_maxrss: 52592
+rusage ru_minflt: 8390
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 144
+rusage ru_nvcsw: 79
+rusage ru_nivcsw: 771
+Child rusage ru_utime: 0.025568999999999998
+Child rusage ru_stime: 0.068578
+Child rusage ru_maxrss: 52592
+Child rusage ru_minflt: 2841
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1864
+Child rusage ru_oublock: 7792
+Child rusage ru_nvcsw: 186
+Child rusage ru_nivcsw: 144
+Status: PASSED 
+Ended: 1712928560.49 

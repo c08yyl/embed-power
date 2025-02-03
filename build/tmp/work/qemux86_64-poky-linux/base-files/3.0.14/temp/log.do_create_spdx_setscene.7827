@@ -1,0 +1,33 @@
+DEBUG: Executing python function do_create_spdx_setscene
+DEBUG: Executing shell function sstate_unpack_package
+deploy/
+deploy/qemux86_64/
+deploy/qemux86_64/packages/
+deploy/qemux86_64/packages/base-files-dbg.spdx.json
+deploy/qemux86_64/packages/base-files-doc.spdx.json
+deploy/qemux86_64/packages/base-files-dev.spdx.json
+deploy/qemux86_64/packages/base-files.spdx.json
+deploy/qemux86_64/recipes/
+deploy/qemux86_64/recipes/recipe-base-files.spdx.json
+deploy/by-hash/
+deploy/by-hash/qemux86_64/
+deploy/by-hash/qemux86_64/sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:/
+deploy/by-hash/qemux86_64/sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:/base-files-dbg.spdx.json
+deploy/by-hash/qemux86_64/sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:/base-files-doc.spdx.json
+deploy/by-hash/qemux86_64/sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:/base-files-dev.spdx.json
+deploy/by-hash/qemux86_64/sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:/base-files.spdx.json
+deploy/by-hash/qemux86_64/sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:/recipe-base-files.spdx.json
+deploy/by-namespace/
+deploy/by-namespace/qemux86_64/
+deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_base-files-dev-a752bc7c-388a-5a14-984a-72e888717fd3
+deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_base-files-dbg-cd488d25-28a7-5270-83aa-05e316577ae5
+deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_base-files-doc-e075139e-39a9-5c58-a8e1-027d0c5d2290
+deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_recipe-base-files-c146050a-959a-5836-966f-98e79d6e765f
+deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_base-files-ee9424e3-1d7e-5739-b9cd-237a1a6f843f
+DEBUG: Shell function sstate_unpack_package finished
+DEBUG: Executing python function sstate_hardcode_path_unpack
+DEBUG: Python function sstate_hardcode_path_unpack finished
+DEBUG: Executing python function uninative_changeinterp
+DEBUG: Python function uninative_changeinterp finished
+DEBUG: Staging files from /kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/spdx/deploy to /kitchen/build/tmp/deploy/spdx
+DEBUG: Python function do_create_spdx_setscene finished

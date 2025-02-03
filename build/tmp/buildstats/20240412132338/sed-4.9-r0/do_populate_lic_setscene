@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928269.66 
+sed-4.9-r0: do_populate_lic_setscene
+Elapsed time: 0.21 seconds
+utime: 40
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 530299
+IO wchar: 208837
+IO syscr: 228
+IO syscw: 68
+IO read_bytes: 16384
+IO write_bytes: 135168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.40769299999999997
+rusage ru_stime: 0.031974999999999996
+rusage ru_maxrss: 50792
+rusage ru_minflt: 7781
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 81
+Child rusage ru_utime: 0.023395
+Child rusage ru_stime: 0.013937999999999999
+Child rusage ru_maxrss: 50792
+Child rusage ru_minflt: 1612
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 160
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1712928269.87 

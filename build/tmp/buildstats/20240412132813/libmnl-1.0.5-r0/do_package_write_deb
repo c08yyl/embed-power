@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929028.50 
+libmnl-1.0.5-r0: do_package_write_deb
+Elapsed time: 8.97 seconds
+utime: 102
+stime: 93
+cutime: 49
+cstime: 45
+IO rchar: 3972938
+IO wchar: 1889412
+IO syscr: 2411
+IO syscw: 591
+IO read_bytes: 2306048
+IO write_bytes: 1646592
+IO cancelled_write_bytes: 81920
+rusage ru_utime: 1.028148
+rusage ru_stime: 0.9308339999999999
+rusage ru_maxrss: 54924
+rusage ru_minflt: 24217
+rusage ru_majflt: 1
+rusage ru_inblock: 2032
+rusage ru_oublock: 288
+rusage ru_nvcsw: 96
+rusage ru_nivcsw: 677
+Child rusage ru_utime: 0.496479
+Child rusage ru_stime: 0.453989
+Child rusage ru_maxrss: 52504
+Child rusage ru_minflt: 59788
+Child rusage ru_majflt: 29
+Child rusage ru_inblock: 2472
+Child rusage ru_oublock: 2928
+Child rusage ru_nvcsw: 418
+Child rusage ru_nivcsw: 692
+Status: PASSED 
+Ended: 1712929037.46 

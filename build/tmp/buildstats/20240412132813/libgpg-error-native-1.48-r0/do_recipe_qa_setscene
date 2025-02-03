@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928611.76 
+libgpg-error-native-1.48-r0: do_recipe_qa_setscene
+Elapsed time: 0.36 seconds
+utime: 50
+stime: 7
+cutime: 0
+cstime: 1
+IO rchar: 622466
+IO wchar: 60665
+IO syscr: 127
+IO syscw: 56
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.5070939999999999
+rusage ru_stime: 0.07192799999999999
+rusage ru_maxrss: 53556
+rusage ru_minflt: 8309
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 733
+Child rusage ru_utime: 0.006343
+Child rusage ru_stime: 0.013673
+Child rusage ru_maxrss: 49648
+Child rusage ru_minflt: 932
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 27
+Child rusage ru_nivcsw: 31
+Status: PASSED 
+Ended: 1712928612.12 

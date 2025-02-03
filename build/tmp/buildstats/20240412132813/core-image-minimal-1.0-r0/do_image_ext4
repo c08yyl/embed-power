@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712931030.99 
+core-image-minimal-1.0-r0: do_image_ext4
+Elapsed time: 3.51 seconds
+utime: 206
+stime: 20
+cutime: 36
+cstime: 28
+IO rchar: 29236045
+IO wchar: 27824994
+IO syscr: 6273
+IO syscw: 27259
+IO read_bytes: 3002368
+IO write_bytes: 27570176
+IO cancelled_write_bytes: 0
+rusage ru_utime: 2.064122
+rusage ru_stime: 0.20079
+rusage ru_maxrss: 55008
+rusage ru_minflt: 18189
+rusage ru_majflt: 0
+rusage ru_inblock: 680
+rusage ru_oublock: 152
+rusage ru_nvcsw: 1781
+rusage ru_nivcsw: 508
+Child rusage ru_utime: 0.360015
+Child rusage ru_stime: 0.283823
+Child rusage ru_maxrss: 52264
+Child rusage ru_minflt: 5443
+Child rusage ru_majflt: 48
+Child rusage ru_inblock: 5184
+Child rusage ru_oublock: 53696
+Child rusage ru_nvcsw: 3306
+Child rusage ru_nivcsw: 1142
+Status: PASSED 
+Ended: 1712931034.50 

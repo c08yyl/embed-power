@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928279.11 
+linux-yocto-6.6.23+git-r0: do_create_spdx_setscene
+Elapsed time: 0.82 seconds
+utime: 66
+stime: 11
+cutime: 8
+cstime: 43
+IO rchar: 29327334
+IO wchar: 54064546
+IO syscr: 5242
+IO syscw: 6123
+IO read_bytes: 1003520
+IO write_bytes: 27250688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.663503
+rusage ru_stime: 0.11848199999999999
+rusage ru_maxrss: 54032
+rusage ru_minflt: 8924
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 896
+rusage ru_nvcsw: 1067
+rusage ru_nivcsw: 976
+Child rusage ru_utime: 0.084067
+Child rusage ru_stime: 0.43710299999999996
+Child rusage ru_maxrss: 54032
+Child rusage ru_minflt: 10638
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1928
+Child rusage ru_oublock: 52328
+Child rusage ru_nvcsw: 2694
+Child rusage ru_nivcsw: 2611
+Status: PASSED 
+Ended: 1712928279.93 

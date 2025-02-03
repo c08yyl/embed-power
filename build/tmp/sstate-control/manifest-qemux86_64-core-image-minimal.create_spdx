@@ -1,0 +1,10 @@
+/kitchen/build/tmp/deploy/spdx/qemux86_64/recipes/recipe-core-image-minimal.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:core-image-minimal:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/recipe-core-image-minimal.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_recipe-core-image-minimal-2a8d3a1d-ada3-5b76-a38d-a299411c391e
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:core-image-minimal:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/qemux86_64/recipes/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/by-hash/

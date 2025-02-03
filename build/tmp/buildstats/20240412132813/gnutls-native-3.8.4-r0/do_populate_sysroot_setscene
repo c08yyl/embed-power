@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928594.59 
+gnutls-native-3.8.4-r0: do_populate_sysroot_setscene
+Elapsed time: 0.39 seconds
+utime: 53
+stime: 5
+cutime: 3
+cstime: 7
+IO rchar: 6157064
+IO wchar: 7732855
+IO syscr: 751
+IO syscw: 545
+IO read_bytes: 1191936
+IO write_bytes: 4354048
+IO cancelled_write_bytes: 811008
+rusage ru_utime: 0.53625
+rusage ru_stime: 0.052869
+rusage ru_maxrss: 53252
+rusage ru_minflt: 8492
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 47
+rusage ru_nivcsw: 487
+Child rusage ru_utime: 0.033449
+Child rusage ru_stime: 0.07710499999999999
+Child rusage ru_maxrss: 53252
+Child rusage ru_minflt: 4069
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2328
+Child rusage ru_oublock: 8400
+Child rusage ru_nvcsw: 192
+Child rusage ru_nivcsw: 168
+Status: PASSED 
+Ended: 1712928594.99 

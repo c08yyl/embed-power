@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929130.77 
+libpcre2-10.43-r0: do_package_write_deb
+Elapsed time: 20.81 seconds
+utime: 378
+stime: 116
+cutime: 750
+cstime: 126
+IO rchar: 31767195
+IO wchar: 18561662
+IO syscr: 8038
+IO syscw: 2211
+IO read_bytes: 11612160
+IO write_bytes: 7311360
+IO cancelled_write_bytes: 2011136
+rusage ru_utime: 3.787436
+rusage ru_stime: 1.160336
+rusage ru_maxrss: 55164
+rusage ru_minflt: 26344
+rusage ru_majflt: 1
+rusage ru_inblock: 3032
+rusage ru_oublock: 288
+rusage ru_nvcsw: 316
+rusage ru_nivcsw: 1505
+Child rusage ru_utime: 7.507602
+Child rusage ru_stime: 1.261819
+Child rusage ru_maxrss: 52624
+Child rusage ru_minflt: 185051
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 19648
+Child rusage ru_oublock: 13992
+Child rusage ru_nvcsw: 2312
+Child rusage ru_nivcsw: 4602
+Status: PASSED 
+Ended: 1712929151.58 

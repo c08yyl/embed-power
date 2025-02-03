@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928540.25 
+wayland-native-1.22.0-r0: do_populate_lic_setscene
+Elapsed time: 0.40 seconds
+utime: 52
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 661277
+IO wchar: 76318
+IO syscr: 228
+IO syscw: 77
+IO read_bytes: 8192
+IO write_bytes: 73728
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.5227809999999999
+rusage ru_stime: 0.038336999999999996
+rusage ru_maxrss: 51712
+rusage ru_minflt: 8153
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 534
+Child rusage ru_utime: 0.011647999999999999
+Child rusage ru_stime: 0.024444
+Child rusage ru_maxrss: 51712
+Child rusage ru_minflt: 1594
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 39
+Child rusage ru_nivcsw: 139
+Status: PASSED 
+Ended: 1712928540.65 

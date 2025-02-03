@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928580.77 
+python3-packaging-native-23.2-r0: do_recipe_qa_setscene
+Elapsed time: 0.36 seconds
+utime: 45
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 575206
+IO wchar: 57057
+IO syscr: 117
+IO syscw: 50
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.452694
+rusage ru_stime: 0.055659
+rusage ru_maxrss: 52012
+rusage ru_minflt: 7759
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 543
+Child rusage ru_utime: 0.008053
+Child rusage ru_stime: 0.014371
+Child rusage ru_maxrss: 48120
+Child rusage ru_minflt: 914
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 140
+Status: PASSED 
+Ended: 1712928581.12 

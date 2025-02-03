@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928382.18 
+linux-yocto-6.6.23+git-r0: do_package_setscene
+Elapsed time: 17.29 seconds
+utime: 135
+stime: 58
+cutime: 521
+cstime: 979
+IO rchar: 1274545166
+IO wchar: 1984102945
+IO syscr: 168502
+IO syscw: 660077
+IO read_bytes: 274239488
+IO write_bytes: 993607680
+IO cancelled_write_bytes: 0
+rusage ru_utime: 1.355328
+rusage ru_stime: 0.586758
+rusage ru_maxrss: 56752
+rusage ru_minflt: 11740
+rusage ru_majflt: 0
+rusage ru_inblock: 80
+rusage ru_oublock: 2024
+rusage ru_nvcsw: 25791
+rusage ru_nivcsw: 823
+Child rusage ru_utime: 5.218879
+Child rusage ru_stime: 9.793263
+Child rusage ru_maxrss: 99300
+Child rusage ru_minflt: 35549
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 535544
+Child rusage ru_oublock: 1938616
+Child rusage ru_nvcsw: 103860
+Child rusage ru_nivcsw: 114643
+Status: PASSED 
+Ended: 1712928399.47 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929666.51 
+e2fsprogs-1.47.0-r0: do_package_write_deb
+Elapsed time: 53.06 seconds
+utime: 787
+stime: 153
+cutime: 2215
+cstime: 418
+IO rchar: 127494897
+IO wchar: 78757356
+IO syscr: 32719
+IO syscw: 8892
+IO read_bytes: 47271936
+IO write_bytes: 31854592
+IO cancelled_write_bytes: 10387456
+rusage ru_utime: 7.8741959999999995
+rusage ru_stime: 1.539825
+rusage ru_maxrss: 54896
+rusage ru_minflt: 34510
+rusage ru_majflt: 2
+rusage ru_inblock: 4440
+rusage ru_oublock: 296
+rusage ru_nvcsw: 168
+rusage ru_nivcsw: 2872
+Child rusage ru_utime: 22.15686
+Child rusage ru_stime: 4.184481
+Child rusage ru_maxrss: 120780
+Child rusage ru_minflt: 622115
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 87888
+Child rusage ru_oublock: 61920
+Child rusage ru_nvcsw: 10202
+Child rusage ru_nivcsw: 20366
+Status: PASSED 
+Ended: 1712929719.57 

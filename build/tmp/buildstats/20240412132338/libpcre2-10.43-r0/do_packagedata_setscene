@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928392.99 
+libpcre2-10.43-r0: do_packagedata_setscene
+Elapsed time: 0.25 seconds
+utime: 40
+stime: 2
+cutime: 1
+cstime: 2
+IO rchar: 519023
+IO wchar: 191845
+IO syscr: 227
+IO syscw: 149
+IO read_bytes: 24576
+IO write_bytes: 192512
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.405535
+rusage ru_stime: 0.029265
+rusage ru_maxrss: 52772
+rusage ru_minflt: 7896
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 112
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 488
+Child rusage ru_utime: 0.018837
+Child rusage ru_stime: 0.024849
+Child rusage ru_maxrss: 52772
+Child rusage ru_minflt: 1641
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 264
+Child rusage ru_nvcsw: 36
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1712928393.24 

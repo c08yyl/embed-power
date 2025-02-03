@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928252.65 
+libtool-cross-2.4.7-r0: do_populate_lic_setscene
+Elapsed time: 0.25 seconds
+utime: 33
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 525601
+IO wchar: 247610
+IO syscr: 226
+IO syscw: 70
+IO read_bytes: 16384
+IO write_bytes: 155648
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.335584
+rusage ru_stime: 0.05463
+rusage ru_maxrss: 50528
+rusage ru_minflt: 7699
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 210
+Child rusage ru_utime: 0.014756
+Child rusage ru_stime: 0.020765
+Child rusage ru_maxrss: 50528
+Child rusage ru_minflt: 1647
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 200
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1712928252.90 

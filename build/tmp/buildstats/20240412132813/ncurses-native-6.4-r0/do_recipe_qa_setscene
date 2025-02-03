@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928604.48 
+ncurses-native-6.4-r0: do_recipe_qa_setscene
+Elapsed time: 0.45 seconds
+utime: 48
+stime: 6
+cutime: 0
+cstime: 0
+IO rchar: 621635
+IO wchar: 58096
+IO syscr: 123
+IO syscw: 53
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.48456899999999997
+rusage ru_stime: 0.065901
+rusage ru_maxrss: 53412
+rusage ru_minflt: 8340
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 883
+Child rusage ru_utime: 0.009925999999999999
+Child rusage ru_stime: 0.008624999999999999
+Child rusage ru_maxrss: 49048
+Child rusage ru_minflt: 933
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 27
+Child rusage ru_nivcsw: 2
+Status: PASSED 
+Ended: 1712928604.93 

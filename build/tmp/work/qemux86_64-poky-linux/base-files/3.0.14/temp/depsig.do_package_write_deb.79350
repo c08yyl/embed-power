@@ -1,0 +1,11 @@
+OEOuthashBasic
+15
+SSTATE_PKGSPEC=sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:
+task=package_write_deb
+drwx                                                                                       .
+drwx                                                                                       ./deploy-debs
+drwx                                                                                       ./deploy-debs/qemux86_64
+-rw-                  876 cd4951a63ce9c818587ca554a2f0cbb6d5451eaa331e8ce8e356a640df4be695 ./deploy-debs/qemux86_64/base-files-dbg_3.0.14-r0_amd64.deb
+-rw-                  912 a906c5add85790254566d19e917edb6ddccf3ba5d8de5b425ba9920e42260c16 ./deploy-debs/qemux86_64/base-files-dev_3.0.14-r0_amd64.deb
+-rw-                  944 e5665d23d1b4e061f9d2f8767cae3d4c345da63ec2fa0abf904dff28833eacb3 ./deploy-debs/qemux86_64/base-files-doc_3.0.14-r0_amd64.deb
+-rw-                 3836 ef532b1269866534656eeced14f52ea2b217bcd4e1820e1a7cb1a4fc2a7029f9 ./deploy-debs/qemux86_64/base-files_3.0.14-r0_amd64.deb

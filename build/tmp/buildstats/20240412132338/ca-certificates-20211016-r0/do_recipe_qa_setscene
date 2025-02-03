@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928388.05 
+ca-certificates-20211016-r0: do_recipe_qa_setscene
+Elapsed time: 0.20 seconds
+utime: 34
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 324841
+IO wchar: 46210
+IO syscr: 96
+IO syscw: 37
+IO read_bytes: 8192
+IO write_bytes: 45056
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.344694
+rusage ru_stime: 0.032827999999999996
+rusage ru_maxrss: 51572
+rusage ru_minflt: 7265
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 88
+rusage ru_nvcsw: 3
+rusage ru_nivcsw: 82
+Child rusage ru_utime: 0.002776
+Child rusage ru_stime: 0.015571999999999999
+Child rusage ru_maxrss: 47752
+Child rusage ru_minflt: 899
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 32
+Child rusage ru_nivcsw: 174
+Status: PASSED 
+Ended: 1712928388.25 

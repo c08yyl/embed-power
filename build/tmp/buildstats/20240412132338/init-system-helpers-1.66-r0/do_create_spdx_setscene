@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928239.33 
+init-system-helpers-1.66-r0: do_create_spdx_setscene
+Elapsed time: 0.19 seconds
+utime: 32
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 445361
+IO wchar: 132702
+IO syscr: 208
+IO syscw: 79
+IO read_bytes: 4096
+IO write_bytes: 81920
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.322641
+rusage ru_stime: 0.059018999999999995
+rusage ru_maxrss: 49376
+rusage ru_minflt: 7186
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 129
+Child rusage ru_utime: 0.017852
+Child rusage ru_stime: 0.023001999999999998
+Child rusage ru_maxrss: 49376
+Child rusage ru_minflt: 1622
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1712928239.52 

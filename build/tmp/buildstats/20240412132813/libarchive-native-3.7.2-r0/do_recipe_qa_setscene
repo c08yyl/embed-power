@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928566.16 
+libarchive-native-3.7.2-r0: do_recipe_qa_setscene
+Elapsed time: 0.26 seconds
+utime: 49
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 603245
+IO wchar: 56962
+IO syscr: 115
+IO syscw: 50
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.498546
+rusage ru_stime: 0.033975
+rusage ru_maxrss: 52728
+rusage ru_minflt: 8194
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 508
+Child rusage ru_utime: 0.0053939999999999995
+Child rusage ru_stime: 0.012249
+Child rusage ru_maxrss: 48232
+Child rusage ru_minflt: 916
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 16
+Status: PASSED 
+Ended: 1712928566.42 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928287.44 
+libtasn1-4.19.0-r0: do_package_qa_setscene
+Elapsed time: 0.20 seconds
+utime: 39
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 367111
+IO wchar: 57676
+IO syscr: 115
+IO syscw: 47
+IO read_bytes: 8192
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.39633599999999997
+rusage ru_stime: 0.028308999999999997
+rusage ru_maxrss: 51460
+rusage ru_minflt: 7664
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 302
+Child rusage ru_utime: 0.010151
+Child rusage ru_stime: 0.009348
+Child rusage ru_maxrss: 47068
+Child rusage ru_minflt: 911
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 34
+Child rusage ru_nivcsw: 238
+Status: PASSED 
+Ended: 1712928287.64 

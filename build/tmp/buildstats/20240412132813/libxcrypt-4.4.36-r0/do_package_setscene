@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928535.64 
+libxcrypt-4.4.36-r0: do_package_setscene
+Elapsed time: 0.65 seconds
+utime: 43
+stime: 7
+cutime: 3
+cstime: 10
+IO rchar: 2489941
+IO wchar: 3168388
+IO syscr: 1836
+IO syscw: 737
+IO read_bytes: 417792
+IO write_bytes: 1761280
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.433413
+rusage ru_stime: 0.071534
+rusage ru_maxrss: 50808
+rusage ru_minflt: 8328
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 184
+rusage ru_nvcsw: 501
+rusage ru_nivcsw: 668
+Child rusage ru_utime: 0.03277
+Child rusage ru_stime: 0.108014
+Child rusage ru_maxrss: 48268
+Child rusage ru_minflt: 2774
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 816
+Child rusage ru_oublock: 3256
+Child rusage ru_nvcsw: 339
+Child rusage ru_nivcsw: 1065
+Status: PASSED 
+Ended: 1712928536.28 

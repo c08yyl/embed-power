@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928400.15 
+linux-yocto-6.6.23+git-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.24 seconds
+utime: 60
+stime: 6
+cutime: 0
+cstime: 1
+IO rchar: 656267
+IO wchar: 62610
+IO syscr: 165
+IO syscw: 60
+IO read_bytes: 331776
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.6018549999999999
+rusage ru_stime: 0.064756
+rusage ru_maxrss: 53804
+rusage ru_minflt: 8703
+rusage ru_majflt: 0
+rusage ru_inblock: 640
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 2556
+Child rusage ru_utime: 0.006921
+Child rusage ru_stime: 0.012862
+Child rusage ru_maxrss: 50488
+Child rusage ru_minflt: 933
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 181
+Status: PASSED 
+Ended: 1712928400.39 

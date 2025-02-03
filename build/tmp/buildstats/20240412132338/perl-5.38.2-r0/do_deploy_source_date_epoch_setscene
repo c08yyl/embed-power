@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928380.83 
+perl-5.38.2-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.18 seconds
+utime: 40
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 386096
+IO wchar: 53584
+IO syscr: 112
+IO syscw: 47
+IO read_bytes: 16384
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.401599
+rusage ru_stime: 0.036509
+rusage ru_maxrss: 52400
+rusage ru_minflt: 7791
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 104
+rusage ru_nvcsw: 6
+rusage ru_nivcsw: 210
+Child rusage ru_utime: 0.011616
+Child rusage ru_stime: 0.007666
+Child rusage ru_maxrss: 47976
+Child rusage ru_minflt: 904
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1712928381.01 

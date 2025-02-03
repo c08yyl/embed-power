@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928300.96 
+opkg-utils-0.6.3-r0: do_create_spdx_setscene
+Elapsed time: 0.20 seconds
+utime: 34
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 463731
+IO wchar: 140284
+IO syscr: 221
+IO syscw: 81
+IO read_bytes: 8192
+IO write_bytes: 90112
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.344371
+rusage ru_stime: 0.035219
+rusage ru_maxrss: 50676
+rusage ru_minflt: 7329
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 326
+Child rusage ru_utime: 0.015993
+Child rusage ru_stime: 0.02409
+Child rusage ru_maxrss: 50676
+Child rusage ru_minflt: 1631
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 23
+Status: PASSED 
+Ended: 1712928301.15 

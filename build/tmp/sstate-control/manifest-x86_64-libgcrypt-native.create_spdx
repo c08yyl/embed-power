@@ -1,0 +1,10 @@
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/sstate:libgcrypt-native:x86_64-linux:1.10.3:r0:x86_64:11:/recipe-libgcrypt-native.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/x86_64/http:__spdx.org_spdxdoc_recipe-libgcrypt-native-9eb6b229-bb91-55d5-9b45-a266bc38116c
+/kitchen/build/tmp/deploy/spdx/x86_64/recipes/recipe-libgcrypt-native.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/sstate:libgcrypt-native:x86_64-linux:1.10.3:r0:x86_64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/x86_64/
+/kitchen/build/tmp/deploy/spdx/x86_64/recipes/
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/by-hash/
+/kitchen/build/tmp/deploy/spdx/x86_64/

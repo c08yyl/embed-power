@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928408.10 
+libgpg-error-1.48-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.37 seconds
+utime: 41
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 392286
+IO wchar: 59754
+IO syscr: 126
+IO syscw: 55
+IO read_bytes: 12288
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.414555
+rusage ru_stime: 0.031286999999999995
+rusage ru_maxrss: 52060
+rusage ru_minflt: 7826
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 104
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 179
+Child rusage ru_utime: 0.005183
+Child rusage ru_stime: 0.015522999999999999
+Child rusage ru_maxrss: 48664
+Child rusage ru_minflt: 921
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 28
+Child rusage ru_nivcsw: 17
+Status: PASSED 
+Ended: 1712928408.47 

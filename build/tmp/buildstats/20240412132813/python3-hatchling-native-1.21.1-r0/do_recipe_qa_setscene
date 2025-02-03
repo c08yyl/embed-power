@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928548.84 
+python3-hatchling-native-1.21.1-r0: do_recipe_qa_setscene
+Elapsed time: 0.20 seconds
+utime: 48
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 571684
+IO wchar: 57237
+IO syscr: 116
+IO syscw: 50
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.483801
+rusage ru_stime: 0.040624
+rusage ru_maxrss: 51496
+rusage ru_minflt: 7657
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 393
+Child rusage ru_utime: 0.0017
+Child rusage ru_stime: 0.017353999999999998
+Child rusage ru_maxrss: 47632
+Child rusage ru_minflt: 922
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 37
+Child rusage ru_nivcsw: 36
+Status: PASSED 
+Ended: 1712928549.03 

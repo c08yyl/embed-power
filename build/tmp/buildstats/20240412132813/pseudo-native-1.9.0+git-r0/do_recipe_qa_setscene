@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928509.09 
+pseudo-native-1.9.0+git-r0: do_recipe_qa_setscene
+Elapsed time: 0.27 seconds
+utime: 43
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 568969
+IO wchar: 54161
+IO syscr: 108
+IO syscw: 48
+IO read_bytes: 8192
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.43527899999999997
+rusage ru_stime: 0.056775
+rusage ru_maxrss: 51364
+rusage ru_minflt: 7886
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 96
+rusage ru_nvcsw: 7
+rusage ru_nivcsw: 748
+Child rusage ru_utime: 0.009437
+Child rusage ru_stime: 0.010723
+Child rusage ru_maxrss: 47332
+Child rusage ru_minflt: 905
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 40
+Status: PASSED 
+Ended: 1712928509.35 

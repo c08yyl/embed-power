@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928870.03 
+gawk-5.3.0-r0: do_package_write_deb
+Elapsed time: 17.16 seconds
+utime: 434
+stime: 137
+cutime: 1049
+cstime: 310
+IO rchar: 47412402
+IO wchar: 25960020
+IO syscr: 18292
+IO syscw: 4190
+IO read_bytes: 17313792
+IO write_bytes: 10231808
+IO cancelled_write_bytes: 3096576
+rusage ru_utime: 4.344955
+rusage ru_stime: 1.373295
+rusage ru_maxrss: 55820
+rusage ru_minflt: 32651
+rusage ru_majflt: 0
+rusage ru_inblock: 1208
+rusage ru_oublock: 296
+rusage ru_nvcsw: 117
+rusage ru_nivcsw: 1907
+Child rusage ru_utime: 10.497222
+Child rusage ru_stime: 3.104167
+Child rusage ru_maxrss: 53748
+Child rusage ru_minflt: 420685
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32608
+Child rusage ru_oublock: 19688
+Child rusage ru_nvcsw: 6741
+Child rusage ru_nivcsw: 11258
+Status: PASSED 
+Ended: 1712928887.19 

@@ -1,0 +1,11 @@
+prefix=${pcfiledir}/../../../usr
+exec_prefix=${pcfiledir}/../../../usr
+libdir=${pcfiledir}/../../../usr/lib
+includedir=${pcfiledir}/../../../usr/include
+
+Name: libmd
+Description: Message Digest functions from BSD systems
+Version: 1.1.0
+URL: https://www.hadrons.org/software/libmd/
+Libs: -L${libdir} -lmd
+Cflags: -I${includedir}

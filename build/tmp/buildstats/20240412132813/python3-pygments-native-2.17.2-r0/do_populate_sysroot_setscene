@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928545.98 
+python3-pygments-native-2.17.2-r0: do_populate_sysroot_setscene
+Elapsed time: 0.62 seconds
+utime: 48
+stime: 11
+cutime: 7
+cstime: 14
+IO rchar: 11755868
+IO wchar: 17181453
+IO syscr: 2405
+IO syscw: 2940
+IO read_bytes: 2191360
+IO write_bytes: 9519104
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.482566
+rusage ru_stime: 0.111066
+rusage ru_maxrss: 51496
+rusage ru_minflt: 7870
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 416
+rusage ru_nvcsw: 648
+rusage ru_nivcsw: 368
+Child rusage ru_utime: 0.07783899999999999
+Child rusage ru_stime: 0.147732
+Child rusage ru_maxrss: 51496
+Child rusage ru_minflt: 4637
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 4280
+Child rusage ru_oublock: 18176
+Child rusage ru_nvcsw: 896
+Child rusage ru_nivcsw: 1580
+Status: PASSED 
+Ended: 1712928546.59 

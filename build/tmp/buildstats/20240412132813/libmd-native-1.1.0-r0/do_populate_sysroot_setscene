@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928592.63 
+libmd-native-1.1.0-r0: do_populate_sysroot_setscene
+Elapsed time: 0.28 seconds
+utime: 48
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 789711
+IO wchar: 254270
+IO syscr: 232
+IO syscw: 98
+IO read_bytes: 32768
+IO write_bytes: 167936
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.482124
+rusage ru_stime: 0.040177
+rusage ru_maxrss: 53324
+rusage ru_minflt: 8296
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 433
+Child rusage ru_utime: 0.014738
+Child rusage ru_stime: 0.02494
+Child rusage ru_maxrss: 53324
+Child rusage ru_minflt: 1668
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 64
+Child rusage ru_oublock: 224
+Child rusage ru_nvcsw: 47
+Child rusage ru_nivcsw: 34
+Status: PASSED 
+Ended: 1712928592.91 

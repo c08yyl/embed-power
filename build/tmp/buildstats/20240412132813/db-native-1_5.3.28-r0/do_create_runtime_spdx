@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928657.67 
+db-native-1_5.3.28-r0: do_create_runtime_spdx
+Elapsed time: 0.31 seconds
+utime: 48
+stime: 5
+cutime: 2
+cstime: 2
+IO rchar: 949829
+IO wchar: 340354
+IO syscr: 272
+IO syscw: 110
+IO read_bytes: 0
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.487554
+rusage ru_stime: 0.056410999999999996
+rusage ru_maxrss: 57052
+rusage ru_minflt: 9282
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 87
+Child rusage ru_utime: 0.02136
+Child rusage ru_stime: 0.029487
+Child rusage ru_maxrss: 57052
+Child rusage ru_minflt: 3489
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 51
+Child rusage ru_nivcsw: 44
+Status: PASSED 
+Ended: 1712928657.98 

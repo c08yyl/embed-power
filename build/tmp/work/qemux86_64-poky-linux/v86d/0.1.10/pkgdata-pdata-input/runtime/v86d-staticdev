@@ -1,0 +1,14 @@
+PN: v86d
+PV: 0.1.10
+PR: r0
+PKGV: 0.1.10
+PKGR: r0
+LICENSE: GPL-2.0-only
+DESCRIPTION:v86d-staticdev: v86d provides a backend for kernel drivers that need to execute x86 BIOS code. The code is executed in a controlled environment and the results are passed back to the kernel via the netlink interface.  This package contains static libraries for software development.
+SUMMARY:v86d-staticdev: User support binary for the uvesafb kernel module - Development files (Static Libraries)
+RDEPENDS:v86d-staticdev: v86d-dev (= 0.1.10-r0)
+SECTION:v86d-staticdev: devel
+PKG:v86d-staticdev: v86d-staticdev
+FILES:v86d-staticdev: /usr/lib/*.a /lib/*.a /usr/lib/v86d/*.a
+FILES_INFO:v86d-staticdev: {}
+PKGSIZE:v86d-staticdev: 0

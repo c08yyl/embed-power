@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928521.76 
+bc-native-1.07.1-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.20 seconds
+utime: 49
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 607769
+IO wchar: 58538
+IO syscr: 125
+IO syscw: 57
+IO read_bytes: 4096
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.493745
+rusage ru_stime: 0.033160999999999996
+rusage ru_maxrss: 51356
+rusage ru_minflt: 8015
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 177
+Child rusage ru_utime: 0.0052369999999999995
+Child rusage ru_stime: 0.013564999999999999
+Child rusage ru_maxrss: 47804
+Child rusage ru_minflt: 930
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 29
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1712928521.96 

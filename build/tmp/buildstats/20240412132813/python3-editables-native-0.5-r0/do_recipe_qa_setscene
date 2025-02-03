@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928548.90 
+python3-editables-native-0.5-r0: do_recipe_qa_setscene
+Elapsed time: 0.25 seconds
+utime: 44
+stime: 5
+cutime: 1
+cstime: 0
+IO rchar: 570592
+IO wchar: 57004
+IO syscr: 116
+IO syscw: 50
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.44601399999999997
+rusage ru_stime: 0.057787
+rusage ru_maxrss: 51368
+rusage ru_minflt: 7693
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 275
+Child rusage ru_utime: 0.015502
+Child rusage ru_stime: 0.004327
+Child rusage ru_maxrss: 47760
+Child rusage ru_minflt: 913
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 29
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1712928549.14 

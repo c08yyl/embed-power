@@ -1,0 +1,29 @@
+DEBUG: Executing python function do_create_runtime_spdx_setscene
+DEBUG: Executing shell function sstate_unpack_package
+runtime-deploy/
+runtime-deploy/qemux86_64/
+runtime-deploy/qemux86_64/runtime/
+runtime-deploy/qemux86_64/runtime/runtime-base-files-doc.spdx.json
+runtime-deploy/qemux86_64/runtime/runtime-base-files-dbg.spdx.json
+runtime-deploy/qemux86_64/runtime/runtime-base-files.spdx.json
+runtime-deploy/qemux86_64/runtime/runtime-base-files-dev.spdx.json
+runtime-deploy/by-hash/
+runtime-deploy/by-hash/qemux86_64/
+runtime-deploy/by-hash/qemux86_64/sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:/
+runtime-deploy/by-hash/qemux86_64/sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:/runtime-base-files-doc.spdx.json
+runtime-deploy/by-hash/qemux86_64/sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:/runtime-base-files-dbg.spdx.json
+runtime-deploy/by-hash/qemux86_64/sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:/runtime-base-files.spdx.json
+runtime-deploy/by-hash/qemux86_64/sstate:base-files:qemux86_64-poky-linux:3.0.14:r0:qemux86_64:11:/runtime-base-files-dev.spdx.json
+runtime-deploy/by-namespace/
+runtime-deploy/by-namespace/qemux86_64/
+runtime-deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-base-files-2c77c531-02ab-5600-a436-27b799b75d94
+runtime-deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-base-files-doc-b858a38c-8c14-5498-8f9f-049924b72439
+runtime-deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-base-files-dbg-ba31571c-237d-5bb6-b48f-8735571f1524
+runtime-deploy/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-base-files-dev-07fca5f3-4e66-5225-a152-77b7a9ac9152
+DEBUG: Shell function sstate_unpack_package finished
+DEBUG: Executing python function sstate_hardcode_path_unpack
+DEBUG: Python function sstate_hardcode_path_unpack finished
+DEBUG: Executing python function uninative_changeinterp
+DEBUG: Python function uninative_changeinterp finished
+DEBUG: Staging files from /kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/spdx/runtime-deploy to /kitchen/build/tmp/deploy/spdx
+DEBUG: Python function do_create_runtime_spdx_setscene finished

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928367.30 
+iptables-1.8.10-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.22 seconds
+utime: 41
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 376784
+IO wchar: 55791
+IO syscr: 114
+IO syscw: 49
+IO read_bytes: 8192
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.41053399999999995
+rusage ru_stime: 0.046893
+rusage ru_maxrss: 52568
+rusage ru_minflt: 7804
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 96
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 1787
+Child rusage ru_utime: 0.006934
+Child rusage ru_stime: 0.012593
+Child rusage ru_maxrss: 47932
+Child rusage ru_minflt: 930
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 32
+Child rusage ru_nivcsw: 95
+Status: PASSED 
+Ended: 1712928367.52 

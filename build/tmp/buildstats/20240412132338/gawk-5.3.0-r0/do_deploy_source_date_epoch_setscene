@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928367.02 
+gawk-5.3.0-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.19 seconds
+utime: 42
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 389746
+IO wchar: 57156
+IO syscr: 118
+IO syscw: 51
+IO read_bytes: 8192
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.42684099999999997
+rusage ru_stime: 0.027162
+rusage ru_maxrss: 52068
+rusage ru_minflt: 7791
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 96
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 208
+Child rusage ru_utime: 0.004738
+Child rusage ru_stime: 0.013595999999999999
+Child rusage ru_maxrss: 48380
+Child rusage ru_minflt: 922
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1712928367.21 

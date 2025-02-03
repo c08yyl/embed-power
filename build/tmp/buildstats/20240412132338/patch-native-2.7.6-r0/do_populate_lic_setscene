@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928314.05 
+patch-native-2.7.6-r0: do_populate_lic_setscene
+Elapsed time: 0.19 seconds
+utime: 48
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 737891
+IO wchar: 209627
+IO syscr: 230
+IO syscw: 72
+IO read_bytes: 20480
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.482693
+rusage ru_stime: 0.031913
+rusage ru_maxrss: 53924
+rusage ru_minflt: 8232
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 293
+Child rusage ru_utime: 0.011633
+Child rusage ru_stime: 0.024527
+Child rusage ru_maxrss: 53924
+Child rusage ru_minflt: 1624
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 152
+Child rusage ru_nvcsw: 49
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1712928314.23 

@@ -1,0 +1,169 @@
+#!/bin/sh
+
+__BITBAKE_LAST_LINE=0
+
+# Emit a useful diagnostic if something fails:
+bb_sh_exit_handler() {
+    ret=$?
+    if [ "$ret" != 0 ]; then
+        echo "WARNING: exit code $ret from a shell command."
+    fi
+    exit $ret
+}
+
+bb_bash_exit_handler() {
+    ret=$?
+    { set +x; } > /dev/null
+    trap "" DEBUG
+    if [ "$ret" != 0 ]; then
+        echo "WARNING: ${BASH_SOURCE[0]}:${__BITBAKE_LAST_LINE} exit $ret from '$1'"
+
+        echo "WARNING: Backtrace (BB generated script): "
+        for i in $(seq 1 $((${#FUNCNAME[@]} - 1))); do
+            if [ "$i" -eq 1 ]; then
+                echo -e "	#$((i)): ${FUNCNAME[$i]}, ${BASH_SOURCE[$((i-1))]}, line ${__BITBAKE_LAST_LINE}"
+            else
+                echo -e "	#$((i)): ${FUNCNAME[$i]}, ${BASH_SOURCE[$((i-1))]}, line ${BASH_LINENO[$((i-1))]}"
+            fi
+        done
+    fi
+    exit $ret
+}
+
+bb_bash_debug_handler() {
+    local line=${BASH_LINENO[0]}
+    # For some reason the DEBUG trap trips with lineno=1 when scripts exit; ignore it
+    if [ "$line" -eq 1 ]; then
+        return
+    fi
+
+    # Track the line number of commands as they execute. This is so we can have access to the failing line number
+    # in the EXIT trap. See http://gnu-bash.2382.n7.nabble.com/trap-echo-quot-trap-exit-on-LINENO-quot-EXIT-gt-wrong-linenumber-td3666.html
+    if [ "${FUNCNAME[1]}" != "bb_bash_exit_handler" ]; then
+        __BITBAKE_LAST_LINE=$line
+    fi
+}
+
+case $BASH_VERSION in
+"") trap 'bb_sh_exit_handler' 0
+    set -e
+    ;;
+*)  trap 'bb_bash_exit_handler "$BASH_COMMAND"' 0
+    trap '{ bb_bash_debug_handler; } 2>/dev/null' DEBUG
+    set -e
+    shopt -s extdebug
+    ;;
+esac
+export AR="x86_64-poky-linux-gcc-ar"
+export AS="x86_64-poky-linux-as  "
+export BUILD_AR="ar"
+export BUILD_AS="as "
+export BUILD_CC="gcc "
+export BUILD_CCLD="gcc "
+export BUILD_CFLAGS="-isystem/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/usr/include -O2 -pipe"
+export BUILD_CPP="gcc  -E"
+export BUILD_CPPFLAGS="-isystem/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/usr/include"
+export BUILD_CXX="g++ "
+export BUILD_CXXFLAGS="-isystem/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/usr/include -O2 -pipe"
+export BUILD_FC="gfortran "
+export BUILD_LD="ld "
+export BUILD_LDFLAGS="-L/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/usr/lib                         -L/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/lib                         -Wl,--enable-new-dtags                         -Wl,-rpath-link,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/usr/lib                         -Wl,-rpath-link,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/lib                         -Wl,-rpath,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/usr/lib                         -Wl,-rpath,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/lib                         -Wl,-O1 -Wl,--allow-shlib-undefined -Wl,--dynamic-linker=/kitchen/build/tmp/sysroots-uninative/x86_64-linux/lib/ld-linux-x86-64.so.2 -pthread"
+export BUILD_NM="nm"
+export BUILD_RANLIB="ranlib -D"
+export BUILD_STRIP="strip"
+export CC="x86_64-poky-linux-gcc  -m64 -march=core2 -mtune=core2 -msse3 -mfpmath=sse -fstack-protector-strong  -O2 -D_FORTIFY_SOURCE=2 -Wformat -Wformat-security -Werror=format-security --sysroot=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot"
+export CCLD="x86_64-poky-linux-gcc  -m64 -march=core2 -mtune=core2 -msse3 -mfpmath=sse -fstack-protector-strong  -O2 -D_FORTIFY_SOURCE=2 -Wformat -Wformat-security -Werror=format-security --sysroot=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot"
+export CFLAGS=" -O2 -pipe -g -feliminate-unused-debug-types -fcanon-prefix-map  -fmacro-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fmacro-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot=  -fmacro-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot=  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native= "
+export CPP="x86_64-poky-linux-gcc -E --sysroot=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot  -m64 -march=core2 -mtune=core2 -msse3 -mfpmath=sse -fstack-protector-strong  -O2 -D_FORTIFY_SOURCE=2 -Wformat -Wformat-security -Werror=format-security"
+export CPPFLAGS=""
+export CXX="x86_64-poky-linux-g++  -m64 -march=core2 -mtune=core2 -msse3 -mfpmath=sse -fstack-protector-strong  -O2 -D_FORTIFY_SOURCE=2 -Wformat -Wformat-security -Werror=format-security --sysroot=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot"
+export CXXFLAGS=" -O2 -pipe -g -feliminate-unused-debug-types -fcanon-prefix-map  -fmacro-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fmacro-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot=  -fmacro-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot=  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native=  -fvisibility-inlines-hidden"
+export FC="x86_64-poky-linux-gfortran  -m64 -march=core2 -mtune=core2 -msse3 -mfpmath=sse -fstack-protector-strong  -O2 -D_FORTIFY_SOURCE=2 -Wformat -Wformat-security -Werror=format-security --sysroot=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot"
+export GIT_CEILING_DIRECTORIES="/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10"
+export HOME="/home/leo"
+export LC_ALL="en_US.UTF-8"
+export LD="x86_64-poky-linux-ld --sysroot=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot  "
+export LDFLAGS="-Wl,-O1 -Wl,--hash-style=gnu -Wl,--as-needed -fcanon-prefix-map  -fmacro-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fmacro-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10=/usr/src/debug/v86d/0.1.10  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot=  -fmacro-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot=  -fdebug-prefix-map=/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native=  -Wl,-z,relro,-z,now"
+export MAKE="make"
+export NM="x86_64-poky-linux-gcc-nm"
+export OBJCOPY="x86_64-poky-linux-objcopy"
+export OBJDUMP="x86_64-poky-linux-objdump"
+export OMP_NUM_THREADS="4"
+export PATH="/kitchen/build/tmp/sysroots-uninative/x86_64-linux/usr/bin:/kitchen/scripts:/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/usr/bin/x86_64-poky-linux:/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot/usr/bin/crossscripts:/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/usr/sbin:/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/usr/bin:/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/sbin:/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot-native/bin:/kitchen/bitbake/bin:/kitchen/build/tmp/hosttools"
+export PERL_HASH_SEED="0"
+export PKG_CONFIG_DIR="/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot/usr/lib/pkgconfig"
+export PKG_CONFIG_DISABLE_UNINSTALLED="yes"
+export PKG_CONFIG_LIBDIR="/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot/usr/lib/pkgconfig"
+export PKG_CONFIG_PATH="/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot/usr/lib/pkgconfig:/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot/usr/share/pkgconfig"
+export PKG_CONFIG_SYSROOT_DIR="/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot"
+export PKG_CONFIG_SYSTEM_INCLUDE_PATH="/usr/include"
+export PKG_CONFIG_SYSTEM_LIBRARY_PATH="/lib:/usr/lib"
+export PSEUDO_DISABLED="0"
+export PSEUDO_IGNORE_PATHS="/usr/,/etc/,/usr/lib,/dev/,/run/,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/temp,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot,/kitchen/build/sstate-cache,/kitchen/build/tmp/stamps,/kitchen/build/tmp/sstate-control,/kitchen/build/tmp/buildstats,/kitchen/build/tmp/sysroots-components,/kitchen/build/tmp/pkgdata,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/deploy-,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/sstate-build-package_,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/sstate-install-package_,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/pkgdata-sysroot,/kitchen/build/tmp/deploy,/kitchen/build/cache,/kitchen/scripts,/kitchen/meta/files/common-licenses,/kitchen/meta/COPYING,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10,/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/v86d-0.1.10"
+export PSEUDO_LOCALSTATEDIR="/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/pseudo/"
+export PSEUDO_NOSYMLINKEXP="1"
+export PSEUDO_PASSWD="/kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/recipe-sysroot:/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native"
+export PSEUDO_PREFIX="/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/usr"
+export PYTHONHASHSEED="0"
+export RANLIB="x86_64-poky-linux-gcc-ranlib"
+export READELF="x86_64-poky-linux-readelf"
+unset SHELL
+export SOURCE_DATE_EPOCH="1298669259"
+export STRINGS="x86_64-poky-linux-strings"
+export STRIP="x86_64-poky-linux-strip"
+export TZ="UTC"
+export base_bindir="/bin"
+export base_libdir="/lib"
+export base_prefix=""
+export base_sbindir="/sbin"
+export bindir="/usr/bin"
+export datadir="/usr/share"
+export docdir="/usr/share/doc"
+export exec_prefix="/usr"
+export includedir="/usr/include"
+export infodir="/usr/share/info"
+export libdir="/usr/lib"
+export libexecdir="/usr/libexec"
+export localstatedir="/var"
+export mandir="/usr/share/man"
+export nonarch_base_libdir="/lib"
+export nonarch_libdir="/usr/lib"
+export prefix="/usr"
+export sbindir="/usr/sbin"
+export servicedir="/srv"
+export sharedstatedir="/com"
+export sysconfdir="/etc"
+export systemd_system_unitdir="/lib/systemd/system"
+export systemd_unitdir="/lib/systemd"
+export systemd_user_unitdir="/usr/lib/systemd/user"
+
+# line: 904, file: /kitchen/meta/classes-global/sstate.bbclass
+sstate_archive_package() {
+	OPT="-cS"
+	ZSTD="zstd -8 -T4"
+	# Use pzstd if available
+	if [ -x "$(command -v pzstd)" ]; then
+		ZSTD="pzstd -8 -p 4"
+	fi
+
+	# Need to handle empty directories
+	if [ "$(ls -A)" ]; then
+		set +e
+		tar -I "$ZSTD" $OPT -f /kitchen/build/sstate-cache/b8/a3/sstate:v86d:qemux86_64-poky-linux:0.1.10:r0:qemux86_64:11:b8a32833a2fd7d25850ff5b3366e7f5b39c136bc90ca4644bbfaaec8200dad9d_package_write_deb.tar.zstsl2itmf7 *
+		ret=$?
+		if [ $ret -ne 0 ] && [ $ret -ne 1 ]; then
+			exit 1
+		fi
+		set -e
+	else
+		tar -I "$ZSTD" $OPT --file=/kitchen/build/sstate-cache/b8/a3/sstate:v86d:qemux86_64-poky-linux:0.1.10:r0:qemux86_64:11:b8a32833a2fd7d25850ff5b3366e7f5b39c136bc90ca4644bbfaaec8200dad9d_package_write_deb.tar.zstsl2itmf7 --files-from=/dev/null
+	fi
+	chmod 0664 /kitchen/build/sstate-cache/b8/a3/sstate:v86d:qemux86_64-poky-linux:0.1.10:r0:qemux86_64:11:b8a32833a2fd7d25850ff5b3366e7f5b39c136bc90ca4644bbfaaec8200dad9d_package_write_deb.tar.zstsl2itmf7
+}
+
+sstate_archive_package
+
+# cleanup
+ret=$?
+trap '' 0
+exit $ret

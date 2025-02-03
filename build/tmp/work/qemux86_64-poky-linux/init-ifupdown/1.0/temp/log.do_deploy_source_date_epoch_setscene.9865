@@ -1,0 +1,11 @@
+DEBUG: Executing python function do_deploy_source_date_epoch_setscene
+DEBUG: Executing shell function sstate_unpack_package
+deploy-source-date-epoch/
+deploy-source-date-epoch/__source_date_epoch.txt
+DEBUG: Shell function sstate_unpack_package finished
+DEBUG: Executing python function sstate_hardcode_path_unpack
+DEBUG: Python function sstate_hardcode_path_unpack finished
+DEBUG: Executing python function uninative_changeinterp
+DEBUG: Python function uninative_changeinterp finished
+DEBUG: Moving setscene SDE file /kitchen/build/tmp/work/qemux86_64-poky-linux/init-ifupdown/1.0/deploy-source-date-epoch/__source_date_epoch.txt -> /kitchen/build/tmp/work/qemux86_64-poky-linux/init-ifupdown/1.0/source-date-epoch/__source_date_epoch.txt
+DEBUG: Python function do_deploy_source_date_epoch_setscene finished

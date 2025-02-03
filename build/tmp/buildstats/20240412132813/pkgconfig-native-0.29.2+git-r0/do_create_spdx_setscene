@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928619.92 
+pkgconfig-native-0.29.2+git-r0: do_create_spdx_setscene
+Elapsed time: 0.37 seconds
+utime: 58
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 699505
+IO wchar: 106352
+IO syscr: 235
+IO syscw: 73
+IO read_bytes: 4096
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.590133
+rusage ru_stime: 0.032116
+rusage ru_maxrss: 54044
+rusage ru_minflt: 13959
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 230
+Child rusage ru_utime: 0.017064
+Child rusage ru_stime: 0.027861
+Child rusage ru_maxrss: 54044
+Child rusage ru_minflt: 2001
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 35
+Status: PASSED 
+Ended: 1712928620.29 

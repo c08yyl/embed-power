@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928612.95 
+zlib-native-1.3.1-r0: do_populate_sysroot_setscene
+Elapsed time: 0.29 seconds
+utime: 44
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 1096597
+IO wchar: 766857
+IO syscr: 278
+IO syscw: 123
+IO read_bytes: 98304
+IO write_bytes: 409600
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.443316
+rusage ru_stime: 0.048839
+rusage ru_maxrss: 52836
+rusage ru_minflt: 8013
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 433
+Child rusage ru_utime: 0.02395
+Child rusage ru_stime: 0.017946999999999998
+Child rusage ru_maxrss: 52836
+Child rusage ru_minflt: 1793
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 192
+Child rusage ru_oublock: 704
+Child rusage ru_nvcsw: 55
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1712928613.23 

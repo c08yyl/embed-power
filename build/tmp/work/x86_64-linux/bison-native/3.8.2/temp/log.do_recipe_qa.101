@@ -1,0 +1,25 @@
+DEBUG: Executing python function sstate_task_prefunc
+DEBUG: Python function sstate_task_prefunc finished
+DEBUG: Executing python function do_recipe_qa
+DEBUG: Python function do_recipe_qa finished
+DEBUG: Executing python function sstate_task_postfunc
+NOTE: Using umask 0o002 (not 22) for sstate packaging
+DEBUG: Executing python function target_add_sysroot_deps
+DEBUG: Python function target_add_sysroot_deps finished
+DEBUG: Executing python function sstate_hardcode_path
+NOTE: Removing hardcoded paths from sstate package: 'grep -Irl -e /kitchen/build/tmp/work/x86_64-linux/bison-native/3.8.2/recipe-sysroot -e /kitchen/build/tmp/work/x86_64-linux/bison-native/3.8.2/recipe-sysroot-native -e /kitchen/build/tmp/hosttools /kitchen/build/tmp/work/x86_64-linux/bison-native/3.8.2/sstate-build-recipe_qa/ | xargs grep -l -e '/kitchen/build/tmp/work/x86_64-linux/bison-native/3.8.2/recipe-sysroot-native' -e '/kitchen/build/tmp/hosttools' | tee /kitchen/build/tmp/work/x86_64-linux/bison-native/3.8.2/sstate-build-recipe_qa/fixmepath | xargs --no-run-if-empty sed -i -e 's:/kitchen/build/tmp/work/x86_64-linux/bison-native/3.8.2/recipe-sysroot-native:FIXMESTAGINGDIRHOST:g' -e 's:/kitchen/build/tmp/hosttools:FIXME_HOSTTOOLS_DIR:g''
+DEBUG: Python function sstate_hardcode_path finished
+DEBUG: Executing python function native_add_do_populate_sysroot_deps
+DEBUG: Python function native_add_do_populate_sysroot_deps finished
+DEBUG: Executing python function sstate_report_unihash
+DEBUG: Reported task f39cecd5d4cd7728b792f006cba4e512d6fcc661dbf2673913000eadb2fceb8c as unihash f39cecd5d4cd7728b792f006cba4e512d6fcc661dbf2673913000eadb2fceb8c to unix:///kitchen/build/hashserve.sock
+DEBUG: Python function sstate_report_unihash finished
+DEBUG: Executing python function sstate_create_and_sign_package
+DEBUG: Executing shell function sstate_archive_package
+DEBUG: Shell function sstate_archive_package finished
+DEBUG: Python function sstate_create_and_sign_package finished
+DEBUG: Executing python function sstate_hardcode_path_unpack
+DEBUG: Python function sstate_hardcode_path_unpack finished
+DEBUG: Executing python function uninative_changeinterp
+DEBUG: Python function uninative_changeinterp finished
+DEBUG: Python function sstate_task_postfunc finished

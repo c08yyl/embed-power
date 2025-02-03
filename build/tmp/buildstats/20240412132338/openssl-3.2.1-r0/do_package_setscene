@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928402.27 
+openssl-3.2.1-r0: do_package_setscene
+Elapsed time: 15.84 seconds
+utime: 95
+stime: 48
+cutime: 950
+cstime: 1004
+IO rchar: 2431544955
+IO wchar: 3554291210
+IO syscr: 248460
+IO syscw: 224452
+IO read_bytes: 648183808
+IO write_bytes: 1785135104
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.9597159999999999
+rusage ru_stime: 0.48603599999999997
+rusage ru_maxrss: 52756
+rusage ru_minflt: 9031
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 1584
+rusage ru_nvcsw: 26031
+rusage ru_nivcsw: 508
+Child rusage ru_utime: 9.50515
+Child rusage ru_stime: 10.044201
+Child rusage ru_maxrss: 95140
+Child rusage ru_minflt: 157159
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1265976
+Child rusage ru_oublock: 3485008
+Child rusage ru_nvcsw: 220694
+Child rusage ru_nivcsw: 130833
+Status: PASSED 
+Ended: 1712928418.10 

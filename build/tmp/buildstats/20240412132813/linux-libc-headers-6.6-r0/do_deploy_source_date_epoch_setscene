@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928563.77 
+linux-libc-headers-6.6-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.20 seconds
+utime: 34
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 360136
+IO wchar: 55014
+IO syscr: 112
+IO syscw: 49
+IO read_bytes: 4096
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.34537399999999996
+rusage ru_stime: 0.055576999999999994
+rusage ru_maxrss: 51276
+rusage ru_minflt: 7659
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 171
+Child rusage ru_utime: 0.0017079999999999999
+Child rusage ru_stime: 0.016860999999999998
+Child rusage ru_maxrss: 46576
+Child rusage ru_minflt: 936
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 26
+Child rusage ru_nivcsw: 33
+Status: PASSED 
+Ended: 1712928563.98 

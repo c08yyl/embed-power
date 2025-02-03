@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712930292.48 
+apt-native-2.6.1-r0: do_populate_sysroot
+Elapsed time: 6.78 seconds
+utime: 108
+stime: 37
+cutime: 89
+cstime: 56
+IO rchar: 38379656
+IO wchar: 19351417
+IO syscr: 9728
+IO syscw: 1986
+IO read_bytes: 18841600
+IO write_bytes: 14974976
+IO cancelled_write_bytes: 4100096
+rusage ru_utime: 1.082437
+rusage ru_stime: 0.378853
+rusage ru_maxrss: 56920
+rusage ru_minflt: 35527
+rusage ru_majflt: 481
+rusage ru_inblock: 8968
+rusage ru_oublock: 10040
+rusage ru_nvcsw: 923
+rusage ru_nivcsw: 595
+Child rusage ru_utime: 0.8918649999999999
+Child rusage ru_stime: 0.562453
+Child rusage ru_maxrss: 56920
+Child rusage ru_minflt: 73252
+Child rusage ru_majflt: 90
+Child rusage ru_inblock: 27832
+Child rusage ru_oublock: 19208
+Child rusage ru_nvcsw: 848
+Child rusage ru_nivcsw: 711
+Status: PASSED 
+Ended: 1712930299.26 

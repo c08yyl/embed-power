@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929278.78 
+shadow-securetty-4.6-r0: do_package_write_deb
+Elapsed time: 8.75 seconds
+utime: 84
+stime: 95
+cutime: 40
+cstime: 26
+IO rchar: 3127589
+IO wchar: 1577211
+IO syscr: 1945
+IO syscw: 516
+IO read_bytes: 1060864
+IO write_bytes: 1548288
+IO cancelled_write_bytes: 36864
+rusage ru_utime: 0.842992
+rusage ru_stime: 0.9534819999999999
+rusage ru_maxrss: 54248
+rusage ru_minflt: 22208
+rusage ru_majflt: 0
+rusage ru_inblock: 1720
+rusage ru_oublock: 288
+rusage ru_nvcsw: 80
+rusage ru_nivcsw: 632
+Child rusage ru_utime: 0.40329299999999996
+Child rusage ru_stime: 0.26791699999999996
+Child rusage ru_maxrss: 51952
+Child rusage ru_minflt: 31364
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 352
+Child rusage ru_oublock: 2736
+Child rusage ru_nvcsw: 342
+Child rusage ru_nivcsw: 404
+Status: PASSED 
+Ended: 1712929287.53 

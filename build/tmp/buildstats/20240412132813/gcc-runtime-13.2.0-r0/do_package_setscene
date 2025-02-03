@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928539.58 
+gcc-runtime-13.2.0-r0: do_package_setscene
+Elapsed time: 3.99 seconds
+utime: 63
+stime: 26
+cutime: 56
+cstime: 130
+IO rchar: 117466589
+IO wchar: 182601829
+IO syscr: 26234
+IO syscw: 17486
+IO read_bytes: 23760896
+IO write_bytes: 92958720
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.6385689999999999
+rusage ru_stime: 0.26506599999999997
+rusage ru_maxrss: 52044
+rusage ru_minflt: 8756
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 608
+rusage ru_nvcsw: 6827
+rusage ru_nivcsw: 851
+Child rusage ru_utime: 0.5622579999999999
+Child rusage ru_stime: 1.302219
+Child rusage ru_maxrss: 81220
+Child rusage ru_minflt: 26839
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 46408
+Child rusage ru_oublock: 180952
+Child rusage ru_nvcsw: 11128
+Child rusage ru_nivcsw: 14833
+Status: PASSED 
+Ended: 1712928543.56 

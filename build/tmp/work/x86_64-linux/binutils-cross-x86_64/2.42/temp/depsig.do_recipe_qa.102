@@ -1,0 +1,5 @@
+OEOuthashBasic
+15
+SSTATE_PKGSPEC=sstate:binutils-cross-x86_64:x86_64-poky-linux:2.42:r0:x86_64:11:
+task=recipe_qa
+drwx                                                                                       .

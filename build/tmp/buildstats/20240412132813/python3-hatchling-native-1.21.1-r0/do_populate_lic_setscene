@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928511.10 
+python3-hatchling-native-1.21.1-r0: do_populate_lic_setscene
+Elapsed time: 0.35 seconds
+utime: 50
+stime: 5
+cutime: 0
+cstime: 2
+IO rchar: 625738
+IO wchar: 71553
+IO syscr: 222
+IO syscw: 67
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.500791
+rusage ru_stime: 0.053519
+rusage ru_maxrss: 51236
+rusage ru_minflt: 7712
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 942
+Child rusage ru_utime: 0.007981
+Child rusage ru_stime: 0.028294
+Child rusage ru_maxrss: 51108
+Child rusage ru_minflt: 1595
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 52
+Status: PASSED 
+Ended: 1712928511.45 

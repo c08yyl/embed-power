@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928538.47 
+wayland-protocols-native-1.33-r0: do_populate_lic_setscene
+Elapsed time: 0.21 seconds
+utime: 49
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 654487
+IO wchar: 76939
+IO syscr: 226
+IO syscw: 76
+IO read_bytes: 8192
+IO write_bytes: 73728
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.491538
+rusage ru_stime: 0.035109
+rusage ru_maxrss: 51688
+rusage ru_minflt: 8115
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 663
+Child rusage ru_utime: 0.010015
+Child rusage ru_stime: 0.027014
+Child rusage ru_maxrss: 51688
+Child rusage ru_minflt: 1589
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 38
+Child rusage ru_nivcsw: 26
+Status: PASSED 
+Ended: 1712928538.68 

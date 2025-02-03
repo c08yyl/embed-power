@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928630.57 
+lz4-native-1_1.9.4-r0: do_collect_spdx_deps
+Elapsed time: 0.12 seconds
+utime: 37
+stime: 4
+cutime: 1
+cstime: 0
+IO rchar: 639909
+IO wchar: 104139
+IO syscr: 113
+IO syscw: 61
+IO read_bytes: 0
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.370961
+rusage ru_stime: 0.042505
+rusage ru_maxrss: 52632
+rusage ru_minflt: 5305
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 3
+rusage ru_nivcsw: 271
+Child rusage ru_utime: 0.013044
+Child rusage ru_stime: 0.002284
+Child rusage ru_maxrss: 51608
+Child rusage ru_minflt: 548
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 7
+Child rusage ru_nivcsw: 18
+Status: PASSED 
+Ended: 1712928630.69 

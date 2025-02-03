@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929499.49 
+btrfs-tools-6.7.1-r0: do_package_write_deb
+Elapsed time: 122.66 seconds
+utime: 1712
+stime: 236
+cutime: 2469
+cstime: 102
+IO rchar: 94069401
+IO wchar: 56739971
+IO syscr: 12708
+IO syscw: 5193
+IO read_bytes: 44228608
+IO write_bytes: 16310272
+IO cancelled_write_bytes: 4960256
+rusage ru_utime: 17.121505
+rusage ru_stime: 2.365444
+rusage ru_maxrss: 53192
+rusage ru_minflt: 23155
+rusage ru_majflt: 53
+rusage ru_inblock: 10832
+rusage ru_oublock: 296
+rusage ru_nvcsw: 506
+rusage ru_nivcsw: 9640
+Child rusage ru_utime: 24.693206
+Child rusage ru_stime: 1.021442
+Child rusage ru_maxrss: 125720
+Child rusage ru_minflt: 124541
+Child rusage ru_majflt: 38
+Child rusage ru_inblock: 75552
+Child rusage ru_oublock: 31560
+Child rusage ru_nvcsw: 5242
+Child rusage ru_nivcsw: 12864
+Status: PASSED 
+Ended: 1712929622.15 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928534.99 
+libsdl2-native-2.30.0-r0: do_populate_lic_setscene
+Elapsed time: 0.25 seconds
+utime: 49
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 651873
+IO wchar: 83755
+IO syscr: 220
+IO syscw: 72
+IO read_bytes: 8192
+IO write_bytes: 81920
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.491979
+rusage ru_stime: 0.048822
+rusage ru_maxrss: 52136
+rusage ru_minflt: 8201
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 386
+Child rusage ru_utime: 0.021186
+Child rusage ru_stime: 0.014506
+Child rusage ru_maxrss: 51624
+Child rusage ru_minflt: 1578
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 39
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1712928535.24 

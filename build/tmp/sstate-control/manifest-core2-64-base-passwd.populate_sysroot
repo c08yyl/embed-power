@@ -1,0 +1,11 @@
+/kitchen/build/tmp/sysroots-components/core2-64/base-passwd/sysroot-providers/base-passwd
+/kitchen/build/tmp/sysroots-components/core2-64/base-passwd/usr/share/base-passwd/group.master
+/kitchen/build/tmp/sysroots-components/core2-64/base-passwd/usr/share/base-passwd/passwd.master
+/kitchen/build/tmp/sysroots-components/core2-64/base-passwd/usr/bin/postinst-base-passwd
+/kitchen/build/tmp/sysroots-components/core2-64/base-passwd/fixmepath.cmd
+/kitchen/build/tmp/sysroots-components/core2-64/base-passwd/fixmepath
+/kitchen/build/tmp/sysroots-components/core2-64/base-passwd/usr/share/base-passwd/
+/kitchen/build/tmp/sysroots-components/core2-64/base-passwd/sysroot-providers/
+/kitchen/build/tmp/sysroots-components/core2-64/base-passwd/usr/share/
+/kitchen/build/tmp/sysroots-components/core2-64/base-passwd/usr/bin/
+/kitchen/build/tmp/sysroots-components/core2-64/base-passwd/usr/

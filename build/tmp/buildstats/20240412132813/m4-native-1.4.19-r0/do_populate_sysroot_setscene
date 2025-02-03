@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928622.81 
+m4-native-1.4.19-r0: do_populate_sysroot_setscene
+Elapsed time: 0.25 seconds
+utime: 32
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 1130514
+IO wchar: 865752
+IO syscr: 273
+IO syscw: 94
+IO read_bytes: 139264
+IO write_bytes: 598016
+IO cancelled_write_bytes: 266240
+rusage ru_utime: 0.32550799999999996
+rusage ru_stime: 0.056122
+rusage ru_maxrss: 52824
+rusage ru_minflt: 7945
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 197
+Child rusage ru_utime: 0.018283999999999998
+Child rusage ru_stime: 0.027455
+Child rusage ru_maxrss: 52824
+Child rusage ru_minflt: 2044
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 264
+Child rusage ru_oublock: 1056
+Child rusage ru_nvcsw: 51
+Child rusage ru_nivcsw: 53
+Status: PASSED 
+Ended: 1712928623.06 

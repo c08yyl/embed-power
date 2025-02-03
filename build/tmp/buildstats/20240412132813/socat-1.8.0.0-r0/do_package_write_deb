@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929802.05 
+socat-1.8.0.0-r0: do_package_write_deb
+Elapsed time: 11.72 seconds
+utime: 216
+stime: 98
+cutime: 314
+cstime: 54
+IO rchar: 15206498
+IO wchar: 9010439
+IO syscr: 4185
+IO syscw: 1258
+IO read_bytes: 5103616
+IO write_bytes: 4067328
+IO cancelled_write_bytes: 892928
+rusage ru_utime: 2.168985
+rusage ru_stime: 0.988398
+rusage ru_maxrss: 52728
+rusage ru_minflt: 24567
+rusage ru_majflt: 1
+rusage ru_inblock: 760
+rusage ru_oublock: 288
+rusage ru_nvcsw: 73
+rusage ru_nivcsw: 920
+Child rusage ru_utime: 3.145899
+Child rusage ru_stime: 0.546125
+Child rusage ru_maxrss: 49860
+Child rusage ru_minflt: 81932
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 9208
+Child rusage ru_oublock: 7656
+Child rusage ru_nvcsw: 1045
+Child rusage ru_nivcsw: 1843
+Status: PASSED 
+Ended: 1712929813.77 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928641.97 
+db-native-1_5.3.28-r0: do_deploy_source_date_epoch
+Elapsed time: 0.69 seconds
+utime: 64
+stime: 6
+cutime: 2
+cstime: 3
+IO rchar: 780798
+IO wchar: 135018
+IO syscr: 313
+IO syscw: 108
+IO read_bytes: 0
+IO write_bytes: 106496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.6459269999999999
+rusage ru_stime: 0.069206
+rusage ru_maxrss: 53980
+rusage ru_minflt: 14519
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 17
+rusage ru_nivcsw: 486
+Child rusage ru_utime: 0.027451
+Child rusage ru_stime: 0.039383
+Child rusage ru_maxrss: 53980
+Child rusage ru_minflt: 3882
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 59
+Child rusage ru_nivcsw: 229
+Status: PASSED 
+Ended: 1712928642.66 

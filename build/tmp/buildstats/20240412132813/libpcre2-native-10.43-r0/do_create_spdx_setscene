@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928612.07 
+libpcre2-native-10.43-r0: do_create_spdx_setscene
+Elapsed time: 0.27 seconds
+utime: 46
+stime: 6
+cutime: 1
+cstime: 2
+IO rchar: 681659
+IO wchar: 94513
+IO syscr: 223
+IO syscw: 69
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.46502499999999997
+rusage ru_stime: 0.06587799999999999
+rusage ru_maxrss: 53580
+rusage ru_minflt: 8450
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 415
+Child rusage ru_utime: 0.014990999999999999
+Child rusage ru_stime: 0.023091999999999998
+Child rusage ru_maxrss: 53580
+Child rusage ru_minflt: 1607
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 45
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1712928612.34 

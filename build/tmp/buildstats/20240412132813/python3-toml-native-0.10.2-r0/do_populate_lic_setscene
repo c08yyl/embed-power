@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928515.91 
+python3-toml-native-0.10.2-r0: do_populate_lic_setscene
+Elapsed time: 0.28 seconds
+utime: 46
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 628779
+IO wchar: 71131
+IO syscr: 222
+IO syscw: 67
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.464512
+rusage ru_stime: 0.035130999999999996
+rusage ru_maxrss: 51112
+rusage ru_minflt: 7721
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 373
+Child rusage ru_utime: 0.013989999999999999
+Child rusage ru_stime: 0.023125999999999997
+Child rusage ru_maxrss: 51112
+Child rusage ru_minflt: 1593
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 34
+Status: PASSED 
+Ended: 1712928516.19 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928555.82 
+python3-pip-native-24.0-r0: do_populate_sysroot_setscene
+Elapsed time: 0.70 seconds
+utime: 50
+stime: 10
+cutime: 6
+cstime: 14
+IO rchar: 9938166
+IO wchar: 15066213
+IO syscr: 2128
+IO syscw: 2535
+IO read_bytes: 1560576
+IO write_bytes: 8478720
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.5099049999999999
+rusage ru_stime: 0.101981
+rusage ru_maxrss: 51700
+rusage ru_minflt: 7904
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 352
+rusage ru_nvcsw: 573
+rusage ru_nivcsw: 611
+Child rusage ru_utime: 0.062928
+Child rusage ru_stime: 0.144094
+Child rusage ru_maxrss: 51700
+Child rusage ru_minflt: 4000
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 3040
+Child rusage ru_oublock: 16208
+Child rusage ru_nvcsw: 760
+Child rusage ru_nivcsw: 1521
+Status: PASSED 
+Ended: 1712928556.52 

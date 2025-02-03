@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928313.14 
+ninja-native-1.11.1-r0: do_populate_lic_setscene
+Elapsed time: 0.19 seconds
+utime: 41
+stime: 4
+cutime: 0
+cstime: 2
+IO rchar: 638674
+IO wchar: 106011
+IO syscr: 217
+IO syscw: 64
+IO read_bytes: 12288
+IO write_bytes: 77824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.41867099999999996
+rusage ru_stime: 0.043447
+rusage ru_maxrss: 52500
+rusage ru_minflt: 7780
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 198
+Child rusage ru_utime: 0.008383999999999999
+Child rusage ru_stime: 0.027624
+Child rusage ru_maxrss: 52500
+Child rusage ru_minflt: 1576
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 48
+Status: PASSED 
+Ended: 1712928313.33 

@@ -1,0 +1,16 @@
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:update-rc.d:all-poky-linux:0.8:r0:allarch:11:/runtime-update-rc.d.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:update-rc.d:all-poky-linux:0.8:r0:allarch:11:/runtime-update-rc.d-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:update-rc.d:all-poky-linux:0.8:r0:allarch:11:/runtime-update-rc.d-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/http:__spdx.org_spdxdoc_runtime-update-rc.d-91536303-d4bc-55bf-bad5-db561c40958c
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/http:__spdx.org_spdxdoc_runtime-update-rc.d-dbg-3d2caf9e-0675-52a5-8b85-6e5736c19e5a
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/http:__spdx.org_spdxdoc_runtime-update-rc.d-dev-7058cb67-f003-5e02-b9b7-9eafe966a774
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/runtime-update-rc.d.spdx.json
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/runtime-update-rc.d-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/runtime-update-rc.d-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:update-rc.d:all-poky-linux:0.8:r0:allarch:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/allarch/
+/kitchen/build/tmp/deploy/spdx/by-hash/

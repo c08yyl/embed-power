@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712930300.34 
+qemuwrapper-cross-1.0-r0: do_package_write_deb
+Elapsed time: 5.93 seconds
+utime: 91
+stime: 90
+cutime: 29
+cstime: 36
+IO rchar: 3125814
+IO wchar: 1573626
+IO syscr: 1962
+IO syscw: 519
+IO read_bytes: 983040
+IO write_bytes: 1548288
+IO cancelled_write_bytes: 36864
+rusage ru_utime: 0.919161
+rusage ru_stime: 0.9068499999999999
+rusage ru_maxrss: 51652
+rusage ru_minflt: 24250
+rusage ru_majflt: 4
+rusage ru_inblock: 1816
+rusage ru_oublock: 288
+rusage ru_nvcsw: 87
+rusage ru_nivcsw: 511
+Child rusage ru_utime: 0.295355
+Child rusage ru_stime: 0.36000499999999996
+Child rusage ru_maxrss: 49000
+Child rusage ru_minflt: 30313
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 104
+Child rusage ru_oublock: 2736
+Child rusage ru_nvcsw: 361
+Child rusage ru_nivcsw: 435
+Status: PASSED 
+Ended: 1712930306.27 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928630.33 
+dpkg-native-1.22.0-r0: do_deploy_source_date_epoch
+Elapsed time: 0.53 seconds
+utime: 65
+stime: 6
+cutime: 2
+cstime: 4
+IO rchar: 1171658
+IO wchar: 139052
+IO syscr: 494
+IO syscw: 113
+IO read_bytes: 348160
+IO write_bytes: 106496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.656009
+rusage ru_stime: 0.065193
+rusage ru_maxrss: 54296
+rusage ru_minflt: 14753
+rusage ru_majflt: 0
+rusage ru_inblock: 120
+rusage ru_oublock: 168
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 308
+Child rusage ru_utime: 0.022095999999999998
+Child rusage ru_stime: 0.042239
+Child rusage ru_maxrss: 54296
+Child rusage ru_minflt: 3902
+Child rusage ru_majflt: 8
+Child rusage ru_inblock: 560
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 63
+Child rusage ru_nivcsw: 122
+Status: PASSED 
+Ended: 1712928630.86 

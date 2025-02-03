@@ -1,0 +1,16 @@
+DEBUG: Executing python function do_populate_lic_setscene
+DEBUG: Executing shell function sstate_unpack_package
+license-destdir/
+license-destdir/v86d/
+license-destdir/qemux86_64/
+license-destdir/qemux86_64/v86d/
+license-destdir/qemux86_64/v86d/generic_GPL-2.0-only
+license-destdir/qemux86_64/v86d/recipeinfo
+license-destdir/qemux86_64/v86d/README
+DEBUG: Shell function sstate_unpack_package finished
+DEBUG: Executing python function sstate_hardcode_path_unpack
+DEBUG: Python function sstate_hardcode_path_unpack finished
+DEBUG: Executing python function uninative_changeinterp
+DEBUG: Python function uninative_changeinterp finished
+DEBUG: Staging files from /kitchen/build/tmp/work/qemux86_64-poky-linux/v86d/0.1.10/license-destdir to /kitchen/build/tmp/deploy/licenses
+DEBUG: Python function do_populate_lic_setscene finished

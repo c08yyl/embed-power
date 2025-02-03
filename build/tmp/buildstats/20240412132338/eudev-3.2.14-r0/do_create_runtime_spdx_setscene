@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928244.37 
+eudev-3.2.14-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.23 seconds
+utime: 40
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 469535
+IO wchar: 121279
+IO syscr: 272
+IO syscw: 110
+IO read_bytes: 4096
+IO write_bytes: 81920
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.400229
+rusage ru_stime: 0.032341
+rusage ru_maxrss: 50784
+rusage ru_minflt: 7710
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 30
+rusage ru_nivcsw: 219
+Child rusage ru_utime: 0.015262
+Child rusage ru_stime: 0.026683
+Child rusage ru_maxrss: 50784
+Child rusage ru_minflt: 1602
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1712928244.60 

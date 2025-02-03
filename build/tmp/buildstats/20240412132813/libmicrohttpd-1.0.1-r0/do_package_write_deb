@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928858.96 
+libmicrohttpd-1.0.1-r0: do_package_write_deb
+Elapsed time: 10.02 seconds
+utime: 240
+stime: 107
+cutime: 285
+cstime: 65
+IO rchar: 13909999
+IO wchar: 8139642
+IO syscr: 3879
+IO syscw: 1117
+IO read_bytes: 4173824
+IO write_bytes: 3784704
+IO cancelled_write_bytes: 794624
+rusage ru_utime: 2.407772
+rusage ru_stime: 1.076322
+rusage ru_maxrss: 55592
+rusage ru_minflt: 24851
+rusage ru_majflt: 0
+rusage ru_inblock: 640
+rusage ru_oublock: 288
+rusage ru_nvcsw: 82
+rusage ru_nivcsw: 955
+Child rusage ru_utime: 2.850594
+Child rusage ru_stime: 0.6504519999999999
+Child rusage ru_maxrss: 52796
+Child rusage ru_minflt: 90749
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 7512
+Child rusage ru_oublock: 7104
+Child rusage ru_nvcsw: 1009
+Child rusage ru_nivcsw: 1771
+Status: PASSED 
+Ended: 1712928868.98 

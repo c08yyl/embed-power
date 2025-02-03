@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928580.97 
+acl-native-2.3.2-r0: do_create_spdx_setscene
+Elapsed time: 0.28 seconds
+utime: 50
+stime: 3
+cutime: 2
+cstime: 2
+IO rchar: 687067
+IO wchar: 94721
+IO syscr: 227
+IO syscw: 71
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.507734
+rusage ru_stime: 0.039666
+rusage ru_maxrss: 53040
+rusage ru_minflt: 8346
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 459
+Child rusage ru_utime: 0.020342
+Child rusage ru_stime: 0.020359
+Child rusage ru_maxrss: 53040
+Child rusage ru_minflt: 1605
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 39
+Child rusage ru_nivcsw: 129
+Status: PASSED 
+Ended: 1712928581.26 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928604.35 
+perl-native-5.38.2-r0: do_populate_sysroot_setscene
+Elapsed time: 1.82 seconds
+utime: 66
+stime: 17
+cutime: 32
+cstime: 65
+IO rchar: 71710302
+IO wchar: 117103216
+IO syscr: 9915
+IO syscw: 12141
+IO read_bytes: 11587584
+IO write_bytes: 61763584
+IO cancelled_write_bytes: 16384
+rusage ru_utime: 0.666491
+rusage ru_stime: 0.175983
+rusage ru_maxrss: 54056
+rusage ru_minflt: 8621
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 760
+rusage ru_nvcsw: 1802
+rusage ru_nivcsw: 639
+Child rusage ru_utime: 0.321198
+Child rusage ru_stime: 0.656115
+Child rusage ru_maxrss: 64120
+Child rusage ru_minflt: 19372
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 22632
+Child rusage ru_oublock: 119872
+Child rusage ru_nvcsw: 5605
+Child rusage ru_nivcsw: 5527
+Status: PASSED 
+Ended: 1712928606.17 

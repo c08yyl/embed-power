@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928249.62 
+iproute2-6.7.0-r0: do_create_spdx_setscene
+Elapsed time: 0.23 seconds
+utime: 39
+stime: 3
+cutime: 1
+cstime: 3
+IO rchar: 1132827
+IO wchar: 1358443
+IO syscr: 377
+IO syscw: 239
+IO read_bytes: 45056
+IO write_bytes: 700416
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.390588
+rusage ru_stime: 0.03624
+rusage ru_maxrss: 51040
+rusage ru_minflt: 7864
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 57
+rusage ru_nivcsw: 155
+Child rusage ru_utime: 0.018751
+Child rusage ru_stime: 0.033207
+Child rusage ru_maxrss: 50400
+Child rusage ru_minflt: 1856
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 88
+Child rusage ru_oublock: 1248
+Child rusage ru_nvcsw: 62
+Child rusage ru_nivcsw: 101
+Status: PASSED 
+Ended: 1712928249.84 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928406.71 
+libidn2-2.3.7-r0: do_package_setscene
+Elapsed time: 1.14 seconds
+utime: 43
+stime: 15
+cutime: 8
+cstime: 25
+IO rchar: 3714530
+IO wchar: 4905329
+IO syscr: 5181
+IO syscw: 1900
+IO read_bytes: 499712
+IO write_bytes: 2764800
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.433504
+rusage ru_stime: 0.152312
+rusage ru_maxrss: 51164
+rusage ru_minflt: 8424
+rusage ru_majflt: 0
+rusage ru_inblock: 88
+rusage ru_oublock: 224
+rusage ru_nvcsw: 1440
+rusage ru_nivcsw: 642
+Child rusage ru_utime: 0.088993
+Child rusage ru_stime: 0.250029
+Child rusage ru_maxrss: 48356
+Child rusage ru_minflt: 3129
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 888
+Child rusage ru_oublock: 5176
+Child rusage ru_nvcsw: 859
+Child rusage ru_nivcsw: 3147
+Status: PASSED 
+Ended: 1712928407.85 

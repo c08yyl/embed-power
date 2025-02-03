@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928532.46 
+base-passwd-3.6.3-r0: do_package_setscene
+Elapsed time: 0.46 seconds
+utime: 41
+stime: 8
+cutime: 3
+cstime: 5
+IO rchar: 732336
+IO wchar: 490736
+IO syscr: 982
+IO syscw: 299
+IO read_bytes: 73728
+IO write_bytes: 352256
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.412989
+rusage ru_stime: 0.08995099999999999
+rusage ru_maxrss: 50608
+rusage ru_minflt: 8345
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 231
+rusage ru_nivcsw: 763
+Child rusage ru_utime: 0.031328999999999996
+Child rusage ru_stime: 0.051544
+Child rusage ru_maxrss: 48280
+Child rusage ru_minflt: 1965
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 144
+Child rusage ru_oublock: 520
+Child rusage ru_nvcsw: 109
+Child rusage ru_nivcsw: 392
+Status: PASSED 
+Ended: 1712928532.92 

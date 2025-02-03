@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928345.30 
+make-4.4.1-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.36 seconds
+utime: 38
+stime: 5
+cutime: 1
+cstime: 0
+IO rchar: 364802
+IO wchar: 56455
+IO syscr: 117
+IO syscw: 51
+IO read_bytes: 12288
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.38888799999999996
+rusage ru_stime: 0.050554999999999996
+rusage ru_maxrss: 52436
+rusage ru_minflt: 7694
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 96
+rusage ru_nvcsw: 6
+rusage ru_nivcsw: 156
+Child rusage ru_utime: 0.010103
+Child rusage ru_stime: 0.008183
+Child rusage ru_maxrss: 47708
+Child rusage ru_minflt: 917
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 28
+Child rusage ru_nivcsw: 11
+Status: PASSED 
+Ended: 1712928345.66 

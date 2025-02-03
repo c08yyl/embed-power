@@ -1,0 +1,5 @@
+/kitchen/build/tmp/stamps/all-poky-linux/netbase/6.4 /kitchen/build/tmp/sstate-control/manifest-allarch-netbase /kitchen/build/tmp/work/all-poky-linux/netbase/6.4
+/kitchen/build/tmp/stamps/all-poky-linux/update-rc.d/0.8 /kitchen/build/tmp/sstate-control/manifest-allarch-update-rc.d /kitchen/build/tmp/work/all-poky-linux/update-rc.d/0.8
+/kitchen/build/tmp/stamps/all-poky-linux/run-postinsts/1.0 /kitchen/build/tmp/sstate-control/manifest-allarch-run-postinsts /kitchen/build/tmp/work/all-poky-linux/run-postinsts/1.0
+/kitchen/build/tmp/stamps/all-poky-linux/tzdata/2024a /kitchen/build/tmp/sstate-control/manifest-allarch-tzdata /kitchen/build/tmp/work/all-poky-linux/tzdata/2024a
+/kitchen/build/tmp/stamps/all-poky-linux/ca-certificates/20211016 /kitchen/build/tmp/sstate-control/manifest-allarch-ca-certificates /kitchen/build/tmp/work/all-poky-linux/ca-certificates/20211016

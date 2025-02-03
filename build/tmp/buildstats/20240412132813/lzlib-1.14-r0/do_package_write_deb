@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928797.85 
+lzlib-1.14-r0: do_package_write_deb
+Elapsed time: 7.22 seconds
+utime: 102
+stime: 89
+cutime: 43
+cstime: 49
+IO rchar: 3942086
+IO wchar: 1888908
+IO syscr: 2317
+IO syscw: 569
+IO read_bytes: 774144
+IO write_bytes: 1658880
+IO cancelled_write_bytes: 90112
+rusage ru_utime: 1.028881
+rusage ru_stime: 0.8987459999999999
+rusage ru_maxrss: 54172
+rusage ru_minflt: 24020
+rusage ru_majflt: 0
+rusage ru_inblock: 1080
+rusage ru_oublock: 280
+rusage ru_nvcsw: 109
+rusage ru_nivcsw: 638
+Child rusage ru_utime: 0.435008
+Child rusage ru_stime: 0.494191
+Child rusage ru_maxrss: 51920
+Child rusage ru_minflt: 55323
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 432
+Child rusage ru_oublock: 2960
+Child rusage ru_nvcsw: 511
+Child rusage ru_nivcsw: 724
+Status: PASSED 
+Ended: 1712928805.07 

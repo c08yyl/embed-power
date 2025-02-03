@@ -1,0 +1,15 @@
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/etc/group
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/etc/passwd
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/sysroot-providers/pseudo-native
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/sysroot-providers/virtual_fakeroot-native
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/usr/lib/pseudo/lib64/libpseudo.so
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/usr/bin/pseudodb
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/usr/bin/pseudolog
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/usr/bin/pseudo
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/usr/lib/pseudo/lib64/
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/sysroot-providers/
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/usr/lib/pseudo/
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/usr/bin/
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/usr/lib/
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/usr/
+/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native/etc/

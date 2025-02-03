@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928753.93 
+apt-native-2.6.1-r0: do_configure
+Elapsed time: 23.04 seconds
+utime: 59
+stime: 5
+cutime: 597
+cstime: 279
+IO rchar: 67650261
+IO wchar: 6085900
+IO syscr: 32764
+IO syscw: 6751
+IO read_bytes: 16023552
+IO write_bytes: 6770688
+IO cancelled_write_bytes: 4452352
+rusage ru_utime: 0.597026
+rusage ru_stime: 0.052568
+rusage ru_maxrss: 55672
+rusage ru_minflt: 8612
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 144
+rusage ru_nvcsw: 124
+rusage ru_nivcsw: 260
+Child rusage ru_utime: 5.976202
+Child rusage ru_stime: 2.793303
+Child rusage ru_maxrss: 54904
+Child rusage ru_minflt: 318722
+Child rusage ru_majflt: 177
+Child rusage ru_inblock: 31296
+Child rusage ru_oublock: 13080
+Child rusage ru_nvcsw: 3614
+Child rusage ru_nivcsw: 3567
+Status: PASSED 
+Ended: 1712928776.97 

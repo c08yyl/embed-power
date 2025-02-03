@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928366.42 
+libarchive-3.7.2-r0: do_packagedata_setscene
+Elapsed time: 0.23 seconds
+utime: 41
+stime: 3
+cutime: 0
+cstime: 3
+IO rchar: 498126
+IO wchar: 154197
+IO syscr: 221
+IO syscw: 113
+IO read_bytes: 159744
+IO write_bytes: 155648
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.41323
+rusage ru_stime: 0.039355
+rusage ru_maxrss: 52432
+rusage ru_minflt: 7900
+rusage ru_majflt: 0
+rusage ru_inblock: 288
+rusage ru_oublock: 112
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 283
+Child rusage ru_utime: 0.008298999999999999
+Child rusage ru_stime: 0.034233
+Child rusage ru_maxrss: 52432
+Child rusage ru_minflt: 1617
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 192
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 179
+Status: PASSED 
+Ended: 1712928366.65 

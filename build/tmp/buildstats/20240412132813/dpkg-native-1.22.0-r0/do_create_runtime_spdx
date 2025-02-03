@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928660.40 
+dpkg-native-1.22.0-r0: do_create_runtime_spdx
+Elapsed time: 0.50 seconds
+utime: 59
+stime: 5
+cutime: 2
+cstime: 3
+IO rchar: 1247362
+IO wchar: 343950
+IO syscr: 326
+IO syscw: 115
+IO read_bytes: 0
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.598318
+rusage ru_stime: 0.058657999999999995
+rusage ru_maxrss: 56940
+rusage ru_minflt: 10798
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 168
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 265
+Child rusage ru_utime: 0.02729
+Child rusage ru_stime: 0.031455
+Child rusage ru_maxrss: 56940
+Child rusage ru_minflt: 3521
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 51
+Child rusage ru_nivcsw: 237
+Status: PASSED 
+Ended: 1712928660.90 

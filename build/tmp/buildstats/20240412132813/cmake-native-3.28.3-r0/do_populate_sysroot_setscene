@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928600.75 
+cmake-native-3.28.3-r0: do_populate_sysroot_setscene
+Elapsed time: 1.71 seconds
+utime: 40
+stime: 10
+cutime: 44
+cstime: 77
+IO rchar: 142924458
+IO wchar: 183956908
+IO syscr: 9300
+IO syscw: 10964
+IO read_bytes: 21467136
+IO write_bytes: 123867136
+IO cancelled_write_bytes: 57151488
+rusage ru_utime: 0.404785
+rusage ru_stime: 0.10592499999999999
+rusage ru_maxrss: 51216
+rusage ru_minflt: 7523
+rusage ru_majflt: 1
+rusage ru_inblock: 0
+rusage ru_oublock: 592
+rusage ru_nvcsw: 1239
+rusage ru_nivcsw: 375
+Child rusage ru_utime: 0.44049699999999997
+Child rusage ru_stime: 0.779083
+Child rusage ru_maxrss: 71520
+Child rusage ru_minflt: 51390
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 41928
+Child rusage ru_oublock: 241336
+Child rusage ru_nvcsw: 6340
+Child rusage ru_nivcsw: 5923
+Status: PASSED 
+Ended: 1712928602.46 

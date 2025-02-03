@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928616.89 
+popt-native-1.19-r0: do_create_spdx_setscene
+Elapsed time: 0.20 seconds
+utime: 48
+stime: 4
+cutime: 0
+cstime: 2
+IO rchar: 689728
+IO wchar: 94440
+IO syscr: 225
+IO syscw: 70
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.486573
+rusage ru_stime: 0.047859
+rusage ru_maxrss: 54092
+rusage ru_minflt: 8404
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 199
+Child rusage ru_utime: 0.008447
+Child rusage ru_stime: 0.028398
+Child rusage ru_maxrss: 54092
+Child rusage ru_minflt: 1609
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 18
+Status: PASSED 
+Ended: 1712928617.09 

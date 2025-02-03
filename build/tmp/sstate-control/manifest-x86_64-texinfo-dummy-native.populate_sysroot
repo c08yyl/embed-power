@@ -1,0 +1,14 @@
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/sysroot-providers/texinfo-dummy-native
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/update-info-dir
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/install-info
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/txixml2texi
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/pod2texi
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/pdftexi2dvi
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/ginstall-info
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/texi2pdf
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/texindex
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/makeinfo
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/texi2dvi
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/texi2any
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/sysroot-providers/
+/kitchen/build/tmp/sysroots-components/x86_64/texinfo-dummy-native/bin/

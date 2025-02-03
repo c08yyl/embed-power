@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928264.59 
+iptables-1.8.10-r0: do_create_spdx_setscene
+Elapsed time: 0.31 seconds
+utime: 39
+stime: 5
+cutime: 1
+cstime: 8
+IO rchar: 1760416
+IO wchar: 2258231
+IO syscr: 890
+IO syscw: 825
+IO read_bytes: 65536
+IO write_bytes: 1187840
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.393663
+rusage ru_stime: 0.050669
+rusage ru_maxrss: 51136
+rusage ru_minflt: 7825
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 224
+rusage ru_nvcsw: 283
+rusage ru_nivcsw: 266
+Child rusage ru_utime: 0.011996
+Child rusage ru_stime: 0.087966
+Child rusage ru_maxrss: 51136
+Child rusage ru_minflt: 2252
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 128
+Child rusage ru_oublock: 2096
+Child rusage ru_nvcsw: 138
+Child rusage ru_nivcsw: 359
+Status: PASSED 
+Ended: 1712928264.89 

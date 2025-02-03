@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928594.56 
+libgcrypt-native-1.10.3-r0: do_populate_sysroot_setscene
+Elapsed time: 0.34 seconds
+utime: 50
+stime: 4
+cutime: 3
+cstime: 3
+IO rchar: 2322011
+IO wchar: 2286234
+IO syscr: 439
+IO syscw: 237
+IO read_bytes: 487424
+IO write_bytes: 1228800
+IO cancelled_write_bytes: 65536
+rusage ru_utime: 0.505952
+rusage ru_stime: 0.041225
+rusage ru_maxrss: 53000
+rusage ru_minflt: 8435
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 39
+rusage ru_nivcsw: 526
+Child rusage ru_utime: 0.032036999999999996
+Child rusage ru_stime: 0.034297
+Child rusage ru_maxrss: 53000
+Child rusage ru_minflt: 2591
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 952
+Child rusage ru_oublock: 2280
+Child rusage ru_nvcsw: 101
+Child rusage ru_nivcsw: 176
+Status: PASSED 
+Ended: 1712928594.90 

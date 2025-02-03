@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928306.09 
+zlib-native-1.3.1-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.19 seconds
+utime: 43
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 558080
+IO wchar: 53229
+IO syscr: 110
+IO syscw: 50
+IO read_bytes: 8192
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.43966099999999997
+rusage ru_stime: 0.039609
+rusage ru_maxrss: 52236
+rusage ru_minflt: 7775
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 3
+rusage ru_nivcsw: 377
+Child rusage ru_utime: 0.0030399999999999997
+Child rusage ru_stime: 0.015801
+Child rusage ru_maxrss: 48700
+Child rusage ru_minflt: 911
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 51
+Status: PASSED 
+Ended: 1712928306.28 

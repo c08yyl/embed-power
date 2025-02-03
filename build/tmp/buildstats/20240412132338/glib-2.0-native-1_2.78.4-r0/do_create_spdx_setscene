@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928303.89 
+glib-2.0-native-1_2.78.4-r0: do_create_spdx_setscene
+Elapsed time: 0.21 seconds
+utime: 54
+stime: 4
+cutime: 0
+cstime: 2
+IO rchar: 682883
+IO wchar: 107422
+IO syscr: 245
+IO syscw: 87
+IO read_bytes: 143360
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.5448069999999999
+rusage ru_stime: 0.045717999999999995
+rusage ru_maxrss: 52904
+rusage ru_minflt: 8387
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 501
+Child rusage ru_utime: 0.008820999999999999
+Child rusage ru_stime: 0.029980999999999997
+Child rusage ru_maxrss: 52776
+Child rusage ru_minflt: 1583
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 280
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 47
+Child rusage ru_nivcsw: 73
+Status: PASSED 
+Ended: 1712928304.09 

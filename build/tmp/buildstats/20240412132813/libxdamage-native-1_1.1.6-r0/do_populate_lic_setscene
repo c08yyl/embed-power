@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928563.17 
+libxdamage-native-1_1.1.6-r0: do_populate_lic_setscene
+Elapsed time: 0.30 seconds
+utime: 47
+stime: 5
+cutime: 1
+cstime: 3
+IO rchar: 654719
+IO wchar: 71693
+IO syscr: 234
+IO syscw: 74
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.479512
+rusage ru_stime: 0.055756999999999994
+rusage ru_maxrss: 52668
+rusage ru_minflt: 8184
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 669
+Child rusage ru_utime: 0.010891999999999999
+Child rusage ru_stime: 0.030046999999999997
+Child rusage ru_maxrss: 52668
+Child rusage ru_minflt: 1594
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 161
+Status: PASSED 
+Ended: 1712928563.47 

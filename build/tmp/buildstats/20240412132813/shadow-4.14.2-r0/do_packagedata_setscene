@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928531.92 
+shadow-4.14.2-r0: do_packagedata_setscene
+Elapsed time: 0.33 seconds
+utime: 42
+stime: 6
+cutime: 2
+cstime: 6
+IO rchar: 801810
+IO wchar: 512368
+IO syscr: 715
+IO syscw: 699
+IO read_bytes: 24576
+IO write_bytes: 503808
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.424477
+rusage ru_stime: 0.068076
+rusage ru_maxrss: 50728
+rusage ru_minflt: 7805
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 192
+rusage ru_nvcsw: 223
+rusage ru_nivcsw: 251
+Child rusage ru_utime: 0.022153
+Child rusage ru_stime: 0.068315
+Child rusage ru_maxrss: 50728
+Child rusage ru_minflt: 1750
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 792
+Child rusage ru_nvcsw: 68
+Child rusage ru_nivcsw: 290
+Status: PASSED 
+Ended: 1712928532.26 

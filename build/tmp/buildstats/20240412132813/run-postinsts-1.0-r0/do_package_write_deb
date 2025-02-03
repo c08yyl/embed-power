@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928747.27 
+run-postinsts-1.0-r0: do_package_write_deb
+Elapsed time: 2.90 seconds
+utime: 85
+stime: 91
+cutime: 26
+cstime: 37
+IO rchar: 3135992
+IO wchar: 1562496
+IO syscr: 2037
+IO syscw: 526
+IO read_bytes: 577536
+IO write_bytes: 1552384
+IO cancelled_write_bytes: 49152
+rusage ru_utime: 0.8578699999999999
+rusage ru_stime: 0.9127109999999999
+rusage ru_maxrss: 54944
+rusage ru_minflt: 22012
+rusage ru_majflt: 0
+rusage ru_inblock: 64
+rusage ru_oublock: 320
+rusage ru_nvcsw: 68
+rusage ru_nivcsw: 530
+Child rusage ru_utime: 0.268503
+Child rusage ru_stime: 0.37720699999999996
+Child rusage ru_maxrss: 52152
+Child rusage ru_minflt: 32036
+Child rusage ru_majflt: 11
+Child rusage ru_inblock: 1064
+Child rusage ru_oublock: 2712
+Child rusage ru_nvcsw: 321
+Child rusage ru_nivcsw: 531
+Status: PASSED 
+Ended: 1712928750.17 

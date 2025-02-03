@@ -1,0 +1,5 @@
+20241228-224909.015457 do_recipe_qa (103): log.do_recipe_qa.103
+20241228-224909.628595 do_fetch (179): log.do_fetch.179
+20241228-224910.109337 do_unpack (216): log.do_unpack.216
+20241228-224910.264814 do_prepare_recipe_sysroot (217): log.do_prepare_recipe_sysroot.217
+20241229-055044.101249 do_patch (74): log.do_patch.74

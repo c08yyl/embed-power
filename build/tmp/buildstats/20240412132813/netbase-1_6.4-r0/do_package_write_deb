@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712930116.13 
+netbase-1_6.4-r0: do_package_write_deb
+Elapsed time: 4.88 seconds
+utime: 93
+stime: 91
+cutime: 33
+cstime: 32
+IO rchar: 3176706
+IO wchar: 1576683
+IO syscr: 1984
+IO syscw: 515
+IO read_bytes: 495616
+IO write_bytes: 1527808
+IO cancelled_write_bytes: 40960
+rusage ru_utime: 0.9311079999999999
+rusage ru_stime: 0.919068
+rusage ru_maxrss: 51460
+rusage ru_minflt: 23293
+rusage ru_majflt: 3
+rusage ru_inblock: 832
+rusage ru_oublock: 280
+rusage ru_nvcsw: 306
+rusage ru_nivcsw: 445
+Child rusage ru_utime: 0.33182
+Child rusage ru_stime: 0.32753099999999996
+Child rusage ru_maxrss: 48624
+Child rusage ru_minflt: 36036
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 136
+Child rusage ru_oublock: 2704
+Child rusage ru_nvcsw: 352
+Child rusage ru_nivcsw: 404
+Status: PASSED 
+Ended: 1712930121.00 

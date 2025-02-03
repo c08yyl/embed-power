@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928634.85 
+db-native-1_5.3.28-r0: do_patch
+Elapsed time: 1.89 seconds
+utime: 42
+stime: 2
+cutime: 54
+cstime: 33
+IO rchar: 2629428
+IO wchar: 336336
+IO syscr: 3231
+IO syscw: 410
+IO read_bytes: 0
+IO write_bytes: 356352
+IO cancelled_write_bytes: 4096
+rusage ru_utime: 0.427378
+rusage ru_stime: 0.027195999999999998
+rusage ru_maxrss: 52668
+rusage ru_minflt: 5343
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 40
+rusage ru_nivcsw: 170
+Child rusage ru_utime: 0.541523
+Child rusage ru_stime: 0.336877
+Child rusage ru_maxrss: 52668
+Child rusage ru_minflt: 57023
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 560
+Child rusage ru_nvcsw: 936
+Child rusage ru_nivcsw: 507
+Status: PASSED 
+Ended: 1712928636.74 

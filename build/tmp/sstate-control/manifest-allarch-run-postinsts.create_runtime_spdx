@@ -1,0 +1,16 @@
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:run-postinsts:all-poky-linux:1.0:r0:allarch:11:/runtime-run-postinsts-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:run-postinsts:all-poky-linux:1.0:r0:allarch:11:/runtime-run-postinsts-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:run-postinsts:all-poky-linux:1.0:r0:allarch:11:/runtime-run-postinsts.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/http:__spdx.org_spdxdoc_runtime-run-postinsts-dev-e0299faa-d6cb-5372-a00e-1e34afb20f69
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/http:__spdx.org_spdxdoc_runtime-run-postinsts-b34fd3be-59f5-523a-99cf-85d60b8738a0
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/http:__spdx.org_spdxdoc_runtime-run-postinsts-dbg-8a5a8590-0e45-5cc1-ac77-48dc435cdf0f
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/runtime-run-postinsts-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/runtime-run-postinsts-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/runtime-run-postinsts.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:run-postinsts:all-poky-linux:1.0:r0:allarch:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/allarch/
+/kitchen/build/tmp/deploy/spdx/by-hash/

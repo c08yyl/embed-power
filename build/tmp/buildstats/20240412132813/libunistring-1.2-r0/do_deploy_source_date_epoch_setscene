@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928504.14 
+libunistring-1.2-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.31 seconds
+utime: 39
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 364502
+IO wchar: 55334
+IO syscr: 109
+IO syscw: 47
+IO read_bytes: 8192
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.395526
+rusage ru_stime: 0.035219
+rusage ru_maxrss: 49948
+rusage ru_minflt: 7410
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 104
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 610
+Child rusage ru_utime: 0.009975999999999999
+Child rusage ru_stime: 0.012896999999999999
+Child rusage ru_maxrss: 45484
+Child rusage ru_minflt: 935
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 165
+Status: PASSED 
+Ended: 1712928504.45 

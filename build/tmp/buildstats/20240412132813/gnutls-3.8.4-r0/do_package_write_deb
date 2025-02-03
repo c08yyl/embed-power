@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928777.01 
+gnutls-3.8.4-r0: do_package_write_deb
+Elapsed time: 80.67 seconds
+utime: 2172
+stime: 290
+cutime: 4969
+cstime: 437
+IO rchar: 217199618
+IO wchar: 124771103
+IO syscr: 42118
+IO syscw: 14124
+IO read_bytes: 90845184
+IO write_bytes: 30302208
+IO cancelled_write_bytes: 9764864
+rusage ru_utime: 21.726798
+rusage ru_stime: 2.909803
+rusage ru_maxrss: 57780
+rusage ru_minflt: 33650
+rusage ru_majflt: 0
+rusage ru_inblock: 1256
+rusage ru_oublock: 296
+rusage ru_nvcsw: 470
+rusage ru_nivcsw: 5429
+Child rusage ru_utime: 49.690027
+Child rusage ru_stime: 4.379624
+Child rusage ru_maxrss: 197920
+Child rusage ru_minflt: 507287
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 176176
+Child rusage ru_oublock: 58888
+Child rusage ru_nvcsw: 17082
+Child rusage ru_nivcsw: 27158
+Status: PASSED 
+Ended: 1712928857.68 

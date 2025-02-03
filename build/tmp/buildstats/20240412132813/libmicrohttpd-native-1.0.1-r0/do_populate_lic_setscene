@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928592.98 
+libmicrohttpd-native-1.0.1-r0: do_populate_lic_setscene
+Elapsed time: 0.24 seconds
+utime: 46
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 720697
+IO wchar: 171524
+IO syscr: 232
+IO syscw: 72
+IO read_bytes: 12288
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.46446
+rusage ru_stime: 0.037322
+rusage ru_maxrss: 53340
+rusage ru_minflt: 8275
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 295
+Child rusage ru_utime: 0.013165
+Child rusage ru_stime: 0.025025
+Child rusage ru_maxrss: 53340
+Child rusage ru_minflt: 1626
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 120
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 108
+Status: PASSED 
+Ended: 1712928593.22 

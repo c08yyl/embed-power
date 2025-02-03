@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928379.77 
+tzdata-2024a-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.17 seconds
+utime: 33
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 330921
+IO wchar: 47992
+IO syscr: 102
+IO syscw: 44
+IO read_bytes: 143360
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.33236299999999996
+rusage ru_stime: 0.040532
+rusage ru_maxrss: 51624
+rusage ru_minflt: 7300
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 88
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 126
+Child rusage ru_utime: 0.007659999999999999
+Child rusage ru_stime: 0.01082
+Child rusage ru_maxrss: 47788
+Child rusage ru_minflt: 904
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 272
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 34
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1712928379.94 

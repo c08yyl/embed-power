@@ -1,0 +1,15 @@
+PN: v86d
+PV: 0.1.10
+PR: r0
+PKGV: 0.1.10
+PKGR: r0@EXTENDPRAUTO@
+LICENSE: GPL-2.0-only
+DESCRIPTION:v86d-dev: v86d provides a backend for kernel drivers that need to execute x86 BIOS code. The code is executed in a controlled environment and the results are passed back to the kernel via the netlink interface.  This package contains symbolic links, header files, and related items necessary for software development.
+SUMMARY:v86d-dev: User support binary for the uvesafb kernel module - Development files
+RRECOMMENDS:v86d-dev: v86d (= 0.1.10-r0@EXTENDPRAUTO@) glibc-dev
+SECTION:v86d-dev: devel
+PKG:v86d-dev: v86d-dev
+ALLOW_EMPTY:v86d-dev: 1
+FILES:v86d-dev: /usr/include /lib/lib*.so /usr/lib/lib*.so /usr/lib/*.la                 /usr/lib/*.o /usr/lib/pkgconfig /usr/share/pkgconfig                 /usr/share/aclocal /lib/*.o                 /usr/lib/v86d/*.la /lib/*.la                 /usr/lib/cmake /usr/share/cmake
+FILES_INFO:v86d-dev: {}
+PKGSIZE:v86d-dev: 0

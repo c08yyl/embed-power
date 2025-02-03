@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928527.85 
+pigz-native-2.8-r0: do_populate_lic_setscene
+Elapsed time: 0.24 seconds
+utime: 44
+stime: 3
+cutime: 0
+cstime: 2
+IO rchar: 653402
+IO wchar: 86503
+IO syscr: 225
+IO syscw: 68
+IO read_bytes: 8192
+IO write_bytes: 73728
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.44709
+rusage ru_stime: 0.039564999999999996
+rusage ru_maxrss: 51624
+rusage ru_minflt: 7975
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 265
+Child rusage ru_utime: 0.009165
+Child rusage ru_stime: 0.026747999999999997
+Child rusage ru_maxrss: 50600
+Child rusage ru_minflt: 1594
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1712928528.09 

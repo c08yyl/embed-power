@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928609.90 
+libgcrypt-native-1.10.3-r0: do_recipe_qa_setscene
+Elapsed time: 0.19 seconds
+utime: 48
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 605067
+IO wchar: 58743
+IO syscr: 121
+IO syscw: 53
+IO read_bytes: 4096
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.483716
+rusage ru_stime: 0.031980999999999996
+rusage ru_maxrss: 53656
+rusage ru_minflt: 8267
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 223
+Child rusage ru_utime: 0.0043419999999999995
+Child rusage ru_stime: 0.012780999999999999
+Child rusage ru_maxrss: 49068
+Child rusage ru_minflt: 916
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 11
+Status: PASSED 
+Ended: 1712928610.09 

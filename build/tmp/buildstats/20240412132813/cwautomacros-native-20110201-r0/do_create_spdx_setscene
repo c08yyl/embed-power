@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928523.47 
+cwautomacros-native-20110201-r0: do_create_spdx_setscene
+Elapsed time: 0.26 seconds
+utime: 42
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 645086
+IO wchar: 88908
+IO syscr: 224
+IO syscw: 70
+IO read_bytes: 4096
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.42593
+rusage ru_stime: 0.05277
+rusage ru_maxrss: 50472
+rusage ru_minflt: 7632
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 428
+Child rusage ru_utime: 0.016708999999999998
+Child rusage ru_stime: 0.021315999999999998
+Child rusage ru_maxrss: 50472
+Child rusage ru_minflt: 1597
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 49
+Status: PASSED 
+Ended: 1712928523.73 

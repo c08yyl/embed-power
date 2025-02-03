@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928257.03 
+qemuwrapper-cross-1.0-r0: do_populate_lic_setscene
+Elapsed time: 0.21 seconds
+utime: 33
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 396306
+IO wchar: 62686
+IO syscr: 201
+IO syscw: 51
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.335022
+rusage ru_stime: 0.046209
+rusage ru_maxrss: 49888
+rusage ru_minflt: 7209
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 121
+Child rusage ru_utime: 0.02167
+Child rusage ru_stime: 0.013446
+Child rusage ru_maxrss: 49888
+Child rusage ru_minflt: 1582
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 67
+Status: PASSED 
+Ended: 1712928257.24 

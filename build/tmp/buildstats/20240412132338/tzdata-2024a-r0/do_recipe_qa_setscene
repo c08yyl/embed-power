@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928380.20 
+tzdata-2024a-r0: do_recipe_qa_setscene
+Elapsed time: 0.17 seconds
+utime: 34
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 328177
+IO wchar: 46102
+IO syscr: 98
+IO syscw: 38
+IO read_bytes: 12288
+IO write_bytes: 45056
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.343445
+rusage ru_stime: 0.023961
+rusage ru_maxrss: 51628
+rusage ru_minflt: 7275
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 88
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 67
+Child rusage ru_utime: 0.00565
+Child rusage ru_stime: 0.013627
+Child rusage ru_maxrss: 47784
+Child rusage ru_minflt: 896
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 18
+Status: PASSED 
+Ended: 1712928380.37 

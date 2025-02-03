@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928381.75 
+kmod-31-r0: do_packagedata_setscene
+Elapsed time: 0.24 seconds
+utime: 41
+stime: 3
+cutime: 2
+cstime: 2
+IO rchar: 505166
+IO wchar: 141920
+IO syscr: 248
+IO syscw: 134
+IO read_bytes: 24576
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.41883
+rusage ru_stime: 0.037321
+rusage ru_maxrss: 52220
+rusage ru_minflt: 7936
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 112
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 297
+Child rusage ru_utime: 0.021619
+Child rusage ru_stime: 0.022442
+Child rusage ru_maxrss: 52220
+Child rusage ru_minflt: 1612
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 168
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 40
+Status: PASSED 
+Ended: 1712928381.99 

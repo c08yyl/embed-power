@@ -1,0 +1,16 @@
+/kitchen/build/tmp/deploy/spdx/core2-64/runtime/runtime-modutils-initscripts.spdx.json
+/kitchen/build/tmp/deploy/spdx/core2-64/runtime/runtime-modutils-initscripts-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/core2-64/runtime/runtime-modutils-initscripts-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/sstate:modutils-initscripts:core2-64-poky-linux:1.0:r0:core2-64:11:/runtime-modutils-initscripts.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/sstate:modutils-initscripts:core2-64-poky-linux:1.0:r0:core2-64:11:/runtime-modutils-initscripts-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/sstate:modutils-initscripts:core2-64-poky-linux:1.0:r0:core2-64:11:/runtime-modutils-initscripts-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/core2-64/http:__spdx.org_spdxdoc_runtime-modutils-initscripts-88e625d6-7671-5863-bfaf-c9208f66d6fb
+/kitchen/build/tmp/deploy/spdx/by-namespace/core2-64/http:__spdx.org_spdxdoc_runtime-modutils-initscripts-dbg-adc6f311-553f-54db-9b43-a044b20baf1c
+/kitchen/build/tmp/deploy/spdx/by-namespace/core2-64/http:__spdx.org_spdxdoc_runtime-modutils-initscripts-dev-8ce122ab-ff74-5c7a-a912-8c681613485c
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/sstate:modutils-initscripts:core2-64-poky-linux:1.0:r0:core2-64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/core2-64/
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/
+/kitchen/build/tmp/deploy/spdx/core2-64/runtime/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/core2-64/
+/kitchen/build/tmp/deploy/spdx/by-hash/

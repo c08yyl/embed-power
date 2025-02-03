@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928298.63 
+ptest-runner-2.4.3+git-r0: do_create_spdx_setscene
+Elapsed time: 0.20 seconds
+utime: 36
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 486877
+IO wchar: 158737
+IO syscr: 210
+IO syscw: 80
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.36075399999999996
+rusage ru_stime: 0.035290999999999996
+rusage ru_maxrss: 51316
+rusage ru_minflt: 7733
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 210
+Child rusage ru_utime: 0.018944
+Child rusage ru_stime: 0.020662
+Child rusage ru_maxrss: 50292
+Child rusage ru_minflt: 1611
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 80
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 29
+Status: PASSED 
+Ended: 1712928298.83 

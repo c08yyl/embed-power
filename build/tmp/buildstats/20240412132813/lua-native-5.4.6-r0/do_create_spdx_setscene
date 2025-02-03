@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928520.36 
+lua-native-5.4.6-r0: do_create_spdx_setscene
+Elapsed time: 0.28 seconds
+utime: 49
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 672132
+IO wchar: 90795
+IO syscr: 242
+IO syscw: 77
+IO read_bytes: 8192
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.498602
+rusage ru_stime: 0.035334
+rusage ru_maxrss: 52136
+rusage ru_minflt: 8195
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 104
+rusage ru_nvcsw: 20
+rusage ru_nivcsw: 232
+Child rusage ru_utime: 0.016669
+Child rusage ru_stime: 0.02068
+Child rusage ru_maxrss: 51496
+Child rusage ru_minflt: 1578
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 37
+Child rusage ru_nivcsw: 34
+Status: PASSED 
+Ended: 1712928520.64 

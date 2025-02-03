@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928240.30 
+netbase-1_6.4-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.24 seconds
+utime: 31
+stime: 3
+cutime: 0
+cstime: 3
+IO rchar: 407607
+IO wchar: 83842
+IO syscr: 202
+IO syscw: 63
+IO read_bytes: 4096
+IO write_bytes: 65536
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.31674399999999997
+rusage ru_stime: 0.036084
+rusage ru_maxrss: 49632
+rusage ru_minflt: 7189
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 7
+rusage ru_nivcsw: 173
+Child rusage ru_utime: 0.008848
+Child rusage ru_stime: 0.030541
+Child rusage ru_maxrss: 49632
+Child rusage ru_minflt: 1572
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 26
+Status: PASSED 
+Ended: 1712928240.54 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928344.08 
+make-4.4.1-r0: do_package_setscene
+Elapsed time: 0.85 seconds
+utime: 50
+stime: 7
+cutime: 8
+cstime: 25
+IO rchar: 6108239
+IO wchar: 8435038
+IO syscr: 5315
+IO syscw: 2040
+IO read_bytes: 1110016
+IO write_bytes: 4505600
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.5032249999999999
+rusage ru_stime: 0.07611799999999999
+rusage ru_maxrss: 50864
+rusage ru_minflt: 8321
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 224
+rusage ru_nvcsw: 1408
+rusage ru_nivcsw: 1442
+Child rusage ru_utime: 0.080855
+Child rusage ru_stime: 0.25501799999999997
+Child rusage ru_maxrss: 48068
+Child rusage ru_minflt: 3589
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2152
+Child rusage ru_oublock: 8576
+Child rusage ru_nvcsw: 489
+Child rusage ru_nivcsw: 4799
+Status: PASSED 
+Ended: 1712928344.94 

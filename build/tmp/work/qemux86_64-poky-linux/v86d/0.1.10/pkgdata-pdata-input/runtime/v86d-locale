@@ -1,0 +1,13 @@
+PN: v86d
+PV: 0.1.10
+PR: r0
+PKGV: 0.1.10
+PKGR: r0
+LICENSE: GPL-2.0-only
+DESCRIPTION: v86d provides a backend for kernel drivers that need to execute x86 BIOS code. The code is executed in a controlled environment and the results are passed back to the kernel via the netlink interface.
+SUMMARY: User support binary for the uvesafb kernel module
+SECTION: base
+PKG:v86d-locale: v86d-locale
+FILES:v86d-locale: /usr/share/locale
+FILES_INFO:v86d-locale: {}
+PKGSIZE:v86d-locale: 0

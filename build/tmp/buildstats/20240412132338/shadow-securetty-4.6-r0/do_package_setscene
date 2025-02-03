@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928374.62 
+shadow-securetty-4.6-r0: do_package_setscene
+Elapsed time: 0.34 seconds
+utime: 43
+stime: 2
+cutime: 1
+cstime: 3
+IO rchar: 415615
+IO wchar: 121423
+IO syscr: 551
+IO syscw: 143
+IO read_bytes: 8192
+IO write_bytes: 155648
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.43505
+rusage ru_stime: 0.027939
+rusage ru_maxrss: 50312
+rusage ru_minflt: 8125
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 168
+rusage ru_nvcsw: 207
+rusage ru_nivcsw: 577
+Child rusage ru_utime: 0.016663
+Child rusage ru_stime: 0.038504
+Child rusage ru_maxrss: 47592
+Child rusage ru_minflt: 1821
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 136
+Child rusage ru_nvcsw: 103
+Child rusage ru_nivcsw: 245
+Status: PASSED 
+Ended: 1712928374.96 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929950.04 
+bash-completion-2.12.0-r0: do_package_write_deb
+Elapsed time: 13.16 seconds
+utime: 165
+stime: 98
+cutime: 139
+cstime: 67
+IO rchar: 7114376
+IO wchar: 3991484
+IO syscr: 5544
+IO syscw: 1660
+IO read_bytes: 3923968
+IO write_bytes: 2109440
+IO cancelled_write_bytes: 229376
+rusage ru_utime: 1.651216
+rusage ru_stime: 0.982575
+rusage ru_maxrss: 52228
+rusage ru_minflt: 24872
+rusage ru_majflt: 1
+rusage ru_inblock: 1352
+rusage ru_oublock: 288
+rusage ru_nvcsw: 82
+rusage ru_nivcsw: 896
+Child rusage ru_utime: 1.394381
+Child rusage ru_stime: 0.6728649999999999
+Child rusage ru_maxrss: 49748
+Child rusage ru_minflt: 57924
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 6312
+Child rusage ru_oublock: 3832
+Child rusage ru_nvcsw: 1482
+Child rusage ru_nivcsw: 3233
+Status: PASSED 
+Ended: 1712929963.19 

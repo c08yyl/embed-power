@@ -1,0 +1,807 @@
+Loading cache...done.
+Loaded 1875 entries from dependency cache.
+NOTE: Resolving any missing task queue dependencies
+
+Build Configuration:
+BB_VERSION           = "2.7.3"
+BUILD_SYS            = "x86_64-linux"
+NATIVELSBSTRING      = "universal"
+TARGET_SYS           = "x86_64-poky-linux"
+MACHINE              = "qemux86-64"
+DISTRO               = "poky"
+DISTRO_VERSION       = "4.3+snapshot-282e464d7d7940f2935c3afaad3b3eb8f3513939"
+TUNE_FEATURES        = "m64 core2"
+TARGET_FPU           = ""
+meta                 
+meta-poky            
+meta-yocto-bsp       = "master:282e464d7d7940f2935c3afaad3b3eb8f3513939"
+
+Initialising tasks...Sstate summary: Wanted 167 Local 0 Mirrors 0 Missed 167 Current 1700 (0% match, 91% complete)
+done.
+NOTE: Executing Tasks
+NOTE: Running task 3170 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/llvm/llvm_git.bb:do_install)
+NOTE: recipe llvm-native-18.1.2-r0: task do_install: Started
+NOTE: Running task 3838 of 4099 (/home/leo/docker/poky/meta/recipes-core/glibc/glibc_2.39.bb:do_package_qa)
+NOTE: Running task 3839 of 4099 (/home/leo/docker/poky/meta/recipes-core/glibc/glibc_2.39.bb:do_create_runtime_spdx)
+NOTE: Running task 3843 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/meson/meson_1.3.1.bb:do_create_runtime_spdx)
+NOTE: recipe glibc-2.39+git-r0: task do_create_runtime_spdx: Started
+NOTE: recipe meson-native-1.3.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe glibc-2.39+git-r0: task do_package_qa: Started
+NOTE: recipe meson-native-1.3.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3844 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-core/libxml/libxml2_2.12.5.bb:do_create_runtime_spdx)
+NOTE: recipe libxml2-native-2.12.5-r0: task do_create_runtime_spdx: Started
+NOTE: recipe libxml2-native-2.12.5-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3845 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-core/expat/expat_2.6.2.bb:do_create_runtime_spdx)
+NOTE: recipe glibc-2.39+git-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3846 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-support/curl/curl_8.6.0.bb:do_create_runtime_spdx)
+NOTE: recipe expat-native-2.6.2-r0: task do_create_runtime_spdx: Started
+NOTE: recipe curl-native-8.6.0-r0: task do_create_runtime_spdx: Started
+NOTE: recipe expat-native-2.6.2-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3847 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-core/glib-2.0/glib-2.0_2.78.4.bb:do_create_runtime_spdx)
+NOTE: recipe curl-native-8.6.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3848 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-core/zlib/zlib_1.3.1.bb:do_create_runtime_spdx)
+NOTE: recipe llvm-native-18.1.2-r0: task do_install: Succeeded
+NOTE: Running task 3849 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/llvm/llvm_git.bb:do_populate_sysroot)
+NOTE: recipe glib-2.0-native-1_2.78.4-r0: task do_create_runtime_spdx: Started
+NOTE: recipe zlib-native-1.3.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe llvm-native-18.1.2-r0: task do_populate_sysroot: Started
+NOTE: recipe glib-2.0-native-1_2.78.4-r0: task do_create_runtime_spdx: Succeeded
+NOTE: recipe zlib-native-1.3.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3850 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/libdnf/libdnf_0.73.0.bb:do_create_runtime_spdx)
+NOTE: Running task 3851 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/librepo/librepo_1.17.0.bb:do_create_runtime_spdx)
+NOTE: recipe libdnf-native-0.73.0-r0: task do_create_runtime_spdx: Started
+NOTE: recipe librepo-native-1.17.0-r0: task do_create_runtime_spdx: Started
+NOTE: recipe librepo-native-1.17.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: recipe libdnf-native-0.73.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3852 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/ninja/ninja_1.11.1.bb:do_create_runtime_spdx)
+NOTE: Running task 3853 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-iniparse_0.5.bb:do_create_runtime_spdx)
+NOTE: recipe ninja-native-1.11.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe python3-iniparse-native-0.5-r0: task do_create_runtime_spdx: Started
+NOTE: recipe ninja-native-1.11.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3854 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/libcomps/libcomps_0.1.20.bb:do_create_runtime_spdx)
+NOTE: recipe python3-iniparse-native-0.5-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3855 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/file/file_5.45.bb:do_create_runtime_spdx)
+NOTE: recipe libcomps-native-0.1.20-r0: task do_create_runtime_spdx: Started
+NOTE: recipe file-native-5.45-r0: task do_create_runtime_spdx: Started
+NOTE: recipe libcomps-native-0.1.20-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3856 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/lua/lua_5.4.6.bb:do_create_runtime_spdx)
+NOTE: recipe file-native-5.45-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3857 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3_3.12.2.bb:do_create_runtime_spdx)
+NOTE: recipe lua-native-5.4.6-r0: task do_create_runtime_spdx: Started
+NOTE: recipe python3-native-3.12.2-r0: task do_create_runtime_spdx: Started
+NOTE: recipe lua-native-5.4.6-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3858 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-extended/bzip2/bzip2_1.0.8.bb:do_create_runtime_spdx)
+NOTE: recipe python3-native-3.12.2-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3859 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/cmake/cmake-native_3.28.3.bb:do_create_runtime_spdx)
+NOTE: recipe cmake-native-3.28.3-r0: task do_create_runtime_spdx: Started
+NOTE: recipe bzip2-native-1.0.8-r0: task do_create_runtime_spdx: Started
+NOTE: recipe cmake-native-3.28.3-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3860 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-support/libgcrypt/libgcrypt_1.10.3.bb:do_create_runtime_spdx)
+NOTE: recipe bzip2-native-1.0.8-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3861 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-support/popt/popt_1.19.bb:do_create_runtime_spdx)
+NOTE: recipe libgcrypt-native-1.10.3-r0: task do_create_runtime_spdx: Started
+NOTE: recipe popt-native-1.19-r0: task do_create_runtime_spdx: Started
+NOTE: recipe libgcrypt-native-1.10.3-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3862 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-extended/zstd/zstd_1.5.5.bb:do_create_runtime_spdx)
+NOTE: recipe popt-native-1.19-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3863 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/perl/perl_5.38.2.bb:do_create_runtime_spdx)
+NOTE: recipe zstd-native-1.5.5-r0: task do_create_runtime_spdx: Started
+NOTE: recipe perl-native-5.38.2-r0: task do_create_runtime_spdx: Started
+NOTE: recipe zstd-native-1.5.5-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3864 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-native_8.2.1.bb:do_create_runtime_spdx)
+NOTE: recipe perl-native-5.38.2-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3865 of 4099 (/home/leo/docker/poky/meta/recipes-core/gettext/gettext-minimal-native_0.22.5.bb:do_create_runtime_spdx)
+NOTE: recipe qemu-native-8.2.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe gettext-minimal-native-0.22.5-r0: task do_create_runtime_spdx: Started
+NOTE: recipe qemu-native-8.2.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3866 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-support/gmp/gmp_6.3.0.bb:do_create_runtime_spdx)
+NOTE: recipe gettext-minimal-native-0.22.5-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3867 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/elfutils/elfutils_0.191.bb:do_create_runtime_spdx)
+NOTE: recipe gmp-native-6.3.0-r0: task do_create_runtime_spdx: Started
+NOTE: recipe elfutils-native-0.191-r0: task do_create_runtime_spdx: Started
+NOTE: recipe gmp-native-6.3.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3868 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/openssl/openssl_3.2.1.bb:do_create_runtime_spdx)
+NOTE: recipe elfutils-native-0.191-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3869 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-support/libmpc/libmpc_1.3.1.bb:do_create_runtime_spdx)
+NOTE: recipe openssl-native-3.2.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe libmpc-native-1.3.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe openssl-native-3.2.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3870 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-core/util-linux/util-linux_2.39.3.bb:do_create_runtime_spdx)
+NOTE: recipe libmpc-native-1.3.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3871 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/bison/bison_3.8.2.bb:do_create_runtime_spdx)
+NOTE: recipe util-linux-native-2.39.3-r0: task do_create_runtime_spdx: Started
+NOTE: recipe bison-native-3.8.2-r0: task do_create_runtime_spdx: Started
+NOTE: recipe util-linux-native-2.39.3-r0: task do_create_runtime_spdx: Succeeded
+NOTE: recipe bison-native-3.8.2-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3872 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-extended/bc/bc_1.07.1.bb:do_create_runtime_spdx)
+NOTE: Running task 3873 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/gcc/gcc-cross_13.2.bb:do_create_runtime_spdx)
+NOTE: recipe gcc-cross-x86_64-13.2.0-r0: task do_create_runtime_spdx: Started
+NOTE: recipe bc-native-1.07.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe gcc-cross-x86_64-13.2.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3874 of 4099 (/home/leo/docker/poky/meta/recipes-kernel/kern-tools/kern-tools-native_git.bb:do_create_runtime_spdx)
+NOTE: recipe bc-native-1.07.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3875 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-core/ncurses/ncurses_6.4.bb:do_create_runtime_spdx)
+NOTE: recipe kern-tools-native-0.3+git-r0: task do_create_runtime_spdx: Started
+NOTE: recipe kern-tools-native-0.3+git-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3876 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/kmod/kmod_31.bb:do_create_runtime_spdx)
+NOTE: recipe ncurses-native-6.4-r0: task do_create_runtime_spdx: Started
+NOTE: recipe ncurses-native-6.4-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3877 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/dwarfsrcfiles/dwarfsrcfiles.bb:do_create_runtime_spdx)
+NOTE: recipe kmod-native-31-r0: task do_create_runtime_spdx: Started
+NOTE: recipe kmod-native-31-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3878 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/binutils/binutils-cross_2.42.bb:do_create_runtime_spdx)
+NOTE: recipe dwarfsrcfiles-native-1.0-r0: task do_create_runtime_spdx: Started
+NOTE: recipe dwarfsrcfiles-native-1.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: recipe binutils-cross-x86_64-2.42-r0: task do_create_runtime_spdx: Started
+NOTE: Running task 3879 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/pkgconfig/pkgconfig_git.bb:do_create_runtime_spdx)
+NOTE: recipe binutils-cross-x86_64-2.42-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3880 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-support/sqlite/sqlite3_3.45.1.bb:do_create_runtime_spdx)
+NOTE: recipe pkgconfig-native-0.29.2+git-r0: task do_create_runtime_spdx: Started
+NOTE: recipe sqlite3-native-3_3.45.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe pkgconfig-native-0.29.2+git-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3881 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/automake/automake_1.16.5.bb:do_create_runtime_spdx)
+NOTE: recipe sqlite3-native-3_3.45.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3882 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/libtool/libtool-native_2.4.7.bb:do_create_runtime_spdx)
+NOTE: recipe automake-native-1.16.5-r0: task do_create_runtime_spdx: Started
+NOTE: recipe libtool-native-2.4.7-r0: task do_create_runtime_spdx: Started
+NOTE: recipe automake-native-1.16.5-r0: task do_create_runtime_spdx: Succeeded
+NOTE: recipe libtool-native-2.4.7-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3883 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-support/attr/attr_2.5.1.bb:do_create_runtime_spdx)
+NOTE: Running task 3884 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/autoconf/autoconf_2.72e.bb:do_create_runtime_spdx)
+NOTE: recipe glibc-2.39+git-r0: task do_package_qa: Succeeded
+NOTE: Running task 3885 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/run-postinsts/run-postinsts_1.0.bb:do_package_qa)
+NOTE: recipe attr-native-2.5.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe autoconf-native-2.72e-r0: task do_create_runtime_spdx: Started
+NOTE: recipe run-postinsts-1.0-r0: task do_package_qa: Started
+NOTE: recipe attr-native-2.5.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: recipe autoconf-native-2.72e-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3886 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/run-postinsts/run-postinsts_1.0.bb:do_create_runtime_spdx)
+NOTE: Running task 3887 of 4099 (/home/leo/docker/poky/meta/recipes-core/packagegroups/packagegroup-core-boot.bb:do_package_qa)
+NOTE: recipe run-postinsts-1.0-r0: task do_create_runtime_spdx: Started
+NOTE: recipe packagegroup-core-boot-1.0-r0: task do_package_qa: Started
+NOTE: recipe run-postinsts-1.0-r0: task do_package_qa: Succeeded
+NOTE: Running task 3888 of 4099 (/home/leo/docker/poky/meta/recipes-core/packagegroups/packagegroup-core-boot.bb:do_create_runtime_spdx)
+NOTE: recipe packagegroup-core-boot-1.0-r0: task do_create_runtime_spdx: Started
+NOTE: recipe run-postinsts-1.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3889 of 4099 (/home/leo/docker/poky/meta/recipes-kernel/kmod/depmodwrapper-cross_1.0.bb:do_create_runtime_spdx)
+NOTE: recipe packagegroup-core-boot-1.0-r0: task do_package_qa: Succeeded
+NOTE: recipe depmodwrapper-cross-1.0-r0: task do_create_runtime_spdx: Started
+NOTE: Running task 3890 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/e2fsprogs/e2fsprogs_1.47.0.bb:do_create_runtime_spdx)
+NOTE: recipe packagegroup-core-boot-1.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3891 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-extended/pigz/pigz_2.8.bb:do_create_runtime_spdx)
+NOTE: recipe llvm-native-18.1.2-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 3892 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/mesa/mesa_24.0.2.bb:do_prepare_recipe_sysroot)
+NOTE: recipe depmodwrapper-cross-1.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3893 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-extended/pbzip2/pbzip2_1.1.13.bb:do_create_runtime_spdx)
+NOTE: recipe pigz-native-2.8-r0: task do_create_runtime_spdx: Started
+NOTE: recipe e2fsprogs-native-1.47.0-r0: task do_create_runtime_spdx: Started
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe pbzip2-native-1.1.13-r0: task do_create_runtime_spdx: Started
+NOTE: recipe pigz-native-2.8-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3894 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-extended/pbzip2/pbzip2_1.1.13.bb:do_populate_sysroot)
+NOTE: recipe e2fsprogs-native-1.47.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3895 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/createrepo-c/createrepo-c_1.0.4.bb:do_create_runtime_spdx)
+NOTE: recipe pbzip2-native-1.1.13-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3896 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/createrepo-c/createrepo-c_1.0.4.bb:do_populate_sysroot)
+NOTE: recipe pbzip2-native-1.1.13-r0: task do_populate_sysroot: Started
+NOTE: recipe createrepo-c-native-1.0.4-r0: task do_create_runtime_spdx: Started
+NOTE: recipe createrepo-c-native-1.0.4-r0: task do_populate_sysroot: Started
+NOTE: recipe createrepo-c-native-1.0.4-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3897 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/dnf/dnf_4.19.0.bb:do_create_runtime_spdx)
+NOTE: recipe pbzip2-native-1.1.13-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 3898 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/dnf/dnf_4.19.0.bb:do_populate_sysroot)
+NOTE: recipe dnf-native-4.19.0-r0: task do_create_runtime_spdx: Started
+NOTE: recipe dnf-native-4.19.0-r0: task do_populate_sysroot: Started
+NOTE: recipe dnf-native-4.19.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3899 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/rpm/rpm_4.19.1.bb:do_create_runtime_spdx)
+NOTE: recipe createrepo-c-native-1.0.4-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 3900 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-core/update-rc.d/update-rc.d_0.8.bb:do_create_runtime_spdx)
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: Running task 3901 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/mesa/mesa_24.0.2.bb:do_configure)
+NOTE: recipe update-rc.d-native-0.8-r0: task do_create_runtime_spdx: Started
+NOTE: recipe rpm-native-1_4.19.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_configure: Started
+NOTE: recipe update-rc.d-native-0.8-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3902 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/opkg-utils/opkg-utils_0.6.3.bb:do_create_runtime_spdx)
+NOTE: recipe rpm-native-1_4.19.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3903 of 4099 (/home/leo/docker/poky/meta/recipes-core/glibc/ldconfig-native_2.12.1.bb:do_create_runtime_spdx)
+NOTE: recipe dnf-native-4.19.0-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 3904 of 4099 (/home/leo/docker/poky/meta/recipes-core/glibc/ldconfig-native_2.12.1.bb:do_populate_sysroot)
+NOTE: recipe ldconfig-native-2.12.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe opkg-utils-native-0.6.3-r0: task do_create_runtime_spdx: Started
+NOTE: recipe ldconfig-native-2.12.1-r0: task do_populate_sysroot: Started
+NOTE: recipe ldconfig-native-2.12.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3905 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/makedevs/makedevs_1.0.1.bb:do_create_runtime_spdx)
+NOTE: recipe opkg-utils-native-0.6.3-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3906 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/makedevs/makedevs_1.0.1.bb:do_populate_sysroot)
+NOTE: recipe makedevs-native-1.0.1-r0: task do_create_runtime_spdx: Started
+NOTE: recipe makedevs-native-1.0.1-r0: task do_populate_sysroot: Started
+NOTE: recipe ldconfig-native-2.12.1-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 3907 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemuwrapper-cross_1.0.bb:do_package_write_rpm)
+NOTE: recipe makedevs-native-1.0.1-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3908 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemuwrapper-cross_1.0.bb:do_package_qa)
+NOTE: recipe qemuwrapper-cross-1.0-r0: task do_package_write_rpm: Started
+NOTE: recipe qemuwrapper-cross-1.0-r0: task do_package_qa: Started
+NOTE: recipe makedevs-native-1.0.1-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 3909 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemuwrapper-cross_1.0.bb:do_create_runtime_spdx)
+NOTE: recipe qemuwrapper-cross-1.0-r0: task do_create_runtime_spdx: Started
+NOTE: recipe qemuwrapper-cross-1.0-r0: task do_package_qa: Succeeded
+NOTE: recipe qemuwrapper-cross-1.0-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3910 of 4099 (/home/leo/docker/poky/meta/recipes-core/glibc/cross-localedef-native_2.39.bb:do_create_runtime_spdx)
+NOTE: Running task 3911 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-extended/xz/xz_5.4.6.bb:do_create_runtime_spdx)
+NOTE: recipe cross-localedef-native-2.39+git-r0: task do_create_runtime_spdx: Started
+NOTE: recipe qemuwrapper-cross-1.0-r0: task do_package_write_rpm: Succeeded
+NOTE: Running task 3912 of 4099 (/home/leo/docker/poky/meta/recipes-kernel/linux/linux-yocto_6.6.bb:do_package_write_rpm)
+NOTE: recipe xz-native-5.4.6-r0: task do_create_runtime_spdx: Started
+NOTE: recipe cross-localedef-native-2.39+git-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3913 of 4099 (/home/leo/docker/poky/meta/recipes-kernel/linux/linux-yocto_6.6.bb:do_package_qa)
+NOTE: recipe xz-native-5.4.6-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3914 of 4099 (/home/leo/docker/poky/meta/recipes-kernel/linux/linux-yocto_6.6.bb:do_create_runtime_spdx)
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_package_write_rpm: Started
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_package_qa: Started
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_create_runtime_spdx: Started
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3915 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/pseudo/pseudo_git.bb:do_create_runtime_spdx)
+NOTE: recipe pseudo-native-1.9.0+git-r0: task do_create_runtime_spdx: Started
+NOTE: recipe pseudo-native-1.9.0+git-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3916 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/patch/patch_2.7.6.bb:do_create_runtime_spdx)
+NOTE: recipe patch-native-2.7.6-r0: task do_create_runtime_spdx: Started
+NOTE: recipe patch-native-2.7.6-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3917 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/quilt/quilt-native_0.67.bb:do_create_runtime_spdx)
+NOTE: recipe quilt-native-0.67-r0: task do_create_runtime_spdx: Started
+NOTE: recipe quilt-native-0.67-r0: task do_create_runtime_spdx: Succeeded
+NOTE: Running task 3918 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_recipe_qa)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_recipe_qa: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_recipe_qa: Succeeded
+NOTE: Running task 3919 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_recipe_qa)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_recipe_qa: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_recipe_qa: Succeeded
+NOTE: Running task 3920 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_recipe_qa)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_recipe_qa: Started
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_recipe_qa: Succeeded
+NOTE: Running task 3921 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/libpng/libpng_1.6.42.bb:do_recipe_qa)
+NOTE: recipe libpng-native-1.6.42-r0: task do_recipe_qa: Started
+NOTE: recipe libpng-native-1.6.42-r0: task do_recipe_qa: Succeeded
+NOTE: Running task 3922 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_recipe_qa)
+NOTE: recipe dtc-native-1.7.0-r0: task do_recipe_qa: Started
+NOTE: recipe dtc-native-1.7.0-r0: task do_recipe_qa: Succeeded
+NOTE: Running task 3923 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/alsa/alsa-lib_1.2.11.bb:do_recipe_qa)
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_recipe_qa: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_recipe_qa: Succeeded
+NOTE: Running task 3924 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_fetch)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_fetch: Started
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_configure: Succeeded
+NOTE: Running task 3925 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/mesa/mesa_24.0.2.bb:do_compile)
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_compile: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_fetch: Succeeded
+NOTE: Running task 3926 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_fetch)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_fetch: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_fetch: Succeeded
+NOTE: Running task 3927 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_fetch)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_fetch: Started
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_fetch: Succeeded
+NOTE: Running task 3928 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/libpng/libpng_1.6.42.bb:do_fetch)
+NOTE: recipe libpng-native-1.6.42-r0: task do_fetch: Started
+WARNING: libpng-native-1.6.42-r0 do_fetch: Failed to fetch URL https://downloads.sourceforge.net/project/libpng/libpng16/libpng-1.6.42.tar.xz, attempting MIRRORS if available
+NOTE: recipe libpng-native-1.6.42-r0: task do_fetch: Succeeded
+NOTE: Running task 3929 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_fetch)
+NOTE: recipe dtc-native-1.7.0-r0: task do_fetch: Started
+NOTE: recipe dtc-native-1.7.0-r0: task do_fetch: Succeeded
+NOTE: Running task 3930 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/alsa/alsa-lib_1.2.11.bb:do_fetch)
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_fetch: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_fetch: Succeeded
+NOTE: Running task 3931 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libsdl2/libsdl2_2.30.0.bb:do_unpack)
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_unpack: Started
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_unpack: Succeeded
+NOTE: Running task 3932 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libsdl2/libsdl2_2.30.0.bb:do_patch)
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_patch: Started
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_patch: Succeeded
+NOTE: Running task 3933 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_recipe_qa)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_recipe_qa: Started
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_recipe_qa: Succeeded
+NOTE: Running task 3934 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_fetch)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_fetch: Started
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_fetch: Succeeded
+NOTE: Running task 3935 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_unpack)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_unpack: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_unpack: Succeeded
+NOTE: Running task 3936 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_unpack)
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_package_qa: Succeeded
+NOTE: Running task 3937 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_unpack)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_unpack: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_unpack: Succeeded
+NOTE: Running task 3938 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/libpng/libpng_1.6.42.bb:do_unpack)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_unpack: Started
+NOTE: recipe libpng-native-1.6.42-r0: task do_unpack: Started
+NOTE: recipe libpng-native-1.6.42-r0: task do_unpack: Succeeded
+NOTE: Running task 3939 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_unpack)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_unpack: Succeeded
+NOTE: Running task 3940 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/alsa/alsa-lib_1.2.11.bb:do_unpack)
+NOTE: recipe dtc-native-1.7.0-r0: task do_unpack: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_unpack: Started
+NOTE: recipe dtc-native-1.7.0-r0: task do_unpack: Succeeded
+NOTE: Running task 3941 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_patch)
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_unpack: Succeeded
+NOTE: Running task 3942 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_patch)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_patch: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_patch: Succeeded
+NOTE: Running task 3943 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_patch)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_patch: Started
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_patch: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_patch: Succeeded
+NOTE: Running task 3944 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/libpng/libpng_1.6.42.bb:do_patch)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_patch: Succeeded
+NOTE: Running task 3945 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_patch)
+NOTE: recipe libpng-native-1.6.42-r0: task do_patch: Started
+NOTE: recipe libpng-native-1.6.42-r0: task do_patch: Succeeded
+NOTE: Running task 3946 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/alsa/alsa-lib_1.2.11.bb:do_patch)
+NOTE: recipe dtc-native-1.7.0-r0: task do_patch: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_patch: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_patch: Succeeded
+NOTE: Running task 3947 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_unpack)
+NOTE: recipe dtc-native-1.7.0-r0: task do_patch: Succeeded
+NOTE: Running task 3948 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libepoxy/libepoxy_1.5.10.bb:do_write_config)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_unpack: Started
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_write_config: Started
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_write_config: Succeeded
+NOTE: Running task 3949 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libepoxy/libepoxy_1.5.10.bb:do_deploy_source_date_epoch)
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_deploy_source_date_epoch: Started
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_deploy_source_date_epoch: Succeeded
+NOTE: Running task 3950 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/unfs3/unfs3_git.bb:do_recipe_qa)
+NOTE: recipe unfs3-native-0.10.0-r0: task do_recipe_qa: Started
+NOTE: recipe unfs3-native-0.10.0-r0: task do_recipe_qa: Succeeded
+NOTE: Running task 3951 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/unfs3/unfs3_git.bb:do_fetch)
+NOTE: recipe unfs3-native-0.10.0-r0: task do_fetch: Started
+NOTE: recipe unfs3-native-0.10.0-r0: task do_fetch: Succeeded
+NOTE: Running task 3952 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/unfs3/unfs3_git.bb:do_unpack)
+NOTE: recipe unfs3-native-0.10.0-r0: task do_unpack: Started
+NOTE: recipe unfs3-native-0.10.0-r0: task do_unpack: Succeeded
+NOTE: Running task 3953 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/unfs3/unfs3_git.bb:do_patch)
+NOTE: recipe unfs3-native-0.10.0-r0: task do_patch: Started
+NOTE: recipe unfs3-native-0.10.0-r0: task do_patch: Succeeded
+NOTE: Running task 3954 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_write_config)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_write_config: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_write_config: Succeeded
+NOTE: Running task 3955 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_deploy_source_date_epoch)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_deploy_source_date_epoch: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_deploy_source_date_epoch: Succeeded
+NOTE: Running task 3956 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_prepare_recipe_sysroot)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: Running task 3957 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_write_config)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_write_config: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_write_config: Succeeded
+NOTE: Running task 3958 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_deploy_source_date_epoch)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_deploy_source_date_epoch: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_deploy_source_date_epoch: Succeeded
+NOTE: Running task 3959 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_prepare_recipe_sysroot)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: Running task 3960 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_write_config)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_write_config: Started
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_write_config: Succeeded
+NOTE: Running task 3961 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_deploy_source_date_epoch)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_deploy_source_date_epoch: Started
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_deploy_source_date_epoch: Succeeded
+NOTE: Running task 3962 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libsdl2/libsdl2_2.30.0.bb:do_generate_toolchain_file)
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_generate_toolchain_file: Started
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_generate_toolchain_file: Succeeded
+NOTE: Running task 3963 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libsdl2/libsdl2_2.30.0.bb:do_deploy_source_date_epoch)
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_deploy_source_date_epoch: Started
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_deploy_source_date_epoch: Succeeded
+NOTE: Running task 3964 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/libpng/libpng_1.6.42.bb:do_deploy_source_date_epoch)
+NOTE: recipe libpng-native-1.6.42-r0: task do_deploy_source_date_epoch: Started
+NOTE: recipe libpng-native-1.6.42-r0: task do_deploy_source_date_epoch: Succeeded
+NOTE: Running task 3965 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/libpng/libpng_1.6.42.bb:do_prepare_recipe_sysroot)
+NOTE: recipe libpng-native-1.6.42-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe libpng-native-1.6.42-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: Running task 3966 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_write_config)
+NOTE: recipe dtc-native-1.7.0-r0: task do_write_config: Started
+NOTE: recipe dtc-native-1.7.0-r0: task do_write_config: Succeeded
+NOTE: Running task 3967 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_deploy_source_date_epoch)
+NOTE: recipe dtc-native-1.7.0-r0: task do_deploy_source_date_epoch: Started
+NOTE: recipe dtc-native-1.7.0-r0: task do_deploy_source_date_epoch: Succeeded
+NOTE: Running task 3968 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_prepare_recipe_sysroot)
+NOTE: recipe dtc-native-1.7.0-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe dtc-native-1.7.0-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: Running task 3969 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/alsa/alsa-lib_1.2.11.bb:do_deploy_source_date_epoch)
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_deploy_source_date_epoch: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_deploy_source_date_epoch: Succeeded
+NOTE: Running task 3970 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/alsa/alsa-lib_1.2.11.bb:do_prepare_recipe_sysroot)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_unpack: Succeeded
+NOTE: Running task 3971 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_patch)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_patch: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: Running task 3972 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_configure)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_configure: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_configure: Succeeded
+NOTE: Running task 3973 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_configure)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_configure: Started
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_patch: Succeeded
+NOTE: Running task 3974 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/libpng/libpng_1.6.42.bb:do_configure)
+NOTE: recipe libpng-native-1.6.42-r0: task do_configure: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_configure: Succeeded
+NOTE: Running task 3975 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_configure)
+NOTE: recipe dtc-native-1.7.0-r0: task do_configure: Started
+NOTE: recipe dtc-native-1.7.0-r0: task do_configure: Succeeded
+NOTE: Running task 3976 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/alsa/alsa-lib_1.2.11.bb:do_configure)
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_configure: Started
+NOTE: recipe libpng-native-1.6.42-r0: task do_configure: Succeeded
+NOTE: Running task 3977 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_compile)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_compile: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_compile: Succeeded
+NOTE: Running task 3978 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_compile)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_compile: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_configure: Succeeded
+NOTE: Running task 3979 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/libpng/libpng_1.6.42.bb:do_compile)
+NOTE: recipe libpng-native-1.6.42-r0: task do_compile: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_compile: Succeeded
+NOTE: Running task 3980 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_compile)
+NOTE: recipe dtc-native-1.7.0-r0: task do_compile: Started
+NOTE: recipe libpng-native-1.6.42-r0: task do_compile: Succeeded
+NOTE: Running task 3981 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/alsa/alsa-lib_1.2.11.bb:do_compile)
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_compile: Started
+NOTE: recipe dtc-native-1.7.0-r0: task do_compile: Succeeded
+NOTE: Running task 3982 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_install)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_install: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_install: Succeeded
+NOTE: Running task 3983 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_install)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_install: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_install: Succeeded
+NOTE: Running task 3984 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/libpng/libpng_1.6.42.bb:do_install)
+NOTE: recipe libpng-native-1.6.42-r0: task do_install: Started
+NOTE: recipe libpng-native-1.6.42-r0: task do_install: Succeeded
+NOTE: Running task 3985 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_install)
+NOTE: recipe dtc-native-1.7.0-r0: task do_install: Started
+NOTE: recipe dtc-native-1.7.0-r0: task do_install: Succeeded
+NOTE: Running task 3986 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_populate_sysroot)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_populate_sysroot: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 3987 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_populate_sysroot)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_populate_sysroot: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 3988 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/libpng/libpng_1.6.42.bb:do_populate_sysroot)
+NOTE: recipe libpng-native-1.6.42-r0: task do_populate_sysroot: Started
+NOTE: recipe libpng-native-1.6.42-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 3989 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_populate_sysroot)
+NOTE: recipe dtc-native-1.7.0-r0: task do_populate_sysroot: Started
+NOTE: recipe dtc-native-1.7.0-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 3990 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_deploy_source_date_epoch)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_deploy_source_date_epoch: Started
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_deploy_source_date_epoch: Succeeded
+NOTE: Running task 3991 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_recipe_qa)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_recipe_qa: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_recipe_qa: Succeeded
+NOTE: Running task 3992 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_fetch)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_fetch: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_fetch: Succeeded
+NOTE: Running task 3993 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_unpack)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_unpack: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_unpack: Succeeded
+NOTE: Running task 3994 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_patch)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_patch: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_patch: Succeeded
+NOTE: Running task 3995 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/unfs3/unfs3_git.bb:do_deploy_source_date_epoch)
+NOTE: recipe unfs3-native-0.10.0-r0: task do_deploy_source_date_epoch: Started
+NOTE: recipe unfs3-native-0.10.0-r0: task do_deploy_source_date_epoch: Succeeded
+NOTE: Running task 3996 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/unfs3/unfs3_git.bb:do_prepare_recipe_sysroot)
+NOTE: recipe unfs3-native-0.10.0-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe unfs3-native-0.10.0-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: Running task 3997 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/unfs3/unfs3_git.bb:do_configure)
+NOTE: recipe unfs3-native-0.10.0-r0: task do_configure: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_compile: Succeeded
+NOTE: Running task 3998 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/alsa/alsa-lib_1.2.11.bb:do_install)
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_install: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_install: Succeeded
+NOTE: Running task 3999 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/alsa/alsa-lib_1.2.11.bb:do_populate_sysroot)
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_populate_sysroot: Started
+NOTE: recipe unfs3-native-0.10.0-r0: task do_configure: Succeeded
+NOTE: Running task 4000 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/unfs3/unfs3_git.bb:do_compile)
+NOTE: recipe unfs3-native-0.10.0-r0: task do_compile: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 4001 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_deploy_source_date_epoch)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_deploy_source_date_epoch: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_deploy_source_date_epoch: Succeeded
+NOTE: Running task 4002 of 4099 (/home/leo/docker/poky/meta/recipes-kernel/linux/linux-yocto_6.6.bb:do_bundle_initramfs)
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_bundle_initramfs: Started
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_bundle_initramfs: Succeeded
+NOTE: Running task 4003 of 4099 (/home/leo/docker/poky/meta/recipes-kernel/linux/linux-yocto_6.6.bb:do_populate_sysroot)
+NOTE: recipe unfs3-native-0.10.0-r0: task do_compile: Succeeded
+NOTE: Running task 4004 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/unfs3/unfs3_git.bb:do_install)
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_populate_sysroot: Started
+NOTE: recipe unfs3-native-0.10.0-r0: task do_install: Started
+NOTE: recipe unfs3-native-0.10.0-r0: task do_install: Succeeded
+NOTE: Running task 4005 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/unfs3/unfs3_git.bb:do_populate_sysroot)
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 4006 of 4099 (/home/leo/docker/poky/meta/recipes-kernel/linux/linux-yocto_6.6.bb:do_deploy)
+NOTE: recipe unfs3-native-0.10.0-r0: task do_populate_sysroot: Started
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_deploy: Started
+NOTE: recipe unfs3-native-0.10.0-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 4007 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-pathlib2_2.3.7.bb:do_populate_lic)
+NOTE: recipe python3-pathlib2-native-2.3.7-r0: task do_populate_lic: Started
+NOTE: recipe python3-pathlib2-native-2.3.7-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4008 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-zipp_3.17.0.bb:do_populate_lic)
+NOTE: recipe python3-zipp-native-3.17.0-r0: task do_populate_lic: Started
+NOTE: recipe python3-zipp-native-3.17.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4009 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-toml_0.10.2.bb:do_populate_lic)
+NOTE: recipe python3-toml-native-0.10.2-r0: task do_populate_lic: Started
+NOTE: recipe python3-toml-native-0.10.2-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4010 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-calver_2022.6.26.bb:do_populate_lic)
+NOTE: recipe python3-calver-native-2022.6.26-r0: task do_populate_lic: Started
+NOTE: recipe python3-calver-native-2022.6.26-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4011 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-tomli_2.0.1.bb:do_populate_lic)
+NOTE: recipe python3-tomli-native-2.0.1-r0: task do_populate_lic: Started
+NOTE: recipe python3-tomli-native-2.0.1-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4012 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-typing-extensions_4.10.0.bb:do_populate_lic)
+NOTE: recipe python3-typing-extensions-native-4.10.0-r0: task do_populate_lic: Started
+NOTE: recipe python3-typing-extensions-native-4.10.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4013 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-pyparsing_3.1.1.bb:do_populate_lic)
+NOTE: recipe python3-pyparsing-native-3.1.1-r0: task do_populate_lic: Started
+NOTE: recipe python3-pyparsing-native-3.1.1-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4014 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-importlib-metadata_7.0.1.bb:do_populate_lic)
+NOTE: recipe python3-importlib-metadata-native-7.0.1-r0: task do_populate_lic: Started
+NOTE: recipe python3-importlib-metadata-native-7.0.1-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4015 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-more-itertools_10.2.0.bb:do_populate_lic)
+NOTE: recipe python3-more-itertools-native-10.2.0-r0: task do_populate_lic: Started
+NOTE: recipe python3-more-itertools-native-10.2.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4016 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-setuptools-scm_8.0.4.bb:do_populate_lic)
+NOTE: recipe python3-setuptools-scm-native-8.0.4-r0: task do_populate_lic: Started
+NOTE: recipe python3-setuptools-scm-native-8.0.4-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4017 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-editables_0.5.bb:do_populate_lic)
+NOTE: recipe python3-editables-native-0.5-r0: task do_populate_lic: Started
+NOTE: recipe python3-editables-native-0.5-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4018 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-pathspec_0.12.1.bb:do_populate_lic)
+NOTE: recipe python3-pathspec-native-0.12.1-r0: task do_populate_lic: Started
+NOTE: recipe python3-pathspec-native-0.12.1-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4019 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-trove-classifiers_2024.2.23.bb:do_populate_lic)
+NOTE: recipe python3-trove-classifiers-native-2024.2.23-r0: task do_populate_lic: Started
+NOTE: recipe python3-trove-classifiers-native-2024.2.23-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4020 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-pluggy_1.4.0.bb:do_populate_lic)
+NOTE: recipe python3-pluggy-native-1.4.0-r0: task do_populate_lic: Started
+NOTE: recipe python3-pluggy-native-1.4.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4021 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-hatchling_1.21.1.bb:do_populate_lic)
+NOTE: recipe python3-hatchling-native-1.21.1-r0: task do_populate_lic: Started
+NOTE: recipe python3-hatchling-native-1.21.1-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4022 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-proto/xcb-proto_1.16.0.bb:do_populate_lic)
+NOTE: recipe xcb-proto-native-1.16.0-r0: task do_populate_lic: Started
+NOTE: recipe xcb-proto-native-1.16.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4023 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libxau_1.0.11.bb:do_populate_lic)
+NOTE: recipe libxau-native-1_1.0.11-r0: task do_populate_lic: Started
+NOTE: recipe libxau-native-1_1.0.11-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4024 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libxdmcp_1.1.4.bb:do_populate_lic)
+NOTE: recipe libxdmcp-native-1_1.1.4-r0: task do_populate_lic: Started
+NOTE: recipe libxdmcp-native-1_1.1.4-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4025 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-markupsafe_2.1.5.bb:do_populate_lic)
+NOTE: recipe python3-markupsafe-native-2.1.5-r0: task do_populate_lic: Started
+NOTE: recipe python3-markupsafe-native-2.1.5-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4026 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-pygments_2.17.2.bb:do_populate_lic)
+NOTE: recipe python3-pygments-native-2.17.2-r0: task do_populate_lic: Started
+NOTE: recipe python3-pygments-native-2.17.2-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4027 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libpciaccess_0.18.bb:do_populate_lic)
+NOTE: recipe libpciaccess-native-0.18-r0: task do_populate_lic: Started
+NOTE: recipe libpciaccess-native-0.18-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4028 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libpthread-stubs_0.5.bb:do_populate_lic)
+NOTE: recipe libpthread-stubs-native-0.5-r0: task do_populate_lic: Started
+NOTE: recipe libpthread-stubs-native-0.5-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4029 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libxfixes_6.0.1.bb:do_populate_lic)
+NOTE: recipe libxfixes-native-1_6.0.1-r0: task do_populate_lic: Started
+NOTE: recipe libxfixes-native-1_6.0.1-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4030 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libxxf86vm_1.1.5.bb:do_populate_lic)
+NOTE: recipe libxxf86vm-native-1_1.1.5-r0: task do_populate_lic: Started
+NOTE: recipe libxxf86vm-native-1_1.1.5-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4031 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-util/makedepend_1.0.9.bb:do_populate_lic)
+NOTE: recipe makedepend-native-1_1.0.9-r0: task do_populate_lic: Started
+NOTE: recipe makedepend-native-1_1.0.9-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4032 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libxdamage_1.1.6.bb:do_populate_lic)
+NOTE: recipe libxdamage-native-1_1.1.6-r0: task do_populate_lic: Started
+NOTE: recipe libxdamage-native-1_1.1.6-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4033 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-mako_1.3.2.bb:do_populate_lic)
+NOTE: recipe python3-mako-native-1.3.2-r0: task do_populate_lic: Started
+NOTE: recipe python3-mako-native-1.3.2-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4034 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/llvm/llvm_git.bb:do_populate_lic)
+NOTE: recipe llvm-native-18.1.2-r0: task do_populate_lic: Started
+NOTE: recipe llvm-native-18.1.2-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4035 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-app/xrandr_1.5.2.bb:do_populate_lic)
+NOTE: recipe xrandr-native-1_1.5.2-r0: task do_populate_lic: Started
+NOTE: recipe xrandr-native-1_1.5.2-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4036 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libxshmfence_1.3.2.bb:do_populate_lic)
+NOTE: recipe libxshmfence-native-1.3.2-r0: task do_populate_lic: Started
+NOTE: recipe libxshmfence-native-1.3.2-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4037 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/wayland/wayland-protocols_1.33.bb:do_populate_lic)
+NOTE: recipe wayland-protocols-native-1.33-r0: task do_populate_lic: Started
+NOTE: recipe wayland-protocols-native-1.33-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4038 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/xtrans_1.5.0.bb:do_populate_lic)
+NOTE: recipe xtrans-native-1_1.5.0-r0: task do_populate_lic: Started
+NOTE: recipe xtrans-native-1_1.5.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4039 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libxcb_1.16.bb:do_populate_lic)
+NOTE: recipe libxcb-native-1.16-r0: task do_populate_lic: Started
+NOTE: recipe libxcb-native-1.16-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4040 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-util/util-macros_1.20.0.bb:do_populate_lic)
+NOTE: recipe util-macros-native-1_1.20.0-r0: task do_populate_lic: Started
+NOTE: recipe util-macros-native-1_1.20.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4041 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-proto/xorgproto_2023.2.bb:do_populate_lic)
+NOTE: recipe xorgproto-native-2023.2-r0: task do_populate_lic: Started
+NOTE: recipe xorgproto-native-2023.2-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4042 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/wayland/wayland_1.22.0.bb:do_populate_lic)
+NOTE: recipe wayland-native-1.22.0-r0: task do_populate_lic: Started
+NOTE: recipe wayland-native-1.22.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4043 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/drm/libdrm_2.4.120.bb:do_populate_lic)
+NOTE: recipe libdrm-native-2.4.120-r0: task do_populate_lic: Started
+NOTE: recipe libdrm-native-2.4.120-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4044 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libxext_1.3.6.bb:do_populate_lic)
+NOTE: recipe libxext-native-1_1.3.6-r0: task do_populate_lic: Started
+NOTE: recipe libxext-native-1_1.3.6-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4045 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libxrandr_1.5.4.bb:do_populate_lic)
+NOTE: recipe libxrandr-native-1_1.5.4-r0: task do_populate_lic: Started
+NOTE: recipe libxrandr-native-1_1.5.4-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4046 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libxrender_0.9.11.bb:do_populate_lic)
+NOTE: recipe libxrender-native-1_0.9.11-r0: task do_populate_lic: Started
+NOTE: recipe libxrender-native-1_0.9.11-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4047 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/mesa/mesa_24.0.2.bb:do_populate_lic)
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_populate_lic: Started
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4048 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/libx11_1.8.7.bb:do_populate_lic)
+NOTE: recipe libx11-native-1_1.8.7-r0: task do_populate_lic: Started
+NOTE: recipe libx11-native-1_1.8.7-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4049 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/python/python3-pip_24.0.bb:do_populate_lic)
+NOTE: recipe python3-pip-native-24.0-r0: task do_populate_lic: Started
+NOTE: recipe python3-pip-native-24.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4050 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/unfs3/unfs3_git.bb:do_populate_lic)
+NOTE: recipe unfs3-native-0.10.0-r0: task do_populate_lic: Started
+NOTE: recipe unfs3-native-0.10.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4051 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-connectivity/slirp/libslirp_git.bb:do_populate_lic)
+NOTE: recipe libslirp-native-4.7.0-r0: task do_populate_lic: Started
+NOTE: recipe libslirp-native-4.7.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4052 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/xorg-lib/pixman_0.42.2.bb:do_populate_lic)
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_populate_lic: Started
+NOTE: recipe pixman-native-1_0.42.2-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4053 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_populate_lic)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_populate_lic: Started
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4054 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libsdl2/libsdl2_2.30.0.bb:do_populate_lic)
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_populate_lic: Started
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4055 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/libpng/libpng_1.6.42.bb:do_populate_lic)
+NOTE: recipe libpng-native-1.6.42-r0: task do_populate_lic: Started
+NOTE: recipe libpng-native-1.6.42-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4056 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-kernel/dtc/dtc_1.7.0.bb:do_populate_lic)
+NOTE: recipe dtc-native-1.7.0-r0: task do_populate_lic: Started
+NOTE: recipe dtc-native-1.7.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4057 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libepoxy/libepoxy_1.5.10.bb:do_populate_lic)
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_populate_lic: Started
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4058 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-multimedia/alsa/alsa-lib_1.2.11.bb:do_populate_lic)
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_populate_lic: Started
+NOTE: recipe alsa-lib-native-1.2.11-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4059 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-devtools/chrpath/chrpath_0.16.bb:do_populate_lic)
+NOTE: recipe chrpath-native-0.16-r0: task do_populate_lic: Started
+NOTE: recipe chrpath-native-0.16-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4060 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_populate_lic)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_populate_lic: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_populate_lic: Succeeded
+NOTE: Running task 4061 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_populate_lic)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_populate_lic: Started
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_populate_lic: Succeeded
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_package_write_rpm: Succeeded
+NOTE: Running task 4062 of 4099 (/home/leo/docker/poky/meta/recipes-core/images/core-image-minimal.bb:do_rootfs)
+NOTE: recipe core-image-minimal-1.0-r0: task do_rootfs: Started
+NOTE: recipe linux-yocto-6.6.23+git-r0: task do_deploy: Succeeded
+NOTE: recipe core-image-minimal-1.0-r0: task do_rootfs: Succeeded
+NOTE: Running task 4063 of 4099 (/home/leo/docker/poky/meta/recipes-core/images/core-image-minimal.bb:do_flush_pseudodb)
+NOTE: Running task 4064 of 4099 (/home/leo/docker/poky/meta/recipes-core/images/core-image-minimal.bb:do_write_qemuboot_conf)
+NOTE: recipe core-image-minimal-1.0-r0: task do_flush_pseudodb: Started
+NOTE: recipe core-image-minimal-1.0-r0: task do_write_qemuboot_conf: Started
+NOTE: recipe core-image-minimal-1.0-r0: task do_write_qemuboot_conf: Succeeded
+NOTE: recipe core-image-minimal-1.0-r0: task do_flush_pseudodb: Succeeded
+NOTE: Running task 4065 of 4099 (/home/leo/docker/poky/meta/recipes-core/images/core-image-minimal.bb:do_image_qa)
+NOTE: recipe core-image-minimal-1.0-r0: task do_image_qa: Started
+NOTE: recipe core-image-minimal-1.0-r0: task do_image_qa: Succeeded
+NOTE: Running task 4066 of 4099 (/home/leo/docker/poky/meta/recipes-core/images/core-image-minimal.bb:do_image)
+NOTE: recipe core-image-minimal-1.0-r0: task do_image: Started
+NOTE: recipe core-image-minimal-1.0-r0: task do_image: Succeeded
+NOTE: Running task 4067 of 4099 (/home/leo/docker/poky/meta/recipes-core/images/core-image-minimal.bb:do_image_ext4)
+NOTE: Running task 4068 of 4099 (/home/leo/docker/poky/meta/recipes-core/images/core-image-minimal.bb:do_image_tar)
+NOTE: recipe core-image-minimal-1.0-r0: task do_image_ext4: Started
+NOTE: recipe core-image-minimal-1.0-r0: task do_image_tar: Started
+NOTE: recipe core-image-minimal-1.0-r0: task do_image_tar: Succeeded
+NOTE: recipe core-image-minimal-1.0-r0: task do_image_ext4: Succeeded
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_compile: Succeeded
+NOTE: Running task 4069 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/mesa/mesa_24.0.2.bb:do_install)
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_install: Started
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_install: Succeeded
+NOTE: Running task 4070 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/mesa/mesa_24.0.2.bb:do_populate_sysroot)
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_populate_sysroot: Started
+NOTE: recipe mesa-native-2_24.0.2-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 4071 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libepoxy/libepoxy_1.5.10.bb:do_prepare_recipe_sysroot)
+NOTE: Running task 4072 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libsdl2/libsdl2_2.30.0.bb:do_prepare_recipe_sysroot)
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: Running task 4073 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libsdl2/libsdl2_2.30.0.bb:do_configure)
+NOTE: Running task 4074 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libepoxy/libepoxy_1.5.10.bb:do_configure)
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_configure: Started
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_configure: Started
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_configure: Succeeded
+NOTE: Running task 4075 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libepoxy/libepoxy_1.5.10.bb:do_compile)
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_compile: Started
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_compile: Succeeded
+NOTE: Running task 4076 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libepoxy/libepoxy_1.5.10.bb:do_install)
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_install: Started
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_install: Succeeded
+NOTE: Running task 4077 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libepoxy/libepoxy_1.5.10.bb:do_populate_sysroot)
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_populate_sysroot: Started
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_configure: Succeeded
+NOTE: Running task 4078 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libsdl2/libsdl2_2.30.0.bb:do_compile)
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_compile: Started
+NOTE: recipe libepoxy-native-1.5.10-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 4079 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_prepare_recipe_sysroot)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: Running task 4080 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_configure)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_configure: Started
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_configure: Succeeded
+NOTE: Running task 4081 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_compile)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_compile: Started
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_compile: Succeeded
+NOTE: Running task 4082 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_install)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_install: Started
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_install: Succeeded
+NOTE: Running task 4083 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/virglrenderer/virglrenderer_1.0.1.bb:do_populate_sysroot)
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_populate_sysroot: Started
+NOTE: recipe virglrenderer-native-1.0.1-r0: task do_populate_sysroot: Succeeded
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_compile: Succeeded
+NOTE: Running task 4084 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libsdl2/libsdl2_2.30.0.bb:do_install)
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_install: Started
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_install: Succeeded
+NOTE: Running task 4085 of 4099 (virtual:native:/home/leo/docker/poky/meta/recipes-graphics/libsdl2/libsdl2_2.30.0.bb:do_populate_sysroot)
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_populate_sysroot: Started
+NOTE: recipe libsdl2-native-2.30.0-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 4086 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_prepare_recipe_sysroot)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: Running task 4087 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_configure)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_configure: Started
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_configure: Succeeded
+NOTE: Running task 4088 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_compile)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_compile: Started
+Bitbake still alive (no events for 600s). Active tasks:
+/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_compile
+Bitbake still alive (no events for 1200s). Active tasks:
+/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_compile
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_compile: Succeeded
+NOTE: Running task 4089 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_install)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_install: Started
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_install: Succeeded
+NOTE: Running task 4090 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-system-native_8.2.1.bb:do_populate_sysroot)
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_populate_sysroot: Started
+NOTE: recipe qemu-system-native-8.2.1-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 4091 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_prepare_recipe_sysroot)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_prepare_recipe_sysroot: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_prepare_recipe_sysroot: Succeeded
+NOTE: Running task 4092 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_configure)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_configure: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_configure: Succeeded
+NOTE: Running task 4093 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_compile)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_compile: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_compile: Succeeded
+NOTE: Running task 4094 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_install)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_install: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_install: Succeeded
+NOTE: Running task 4095 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_populate_sysroot)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_populate_sysroot: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_populate_sysroot: Succeeded
+NOTE: Running task 4096 of 4099 (/home/leo/docker/poky/meta/recipes-devtools/qemu/qemu-helper-native_1.0.bb:do_addto_recipe_sysroot)
+NOTE: recipe qemu-helper-native-1.0-r0: task do_addto_recipe_sysroot: Started
+NOTE: recipe qemu-helper-native-1.0-r0: task do_addto_recipe_sysroot: Succeeded
+NOTE: Running task 4097 of 4099 (/home/leo/docker/poky/meta/recipes-core/images/core-image-minimal.bb:do_image_complete)
+NOTE: recipe core-image-minimal-1.0-r0: task do_image_complete: Started
+NOTE: recipe core-image-minimal-1.0-r0: task do_image_complete: Succeeded
+NOTE: Running task 4098 of 4099 (/home/leo/docker/poky/meta/recipes-core/images/core-image-minimal.bb:do_populate_lic_deploy)
+NOTE: recipe core-image-minimal-1.0-r0: task do_populate_lic_deploy: Started
+NOTE: recipe core-image-minimal-1.0-r0: task do_populate_lic_deploy: Succeeded
+NOTE: Running noexec task 4099 of 4099 (/home/leo/docker/poky/meta/recipes-core/images/core-image-minimal.bb:do_build)
+NOTE: Tasks Summary: Attempted 4099 tasks of which 3839 didn't need to be rerun and all succeeded.
+
+Summary: There was 1 WARNING message.

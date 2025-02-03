@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928547.04 
+libdrm-native-2.4.120-r0: do_recipe_qa_setscene
+Elapsed time: 0.28 seconds
+utime: 53
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 590342
+IO wchar: 59928
+IO syscr: 119
+IO syscw: 57
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.535113
+rusage ru_stime: 0.022609999999999998
+rusage ru_maxrss: 52076
+rusage ru_minflt: 8096
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 339
+Child rusage ru_utime: 0.009518
+Child rusage ru_stime: 0.010522
+Child rusage ru_maxrss: 48440
+Child rusage ru_minflt: 909
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 28
+Child rusage ru_nivcsw: 49
+Status: PASSED 
+Ended: 1712928547.32 

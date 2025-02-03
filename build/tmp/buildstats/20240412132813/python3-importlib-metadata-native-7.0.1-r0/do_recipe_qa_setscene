@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928551.95 
+python3-importlib-metadata-native-7.0.1-r0: do_recipe_qa_setscene
+Elapsed time: 0.41 seconds
+utime: 45
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 571677
+IO wchar: 57994
+IO syscr: 116
+IO syscw: 50
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.457735
+rusage ru_stime: 0.056773
+rusage ru_maxrss: 51752
+rusage ru_minflt: 7700
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 446
+Child rusage ru_utime: 0.006135
+Child rusage ru_stime: 0.012431
+Child rusage ru_maxrss: 47856
+Child rusage ru_minflt: 924
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 26
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1712928552.36 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928359.79 
+util-linux-libuuid-2.39.3-r0: do_packagedata_setscene
+Elapsed time: 0.31 seconds
+utime: 40
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 478766
+IO wchar: 137534
+IO syscr: 298
+IO syscw: 155
+IO read_bytes: 16384
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.408754
+rusage ru_stime: 0.053314999999999994
+rusage ru_maxrss: 52248
+rusage ru_minflt: 7848
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 112
+rusage ru_nvcsw: 48
+rusage ru_nivcsw: 2137
+Child rusage ru_utime: 0.019721
+Child rusage ru_stime: 0.02572
+Child rusage ru_maxrss: 52248
+Child rusage ru_minflt: 1610
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 136
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 53
+Status: PASSED 
+Ended: 1712928360.10 

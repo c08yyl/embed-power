@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712931038.60 
+core-image-minimal-1.0-r0: do_populate_lic_deploy
+Elapsed time: 0.03 seconds
+utime: 33
+stime: 4
+cutime: 0
+cstime: 0
+IO rchar: 523413
+IO wchar: 30732
+IO syscr: 103
+IO syscw: 41
+IO read_bytes: 8192
+IO write_bytes: 28672
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.335366
+rusage ru_stime: 0.043917
+rusage ru_maxrss: 53332
+rusage ru_minflt: 11214
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 56
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 1
+Child rusage ru_utime: 0.003326
+Child rusage ru_stime: 0.0
+Child rusage ru_maxrss: 51668
+Child rusage ru_minflt: 161
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 4
+Child rusage ru_nivcsw: 0
+Status: PASSED 
+Ended: 1712931038.63 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928293.81 
+libgpg-error-1.48-r0: do_create_spdx_setscene
+Elapsed time: 0.24 seconds
+utime: 42
+stime: 2
+cutime: 1
+cstime: 3
+IO rchar: 814658
+IO wchar: 650164
+IO syscr: 368
+IO syscw: 253
+IO read_bytes: 155648
+IO write_bytes: 335872
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.427587
+rusage ru_stime: 0.024203
+rusage ru_maxrss: 50988
+rusage ru_minflt: 7888
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 61
+rusage ru_nivcsw: 261
+Child rusage ru_utime: 0.019532
+Child rusage ru_stime: 0.035664
+Child rusage ru_maxrss: 50988
+Child rusage ru_minflt: 1779
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 304
+Child rusage ru_oublock: 520
+Child rusage ru_nvcsw: 59
+Child rusage ru_nivcsw: 130
+Status: PASSED 
+Ended: 1712928294.05 

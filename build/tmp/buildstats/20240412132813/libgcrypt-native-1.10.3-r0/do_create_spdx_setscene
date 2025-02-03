@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928596.99 
+libgcrypt-native-1.10.3-r0: do_create_spdx_setscene
+Elapsed time: 0.23 seconds
+utime: 49
+stime: 5
+cutime: 0
+cstime: 2
+IO rchar: 691504
+IO wchar: 97903
+IO syscr: 229
+IO syscw: 72
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.492064
+rusage ru_stime: 0.052990999999999996
+rusage ru_maxrss: 52928
+rusage ru_minflt: 8355
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 7
+rusage ru_nivcsw: 493
+Child rusage ru_utime: 0.009585
+Child rusage ru_stime: 0.028581
+Child rusage ru_maxrss: 52928
+Child rusage ru_minflt: 1609
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 50
+Status: PASSED 
+Ended: 1712928597.22 

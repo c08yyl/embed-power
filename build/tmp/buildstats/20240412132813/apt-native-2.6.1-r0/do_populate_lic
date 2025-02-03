@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928640.18 
+apt-native-2.6.1-r0: do_populate_lic
+Elapsed time: 0.29 seconds
+utime: 51
+stime: 5
+cutime: 4
+cstime: 2
+IO rchar: 992621
+IO wchar: 207584
+IO syscr: 399
+IO syscw: 127
+IO read_bytes: 0
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.519003
+rusage ru_stime: 0.054223999999999994
+rusage ru_maxrss: 54072
+rusage ru_minflt: 8994
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 200
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 254
+Child rusage ru_utime: 0.044022
+Child rusage ru_stime: 0.024888999999999998
+Child rusage ru_maxrss: 54072
+Child rusage ru_minflt: 4085
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 67
+Child rusage ru_nivcsw: 47
+Status: PASSED 
+Ended: 1712928640.47 

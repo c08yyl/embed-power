@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928624.04 
+gettext-minimal-native-0.22.5-r0: do_recipe_qa_setscene
+Elapsed time: 0.23 seconds
+utime: 28
+stime: 4
+cutime: 0
+cstime: 0
+IO rchar: 362623
+IO wchar: 51110
+IO syscr: 103
+IO syscw: 40
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.28731799999999996
+rusage ru_stime: 0.04856
+rusage ru_maxrss: 51180
+rusage ru_minflt: 7281
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 212
+Child rusage ru_utime: 0.009316999999999999
+Child rusage ru_stime: 0.0075829999999999995
+Child rusage ru_maxrss: 47624
+Child rusage ru_minflt: 906
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 32
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1712928624.27 

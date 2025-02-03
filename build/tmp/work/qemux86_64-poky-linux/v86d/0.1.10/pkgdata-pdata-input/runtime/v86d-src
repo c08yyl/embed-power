@@ -1,0 +1,13 @@
+PN: v86d
+PV: 0.1.10
+PR: r0
+PKGV: 0.1.10
+PKGR: r0
+LICENSE: GPL-2.0-only
+DESCRIPTION:v86d-src: v86d provides a backend for kernel drivers that need to execute x86 BIOS code. The code is executed in a controlled environment and the results are passed back to the kernel via the netlink interface.  This package contains sources for debugging purposes.
+SUMMARY:v86d-src: User support binary for the uvesafb kernel module - Source files
+SECTION:v86d-src: devel
+PKG:v86d-src: v86d-src
+FILES:v86d-src: /usr/src/debug
+FILES_INFO:v86d-src: {"/usr/src/debug/v86d/0.1.10/libs/x86emu/decode.c": 32414, "/usr/src/debug/v86d/0.1.10/libs/x86emu/fpu.c": 27121, "/usr/src/debug/v86d/0.1.10/libs/x86emu/ops.c": 359335, "/usr/src/debug/v86d/0.1.10/libs/x86emu/ops2.c": 94753, "/usr/src/debug/v86d/0.1.10/libs/x86emu/prim_ops.c": 82844, "/usr/src/debug/v86d/0.1.10/libs/x86emu/sys.c": 15366, "/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu.h": 7404, "/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/decode.h": 3724, "/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/fpu.h": 2528, "/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/ops.h": 1938, "/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/prim_ops.h": 4740, "/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/regs.h": 10268, "/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/types.h": 2586, "/usr/src/debug/v86d/0.1.10/libs/x86emu/x86emu/x86emui.h": 3650, "/usr/src/debug/v86d/0.1.10/v86.c": 2760, "/usr/src/debug/v86d/0.1.10/v86.h": 1556, "/usr/src/debug/v86d/0.1.10/v86_common.c": 3676, "/usr/src/debug/v86d/0.1.10/v86_mem.c": 7635, "/usr/src/debug/v86d/0.1.10/v86_x86emu.c": 3574}
+PKGSIZE:v86d-src: 667872

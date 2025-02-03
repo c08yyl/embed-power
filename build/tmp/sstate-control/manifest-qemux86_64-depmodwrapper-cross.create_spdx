@@ -1,0 +1,10 @@
+/kitchen/build/tmp/deploy/spdx/qemux86_64/recipes/recipe-depmodwrapper-cross.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:depmodwrapper-cross:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/recipe-depmodwrapper-cross.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_recipe-depmodwrapper-cross-324b1ecd-58e3-5992-89b4-ba4c997e4b08
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:depmodwrapper-cross:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/qemux86_64/recipes/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/by-hash/

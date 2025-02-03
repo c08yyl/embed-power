@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928240.77 
+packagegroup-core-boot-1.0-r0: do_package_qa_setscene
+Elapsed time: 0.17 seconds
+utime: 33
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 327356
+IO wchar: 50755
+IO syscr: 94
+IO syscw: 37
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.338472
+rusage ru_stime: 0.035838
+rusage ru_maxrss: 49376
+rusage ru_minflt: 7012
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 311
+Child rusage ru_utime: 0.004645
+Child rusage ru_stime: 0.013484999999999999
+Child rusage ru_maxrss: 45964
+Child rusage ru_minflt: 908
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 34
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1712928240.94 

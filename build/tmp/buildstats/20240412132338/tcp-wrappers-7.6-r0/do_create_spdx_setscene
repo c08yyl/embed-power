@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928271.61 
+tcp-wrappers-7.6-r0: do_create_spdx_setscene
+Elapsed time: 0.25 seconds
+utime: 35
+stime: 2
+cutime: 1
+cstime: 2
+IO rchar: 565314
+IO wchar: 333377
+IO syscr: 225
+IO syscw: 103
+IO read_bytes: 12288
+IO write_bytes: 180224
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.356257
+rusage ru_stime: 0.027403999999999998
+rusage ru_maxrss: 50156
+rusage ru_minflt: 7334
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 95
+Child rusage ru_utime: 0.013378
+Child rusage ru_stime: 0.028492
+Child rusage ru_maxrss: 50156
+Child rusage ru_minflt: 1686
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 248
+Child rusage ru_nvcsw: 48
+Child rusage ru_nivcsw: 19
+Status: PASSED 
+Ended: 1712928271.86 

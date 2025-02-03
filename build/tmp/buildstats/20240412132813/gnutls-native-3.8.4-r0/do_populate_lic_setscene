@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928587.52 
+gnutls-native-3.8.4-r0: do_populate_lic_setscene
+Elapsed time: 0.25 seconds
+utime: 52
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 823926
+IO wchar: 320227
+IO syscr: 257
+IO syscw: 94
+IO read_bytes: 24576
+IO write_bytes: 192512
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.52704
+rusage ru_stime: 0.044940999999999995
+rusage ru_maxrss: 52832
+rusage ru_minflt: 8409
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 347
+Child rusage ru_utime: 0.015953
+Child rusage ru_stime: 0.023230999999999998
+Child rusage ru_maxrss: 52832
+Child rusage ru_minflt: 1687
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 272
+Child rusage ru_nvcsw: 48
+Child rusage ru_nivcsw: 77
+Status: PASSED 
+Ended: 1712928587.76 

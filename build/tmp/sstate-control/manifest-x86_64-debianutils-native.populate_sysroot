@@ -1,0 +1,16 @@
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/sysroot-providers/debianutils-native
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/sbin/add-shell
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/sbin/installkernel
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/sbin/remove-shell
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/sbin/update-shells
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/bin/ischroot
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/bin/savelog
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/bin/tempfile
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/bin/which
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/bin/run-parts
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/sysroot-providers/
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/share/
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/sbin/
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/bin/
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/bin/
+/kitchen/build/tmp/sysroots-components/x86_64/debianutils-native/usr/

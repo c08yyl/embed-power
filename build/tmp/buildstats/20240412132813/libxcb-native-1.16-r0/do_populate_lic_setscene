@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928562.98 
+libxcb-native-1.16-r0: do_populate_lic_setscene
+Elapsed time: 0.29 seconds
+utime: 48
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 653281
+IO wchar: 70782
+IO syscr: 233
+IO syscw: 73
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.48228299999999996
+rusage ru_stime: 0.044517999999999995
+rusage ru_maxrss: 52924
+rusage ru_minflt: 8202
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 715
+Child rusage ru_utime: 0.016155
+Child rusage ru_stime: 0.022043
+Child rusage ru_maxrss: 52924
+Child rusage ru_minflt: 1606
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 317
+Status: PASSED 
+Ended: 1712928563.27 

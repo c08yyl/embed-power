@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928248.55 
+e2fsprogs-1.47.0-r0: do_package_qa_setscene
+Elapsed time: 0.20 seconds
+utime: 41
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 382421
+IO wchar: 57683
+IO syscr: 117
+IO syscw: 48
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.417784
+rusage ru_stime: 0.039044999999999996
+rusage ru_maxrss: 50656
+rusage ru_minflt: 7770
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 229
+Child rusage ru_utime: 0.005347
+Child rusage ru_stime: 0.012688999999999999
+Child rusage ru_maxrss: 47200
+Child rusage ru_minflt: 912
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 31
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1712928248.75 

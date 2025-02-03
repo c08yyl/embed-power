@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928362.08 
+python3-3.12.2-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.25 seconds
+utime: 61
+stime: 5
+cutime: 1
+cstime: 0
+IO rchar: 506235
+IO wchar: 58516
+IO syscr: 126
+IO syscw: 52
+IO read_bytes: 12288
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.620049
+rusage ru_stime: 0.055291
+rusage ru_maxrss: 53924
+rusage ru_minflt: 10208
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 104
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 1097
+Child rusage ru_utime: 0.015898
+Child rusage ru_stime: 0.003761
+Child rusage ru_maxrss: 50376
+Child rusage ru_minflt: 919
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 31
+Child rusage ru_nivcsw: 109
+Status: PASSED 
+Ended: 1712928362.33 

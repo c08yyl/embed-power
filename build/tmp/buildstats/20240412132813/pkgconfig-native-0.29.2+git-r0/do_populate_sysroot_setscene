@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928619.92 
+pkgconfig-native-0.29.2+git-r0: do_populate_sysroot_setscene
+Elapsed time: 0.39 seconds
+utime: 53
+stime: 8
+cutime: 2
+cstime: 3
+IO rchar: 2751034
+IO wchar: 1904363
+IO syscr: 341
+IO syscw: 151
+IO read_bytes: 253952
+IO write_bytes: 1306624
+IO cancelled_write_bytes: 598016
+rusage ru_utime: 0.539741
+rusage ru_stime: 0.082134
+rusage ru_maxrss: 54080
+rusage ru_minflt: 13935
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 152
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 349
+Child rusage ru_utime: 0.028218999999999998
+Child rusage ru_stime: 0.031651
+Child rusage ru_maxrss: 54080
+Child rusage ru_minflt: 3087
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 488
+Child rusage ru_oublock: 2400
+Child rusage ru_nvcsw: 67
+Child rusage ru_nivcsw: 50
+Status: PASSED 
+Ended: 1712928620.31 

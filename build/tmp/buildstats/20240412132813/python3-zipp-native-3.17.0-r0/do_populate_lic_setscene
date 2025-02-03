@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928517.58 
+python3-zipp-native-3.17.0-r0: do_populate_lic_setscene
+Elapsed time: 0.39 seconds
+utime: 47
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 629281
+IO wchar: 70955
+IO syscr: 222
+IO syscw: 67
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.47700899999999996
+rusage ru_stime: 0.055899
+rusage ru_maxrss: 50984
+rusage ru_minflt: 7726
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 687
+Child rusage ru_utime: 0.013819999999999999
+Child rusage ru_stime: 0.022446
+Child rusage ru_maxrss: 50984
+Child rusage ru_minflt: 1594
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1712928517.96 

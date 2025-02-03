@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928246.74 
+socat-1.8.0.0-r0: do_create_spdx_setscene
+Elapsed time: 0.24 seconds
+utime: 35
+stime: 5
+cutime: 0
+cstime: 3
+IO rchar: 675650
+IO wchar: 517776
+IO syscr: 243
+IO syscw: 107
+IO read_bytes: 28672
+IO write_bytes: 274432
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.358109
+rusage ru_stime: 0.052902
+rusage ru_maxrss: 50784
+rusage ru_minflt: 7664
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 433
+Child rusage ru_utime: 0.009694
+Child rusage ru_stime: 0.033469
+Child rusage ru_maxrss: 50784
+Child rusage ru_minflt: 1712
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 56
+Child rusage ru_oublock: 432
+Child rusage ru_nvcsw: 54
+Child rusage ru_nivcsw: 89
+Status: PASSED 
+Ended: 1712928246.98 

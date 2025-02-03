@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929995.52 
+make-4.4.1-r0: do_package_write_deb
+Elapsed time: 14.13 seconds
+utime: 301
+stime: 121
+cutime: 499
+cstime: 278
+IO rchar: 26098776
+IO wchar: 10782121
+IO syscr: 12388
+IO syscw: 1868
+IO read_bytes: 6397952
+IO write_bytes: 5320704
+IO cancelled_write_bytes: 1478656
+rusage ru_utime: 3.01067
+rusage ru_stime: 1.211417
+rusage ru_maxrss: 53032
+rusage ru_minflt: 34117
+rusage ru_majflt: 0
+rusage ru_inblock: 2496
+rusage ru_oublock: 296
+rusage ru_nvcsw: 120
+rusage ru_nivcsw: 1157
+Child rusage ru_utime: 4.995763
+Child rusage ru_stime: 2.788184
+Child rusage ru_maxrss: 49968
+Child rusage ru_minflt: 464564
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 10000
+Child rusage ru_oublock: 10096
+Child rusage ru_nvcsw: 4193
+Child rusage ru_nivcsw: 4772
+Status: PASSED 
+Ended: 1712930009.65 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928534.47 
+libdrm-native-2.4.120-r0: do_populate_lic_setscene
+Elapsed time: 0.23 seconds
+utime: 54
+stime: 2
+cutime: 0
+cstime: 2
+IO rchar: 653181
+IO wchar: 74187
+IO syscr: 232
+IO syscw: 77
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.543399
+rusage ru_stime: 0.029372
+rusage ru_maxrss: 51900
+rusage ru_minflt: 8215
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 13
+rusage ru_nivcsw: 249
+Child rusage ru_utime: 0.009629
+Child rusage ru_stime: 0.028680999999999998
+Child rusage ru_maxrss: 51900
+Child rusage ru_minflt: 1579
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 59
+Status: PASSED 
+Ended: 1712928534.70 

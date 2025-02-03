@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928526.84 
+util-linux-native-2.39.3-r0: do_create_spdx_setscene
+Elapsed time: 0.32 seconds
+utime: 56
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 730248
+IO wchar: 105929
+IO syscr: 247
+IO syscw: 80
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.564356
+rusage ru_stime: 0.052673
+rusage ru_maxrss: 52248
+rusage ru_minflt: 8468
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 18
+rusage ru_nivcsw: 364
+Child rusage ru_utime: 0.010602
+Child rusage ru_stime: 0.028152
+Child rusage ru_maxrss: 52248
+Child rusage ru_minflt: 1600
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 26
+Status: PASSED 
+Ended: 1712928527.16 

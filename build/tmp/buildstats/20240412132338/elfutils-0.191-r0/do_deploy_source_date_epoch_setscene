@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928342.15 
+elfutils-0.191-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.37 seconds
+utime: 42
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 380231
+IO wchar: 57150
+IO syscr: 118
+IO syscw: 51
+IO read_bytes: 12288
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.430015
+rusage ru_stime: 0.047341
+rusage ru_maxrss: 52044
+rusage ru_minflt: 7791
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 104
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 1679
+Child rusage ru_utime: 0.0030329999999999997
+Child rusage ru_stime: 0.015806999999999998
+Child rusage ru_maxrss: 47792
+Child rusage ru_minflt: 922
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 26
+Child rusage ru_nivcsw: 383
+Status: PASSED 
+Ended: 1712928342.52 

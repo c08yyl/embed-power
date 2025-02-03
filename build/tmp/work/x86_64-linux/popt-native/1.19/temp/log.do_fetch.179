@@ -1,0 +1,25 @@
+DEBUG: Executing python function extend_recipe_sysroot
+NOTE: Direct dependencies are []
+NOTE: Installed into sysroot: []
+NOTE: Skipping as already exists in sysroot: []
+DEBUG: Python function extend_recipe_sysroot finished
+DEBUG: Executing python function fetcher_hashes_dummyfunc
+DEBUG: Python function fetcher_hashes_dummyfunc finished
+DEBUG: Executing python function do_fetch
+DEBUG: Executing python function base_do_fetch
+DEBUG: Searching for run-ptest in paths:
+    /kitchen/meta/recipes-support/popt/popt-1.19/poky
+    /kitchen/meta/recipes-support/popt/popt/poky
+    /kitchen/meta/recipes-support/popt/files/poky
+    /kitchen/meta/recipes-support/popt/popt-1.19/
+    /kitchen/meta/recipes-support/popt/popt/
+    /kitchen/meta/recipes-support/popt/files/
+    /kitchen/meta/recipes-support/popt/popt-1.19/x86-64
+    /kitchen/meta/recipes-support/popt/popt/x86-64
+    /kitchen/meta/recipes-support/popt/files/x86-64
+    /kitchen/meta/recipes-support/popt/popt-1.19/
+    /kitchen/meta/recipes-support/popt/popt/
+    /kitchen/meta/recipes-support/popt/files/
+DEBUG: Using /kitchen/meta/recipes-support/popt/popt/run-ptest for run-ptest
+DEBUG: Python function base_do_fetch finished
+DEBUG: Python function do_fetch finished

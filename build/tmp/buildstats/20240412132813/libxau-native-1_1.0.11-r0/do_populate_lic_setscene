@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928562.83 
+libxau-native-1_1.0.11-r0: do_populate_lic_setscene
+Elapsed time: 0.31 seconds
+utime: 48
+stime: 7
+cutime: 1
+cstime: 2
+IO rchar: 654316
+IO wchar: 71925
+IO syscr: 231
+IO syscw: 72
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.48942599999999997
+rusage ru_stime: 0.07906099999999999
+rusage ru_maxrss: 52400
+rusage ru_minflt: 8193
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 2824
+Child rusage ru_utime: 0.013548999999999999
+Child rusage ru_stime: 0.023644
+Child rusage ru_maxrss: 52400
+Child rusage ru_minflt: 1584
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 180
+Status: PASSED 
+Ended: 1712928563.14 

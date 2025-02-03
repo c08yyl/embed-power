@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928288.45 
+libedit-20230828-3.1-r0: do_create_spdx_setscene
+Elapsed time: 0.24 seconds
+utime: 40
+stime: 2
+cutime: 1
+cstime: 2
+IO rchar: 548312
+IO wchar: 245477
+IO syscr: 224
+IO syscw: 87
+IO read_bytes: 114688
+IO write_bytes: 139264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.405989
+rusage ru_stime: 0.023422
+rusage ru_maxrss: 51476
+rusage ru_minflt: 7787
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 112
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 139
+Child rusage ru_utime: 0.013122
+Child rusage ru_stime: 0.027458999999999997
+Child rusage ru_maxrss: 51476
+Child rusage ru_minflt: 1670
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 208
+Child rusage ru_oublock: 160
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1712928288.69 

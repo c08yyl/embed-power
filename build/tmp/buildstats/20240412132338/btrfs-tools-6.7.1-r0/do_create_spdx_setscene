@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928248.41 
+btrfs-tools-6.7.1-r0: do_create_spdx_setscene
+Elapsed time: 0.23 seconds
+utime: 38
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 1069158
+IO wchar: 1275732
+IO syscr: 299
+IO syscw: 151
+IO read_bytes: 32768
+IO write_bytes: 655360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.388532
+rusage ru_stime: 0.040472
+rusage ru_maxrss: 50912
+rusage ru_minflt: 7818
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 323
+Child rusage ru_utime: 0.027313999999999998
+Child rusage ru_stime: 0.016294
+Child rusage ru_maxrss: 50912
+Child rusage ru_minflt: 1868
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 64
+Child rusage ru_oublock: 1176
+Child rusage ru_nvcsw: 61
+Child rusage ru_nivcsw: 39
+Status: PASSED 
+Ended: 1712928248.64 

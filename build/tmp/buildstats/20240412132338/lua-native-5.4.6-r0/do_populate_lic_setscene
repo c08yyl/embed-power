@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928311.41 
+lua-native-5.4.6-r0: do_populate_lic_setscene
+Elapsed time: 0.18 seconds
+utime: 47
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 642451
+IO wchar: 68181
+IO syscr: 221
+IO syscw: 65
+IO read_bytes: 8192
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.47615399999999997
+rusage ru_stime: 0.039029
+rusage ru_maxrss: 53640
+rusage ru_minflt: 8239
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 218
+Child rusage ru_utime: 0.016943
+Child rusage ru_stime: 0.020692
+Child rusage ru_maxrss: 52616
+Child rusage ru_minflt: 1566
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 27
+Status: PASSED 
+Ended: 1712928311.59 

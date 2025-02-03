@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928582.05 
+python3-flit-core-native-3.9.0-r0: do_populate_sysroot_setscene
+Elapsed time: 0.32 seconds
+utime: 48
+stime: 2
+cutime: 1
+cstime: 5
+IO rchar: 1033152
+IO wchar: 596173
+IO syscr: 442
+IO syscw: 385
+IO read_bytes: 49152
+IO write_bytes: 520192
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.488782
+rusage ru_stime: 0.028751
+rusage ru_maxrss: 51652
+rusage ru_minflt: 7864
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 168
+rusage ru_nvcsw: 99
+rusage ru_nivcsw: 449
+Child rusage ru_utime: 0.014594999999999999
+Child rusage ru_stime: 0.055362999999999996
+Child rusage ru_maxrss: 51652
+Child rusage ru_minflt: 1767
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 88
+Child rusage ru_oublock: 848
+Child rusage ru_nvcsw: 58
+Child rusage ru_nivcsw: 231
+Status: PASSED 
+Ended: 1712928582.38 

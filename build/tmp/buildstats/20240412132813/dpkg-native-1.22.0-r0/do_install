@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928720.82 
+dpkg-native-1.22.0-r0: do_install
+Elapsed time: 23.89 seconds
+utime: 63
+stime: 7
+cutime: 1674
+cstime: 299
+IO rchar: 68481525
+IO wchar: 5800302
+IO syscr: 31513
+IO syscw: 2195
+IO read_bytes: 1253376
+IO write_bytes: 6348800
+IO cancelled_write_bytes: 2297856
+rusage ru_utime: 0.635644
+rusage ru_stime: 0.07704699999999999
+rusage ru_maxrss: 56304
+rusage ru_minflt: 11285
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 192
+rusage ru_nivcsw: 112
+Child rusage ru_utime: 16.743135
+Child rusage ru_stime: 2.991489
+Child rusage ru_maxrss: 54256
+Child rusage ru_minflt: 349047
+Child rusage ru_majflt: 12
+Child rusage ru_inblock: 2448
+Child rusage ru_oublock: 12224
+Child rusage ru_nvcsw: 3226
+Child rusage ru_nivcsw: 3746
+Status: PASSED 
+Ended: 1712928744.71 

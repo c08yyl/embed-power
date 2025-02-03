@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928317.49 
+socat-1.8.0.0-r0: do_package_setscene
+Elapsed time: 0.54 seconds
+utime: 41
+stime: 8
+cutime: 4
+cstime: 14
+IO rchar: 5724278
+IO wchar: 8239260
+IO syscr: 2780
+IO syscw: 1367
+IO read_bytes: 1056768
+IO write_bytes: 4440064
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.417574
+rusage ru_stime: 0.082762
+rusage ru_maxrss: 50576
+rusage ru_minflt: 8367
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 200
+rusage ru_nvcsw: 766
+rusage ru_nivcsw: 319
+Child rusage ru_utime: 0.041067
+Child rusage ru_stime: 0.14457
+Child rusage ru_maxrss: 47928
+Child rusage ru_minflt: 3650
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2048
+Child rusage ru_oublock: 8472
+Child rusage ru_nvcsw: 558
+Child rusage ru_nivcsw: 1301
+Status: PASSED 
+Ended: 1712928318.03 

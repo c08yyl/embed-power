@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928506.23 
+nettle-3.9.1-r0: do_package_setscene
+Elapsed time: 3.11 seconds
+utime: 55
+stime: 19
+cutime: 32
+cstime: 100
+IO rchar: 58205112
+IO wchar: 98350418
+IO syscr: 18646
+IO syscw: 10583
+IO read_bytes: 7282688
+IO write_bytes: 50683904
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.557249
+rusage ru_stime: 0.194655
+rusage ru_maxrss: 51040
+rusage ru_minflt: 8518
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 400
+rusage ru_nvcsw: 4780
+rusage ru_nivcsw: 525
+Child rusage ru_utime: 0.329571
+Child rusage ru_stime: 1.001954
+Child rusage ru_maxrss: 62308
+Child rusage ru_minflt: 18071
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 14224
+Child rusage ru_oublock: 98592
+Child rusage ru_nvcsw: 6345
+Child rusage ru_nivcsw: 11991
+Status: PASSED 
+Ended: 1712928509.34 

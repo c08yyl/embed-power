@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928276.73 
+kmod-31-r0: do_populate_lic_setscene
+Elapsed time: 0.21 seconds
+utime: 38
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 553158
+IO wchar: 249425
+IO syscr: 238
+IO syscw: 77
+IO read_bytes: 16384
+IO write_bytes: 155648
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.389314
+rusage ru_stime: 0.049617999999999995
+rusage ru_maxrss: 51076
+rusage ru_minflt: 7821
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 167
+Child rusage ru_utime: 0.015805
+Child rusage ru_stime: 0.021008
+Child rusage ru_maxrss: 51076
+Child rusage ru_minflt: 1654
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 200
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1712928276.94 

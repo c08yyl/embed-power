@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928545.93 
+libgcc-13.2.0-r0: do_package_setscene
+Elapsed time: 0.84 seconds
+utime: 49
+stime: 7
+cutime: 14
+cstime: 27
+IO rchar: 23535428
+IO wchar: 33978186
+IO syscr: 5416
+IO syscw: 3344
+IO read_bytes: 5812224
+IO write_bytes: 17453056
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.492616
+rusage ru_stime: 0.077997
+rusage ru_maxrss: 50788
+rusage ru_minflt: 8314
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 232
+rusage ru_nvcsw: 1177
+rusage ru_nivcsw: 568
+Child rusage ru_utime: 0.14210699999999998
+Child rusage ru_stime: 0.273018
+Child rusage ru_maxrss: 48368
+Child rusage ru_minflt: 8291
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 11352
+Child rusage ru_oublock: 33856
+Child rusage ru_nvcsw: 1749
+Child rusage ru_nivcsw: 3781
+Status: PASSED 
+Ended: 1712928546.77 

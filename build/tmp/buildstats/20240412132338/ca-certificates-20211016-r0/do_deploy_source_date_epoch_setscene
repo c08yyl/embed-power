@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928387.57 
+ca-certificates-20211016-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.20 seconds
+utime: 32
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 327584
+IO wchar: 48160
+IO syscr: 100
+IO syscw: 43
+IO read_bytes: 12288
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.325088
+rusage ru_stime: 0.047
+rusage ru_maxrss: 51564
+rusage ru_minflt: 7351
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 88
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 1200
+Child rusage ru_utime: 0.006483999999999999
+Child rusage ru_stime: 0.012329
+Child rusage ru_maxrss: 47752
+Child rusage ru_minflt: 909
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1712928387.77 

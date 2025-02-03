@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1735422644.01 
+bison-native-3.8.2-r0: do_prepare_recipe_sysroot
+Elapsed time: 0.07 seconds
+utime: 36
+stime: 3
+cutime: 0
+cstime: 0
+IO rchar: 594462
+IO wchar: 89668
+IO syscr: 53
+IO syscw: 90
+IO read_bytes: 0
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.361128
+rusage ru_stime: 0.037156999999999996
+rusage ru_maxrss: 50572
+rusage ru_minflt: 4929
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 1
+rusage ru_nivcsw: 66
+Child rusage ru_utime: 0.0
+Child rusage ru_stime: 0.0
+Child rusage ru_maxrss: 0
+Child rusage ru_minflt: 0
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 0
+Child rusage ru_nivcsw: 0
+Status: FAILED 
+Ended: 1735422644.08 

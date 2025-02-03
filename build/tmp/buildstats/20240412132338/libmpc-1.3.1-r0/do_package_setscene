@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928393.32 
+libmpc-1.3.1-r0: do_package_setscene
+Elapsed time: 0.43 seconds
+utime: 43
+stime: 7
+cutime: 4
+cstime: 8
+IO rchar: 2033942
+IO wchar: 2408901
+IO syscr: 1979
+IO syscw: 808
+IO read_bytes: 331776
+IO write_bytes: 1470464
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.431347
+rusage ru_stime: 0.070584
+rusage ru_maxrss: 50964
+rusage ru_minflt: 8284
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 184
+rusage ru_nvcsw: 551
+rusage ru_nivcsw: 506
+Child rusage ru_utime: 0.047167999999999995
+Child rusage ru_stime: 0.086473
+Child rusage ru_maxrss: 48128
+Child rusage ru_minflt: 2526
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 632
+Child rusage ru_oublock: 2688
+Child rusage ru_nvcsw: 195
+Child rusage ru_nivcsw: 1159
+Status: PASSED 
+Ended: 1712928393.76 

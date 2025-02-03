@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928969.93 
+iptables-1.8.10-r0: do_package_write_deb
+Elapsed time: 44.09 seconds
+utime: 570
+stime: 162
+cutime: 975
+cstime: 674
+IO rchar: 51905598
+IO wchar: 14463588
+IO syscr: 31149
+IO syscw: 3836
+IO read_bytes: 13406208
+IO write_bytes: 6316032
+IO cancelled_write_bytes: 2166784
+rusage ru_utime: 5.704248
+rusage ru_stime: 1.621835
+rusage ru_maxrss: 57580
+rusage ru_minflt: 54850
+rusage ru_majflt: 4
+rusage ru_inblock: 7168
+rusage ru_oublock: 328
+rusage ru_nvcsw: 564
+rusage ru_nivcsw: 2781
+Child rusage ru_utime: 9.753548
+Child rusage ru_stime: 6.741233
+Child rusage ru_maxrss: 54948
+Child rusage ru_minflt: 920960
+Child rusage ru_majflt: 25
+Child rusage ru_inblock: 19016
+Child rusage ru_oublock: 12008
+Child rusage ru_nvcsw: 11634
+Child rusage ru_nivcsw: 11428
+Status: PASSED 
+Ended: 1712929014.02 

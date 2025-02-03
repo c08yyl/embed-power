@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928570.80 
+libx11-native-1_1.8.7-r0: do_populate_sysroot_setscene
+Elapsed time: 0.28 seconds
+utime: 47
+stime: 4
+cutime: 2
+cstime: 3
+IO rchar: 3106392
+IO wchar: 3399057
+IO syscr: 482
+IO syscw: 332
+IO read_bytes: 770048
+IO write_bytes: 1753088
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.474118
+rusage ru_stime: 0.04842
+rusage ru_maxrss: 52964
+rusage ru_minflt: 8251
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 40
+rusage ru_nivcsw: 326
+Child rusage ru_utime: 0.022085
+Child rusage ru_stime: 0.03954
+Child rusage ru_maxrss: 52964
+Child rusage ru_minflt: 2392
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1504
+Child rusage ru_oublock: 3320
+Child rusage ru_nvcsw: 136
+Child rusage ru_nivcsw: 148
+Status: PASSED 
+Ended: 1712928571.08 

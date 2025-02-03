@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928301.47 
+openssl-native-3.2.1-r0: do_populate_lic_setscene
+Elapsed time: 0.20 seconds
+utime: 49
+stime: 4
+cutime: 0
+cstime: 2
+IO rchar: 683266
+IO wchar: 112172
+IO syscr: 237
+IO syscw: 75
+IO read_bytes: 12288
+IO write_bytes: 77824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.49357399999999996
+rusage ru_stime: 0.048152999999999994
+rusage ru_maxrss: 53068
+rusage ru_minflt: 8393
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 182
+Child rusage ru_utime: 0.008615
+Child rusage ru_stime: 0.028907
+Child rusage ru_maxrss: 53068
+Child rusage ru_minflt: 1580
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 69
+Status: PASSED 
+Ended: 1712928301.67 

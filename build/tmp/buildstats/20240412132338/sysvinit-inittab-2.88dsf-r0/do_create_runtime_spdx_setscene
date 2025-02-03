@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928242.42 
+sysvinit-inittab-2.88dsf-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.20 seconds
+utime: 34
+stime: 3
+cutime: 0
+cstime: 2
+IO rchar: 412030
+IO wchar: 89499
+IO syscr: 200
+IO syscw: 63
+IO read_bytes: 4096
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.346607
+rusage ru_stime: 0.03505
+rusage ru_maxrss: 49632
+rusage ru_minflt: 7214
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 163
+Child rusage ru_utime: 0.009404
+Child rusage ru_stime: 0.029722
+Child rusage ru_maxrss: 49632
+Child rusage ru_minflt: 1576
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1712928242.62 

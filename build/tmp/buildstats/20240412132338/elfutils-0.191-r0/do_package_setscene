@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928335.41 
+elfutils-0.191-r0: do_package_setscene
+Elapsed time: 4.62 seconds
+utime: 79
+stime: 26
+cutime: 52
+cstime: 172
+IO rchar: 134464817
+IO wchar: 203543851
+IO syscr: 37124
+IO syscw: 23057
+IO read_bytes: 29863936
+IO write_bytes: 105254912
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.794441
+rusage ru_stime: 0.26348299999999997
+rusage ru_maxrss: 51372
+rusage ru_minflt: 8658
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 800
+rusage ru_nvcsw: 11861
+rusage ru_nivcsw: 641
+Child rusage ru_utime: 0.522002
+Child rusage ru_stime: 1.72382
+Child rusage ru_maxrss: 85216
+Child rusage ru_minflt: 26983
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 58312
+Child rusage ru_oublock: 204776
+Child rusage ru_nvcsw: 14585
+Child rusage ru_nivcsw: 24877
+Status: PASSED 
+Ended: 1712928340.03 

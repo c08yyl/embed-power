@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928276.94 
+linux-libc-headers-6.6-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.19 seconds
+utime: 36
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 439071
+IO wchar: 90361
+IO syscr: 212
+IO syscw: 65
+IO read_bytes: 4096
+IO write_bytes: 65536
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.365562
+rusage ru_stime: 0.031788
+rusage ru_maxrss: 51408
+rusage ru_minflt: 7734
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 405
+Child rusage ru_utime: 0.015517999999999999
+Child rusage ru_stime: 0.02233
+Child rusage ru_maxrss: 51408
+Child rusage ru_minflt: 1586
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 28
+Status: PASSED 
+Ended: 1712928277.14 

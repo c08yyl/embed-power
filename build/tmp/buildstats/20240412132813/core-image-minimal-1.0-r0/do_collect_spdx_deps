@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928637.59 
+core-image-minimal-1.0-r0: do_collect_spdx_deps
+Elapsed time: 0.35 seconds
+utime: 68
+stime: 6
+cutime: 1
+cstime: 0
+IO rchar: 668562
+IO wchar: 113046
+IO syscr: 186
+IO syscw: 73
+IO read_bytes: 4096
+IO write_bytes: 118784
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.6881539999999999
+rusage ru_stime: 0.066093
+rusage ru_maxrss: 53720
+rusage ru_minflt: 7403
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 104
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 281
+Child rusage ru_utime: 0.01099
+Child rusage ru_stime: 0.009689999999999999
+Child rusage ru_maxrss: 53720
+Child rusage ru_minflt: 729
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 128
+Child rusage ru_nvcsw: 14
+Child rusage ru_nivcsw: 53
+Status: PASSED 
+Ended: 1712928637.94 

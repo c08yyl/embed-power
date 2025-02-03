@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928588.16 
+libbsd-native-0.12.1-r0: do_populate_lic_setscene
+Elapsed time: 0.29 seconds
+utime: 45
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 692027
+IO wchar: 125434
+IO syscr: 223
+IO syscw: 72
+IO read_bytes: 8192
+IO write_bytes: 98304
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.452822
+rusage ru_stime: 0.055125999999999994
+rusage ru_maxrss: 52980
+rusage ru_minflt: 8226
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 390
+Child rusage ru_utime: 0.011968
+Child rusage ru_stime: 0.024366
+Child rusage ru_maxrss: 52980
+Child rusage ru_minflt: 1609
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 88
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 43
+Status: PASSED 
+Ended: 1712928588.45 

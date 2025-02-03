@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928394.20 
+gnutls-3.8.4-r0: do_packagedata_setscene
+Elapsed time: 0.38 seconds
+utime: 47
+stime: 3
+cutime: 2
+cstime: 6
+IO rchar: 1187501
+IO wchar: 1182475
+IO syscr: 662
+IO syscw: 603
+IO read_bytes: 90112
+IO write_bytes: 720896
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.472655
+rusage ru_stime: 0.032596
+rusage ru_maxrss: 52148
+rusage ru_minflt: 8007
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 168
+rusage ru_nvcsw: 195
+rusage ru_nivcsw: 427
+Child rusage ru_utime: 0.023774999999999998
+Child rusage ru_stime: 0.066955
+Child rusage ru_maxrss: 52148
+Child rusage ru_minflt: 1932
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 168
+Child rusage ru_oublock: 1240
+Child rusage ru_nvcsw: 91
+Child rusage ru_nivcsw: 682
+Status: PASSED 
+Ended: 1712928394.58 

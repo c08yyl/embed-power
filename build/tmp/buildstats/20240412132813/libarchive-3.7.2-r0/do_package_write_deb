@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928858.88 
+libarchive-3.7.2-r0: do_package_write_deb
+Elapsed time: 14.28 seconds
+utime: 398
+stime: 126
+cutime: 677
+cstime: 105
+IO rchar: 28339809
+IO wchar: 17527257
+IO syscr: 6659
+IO syscw: 2000
+IO read_bytes: 9064448
+IO write_bytes: 7438336
+IO cancelled_write_bytes: 2035712
+rusage ru_utime: 3.98533
+rusage ru_stime: 1.264228
+rusage ru_maxrss: 55260
+rusage ru_minflt: 26286
+rusage ru_majflt: 0
+rusage ru_inblock: 1040
+rusage ru_oublock: 288
+rusage ru_nvcsw: 110
+rusage ru_nivcsw: 1132
+Child rusage ru_utime: 6.774468
+Child rusage ru_stime: 1.056892
+Child rusage ru_maxrss: 56592
+Child rusage ru_minflt: 153846
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16664
+Child rusage ru_oublock: 14240
+Child rusage ru_nvcsw: 1829
+Child rusage ru_nivcsw: 3666
+Status: PASSED 
+Ended: 1712928873.16 

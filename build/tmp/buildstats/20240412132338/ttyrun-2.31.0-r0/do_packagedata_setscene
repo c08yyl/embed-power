@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928244.28 
+ttyrun-2.31.0-r0: do_packagedata_setscene
+Elapsed time: 0.20 seconds
+utime: 34
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 411282
+IO wchar: 90226
+IO syscr: 203
+IO syscw: 88
+IO read_bytes: 4096
+IO write_bytes: 114688
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.34993199999999997
+rusage ru_stime: 0.039318
+rusage ru_maxrss: 49632
+rusage ru_minflt: 7249
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 369
+Child rusage ru_utime: 0.010957999999999999
+Child rusage ru_stime: 0.028189
+Child rusage ru_maxrss: 49632
+Child rusage ru_minflt: 1573
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 120
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 59
+Status: PASSED 
+Ended: 1712928244.48 

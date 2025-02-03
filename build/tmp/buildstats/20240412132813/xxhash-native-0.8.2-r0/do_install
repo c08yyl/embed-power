@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928652.15 
+xxhash-native-0.8.2-r0: do_install
+Elapsed time: 0.43 seconds
+utime: 49
+stime: 7
+cutime: 9
+cstime: 7
+IO rchar: 2060591
+IO wchar: 463988
+IO syscr: 1072
+IO syscw: 90
+IO read_bytes: 0
+IO write_bytes: 483328
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.49832499999999996
+rusage ru_stime: 0.079099
+rusage ru_maxrss: 55328
+rusage ru_minflt: 11696
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 64
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 124
+Child rusage ru_utime: 0.09100799999999999
+Child rusage ru_stime: 0.073837
+Child rusage ru_maxrss: 53536
+Child rusage ru_minflt: 7057
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 880
+Child rusage ru_nvcsw: 174
+Child rusage ru_nivcsw: 102
+Status: PASSED 
+Ended: 1712928652.58 

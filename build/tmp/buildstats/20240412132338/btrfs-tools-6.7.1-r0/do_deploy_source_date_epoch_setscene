@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928330.31 
+btrfs-tools-6.7.1-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.39 seconds
+utime: 41
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 374387
+IO wchar: 60926
+IO syscr: 123
+IO syscw: 55
+IO read_bytes: 12288
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.41809199999999996
+rusage ru_stime: 0.035165999999999996
+rusage ru_maxrss: 51872
+rusage ru_minflt: 7743
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 104
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 2233
+Child rusage ru_utime: 0.0037359999999999997
+Child rusage ru_stime: 0.016919999999999998
+Child rusage ru_maxrss: 47632
+Child rusage ru_minflt: 930
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 31
+Child rusage ru_nivcsw: 261
+Status: PASSED 
+Ended: 1712928330.70 

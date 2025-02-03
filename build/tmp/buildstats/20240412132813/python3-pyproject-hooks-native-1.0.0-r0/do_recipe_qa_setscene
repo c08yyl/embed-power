@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928581.45 
+python3-pyproject-hooks-native-1.0.0-r0: do_recipe_qa_setscene
+Elapsed time: 0.23 seconds
+utime: 44
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 575840
+IO wchar: 57687
+IO syscr: 117
+IO syscw: 50
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.442529
+rusage ru_stime: 0.053873
+rusage ru_maxrss: 51896
+rusage ru_minflt: 7695
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 283
+Child rusage ru_utime: 0.0087
+Child rusage ru_stime: 0.010275
+Child rusage ru_maxrss: 48100
+Child rusage ru_minflt: 929
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 31
+Child rusage ru_nivcsw: 50
+Status: PASSED 
+Ended: 1712928581.68 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928592.22 
+libmd-native-1.1.0-r0: do_populate_lic_setscene
+Elapsed time: 0.24 seconds
+utime: 47
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 668292
+IO wchar: 88173
+IO syscr: 218
+IO syscw: 66
+IO read_bytes: 4096
+IO write_bytes: 73728
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.47690499999999997
+rusage ru_stime: 0.032271
+rusage ru_maxrss: 52932
+rusage ru_minflt: 8244
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 258
+Child rusage ru_utime: 0.015026999999999999
+Child rusage ru_stime: 0.020932
+Child rusage ru_maxrss: 52932
+Child rusage ru_minflt: 1604
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1712928592.46 

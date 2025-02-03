@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928541.61 
+chrpath-native-0.16-r0: do_populate_sysroot_setscene
+Elapsed time: 0.29 seconds
+utime: 51
+stime: 1
+cutime: 0
+cstime: 3
+IO rchar: 703818
+IO wchar: 128312
+IO syscr: 235
+IO syscw: 69
+IO read_bytes: 16384
+IO write_bytes: 110592
+IO cancelled_write_bytes: 20480
+rusage ru_utime: 0.5114989999999999
+rusage ru_stime: 0.011366
+rusage ru_maxrss: 52392
+rusage ru_minflt: 8309
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 112
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 850
+Child rusage ru_utime: 0.008676999999999999
+Child rusage ru_stime: 0.03531
+Child rusage ru_maxrss: 52392
+Child rusage ru_minflt: 1769
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 104
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 302
+Status: PASSED 
+Ended: 1712928541.90 

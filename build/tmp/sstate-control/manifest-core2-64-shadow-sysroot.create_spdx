@@ -1,0 +1,10 @@
+/kitchen/build/tmp/deploy/spdx/core2-64/recipes/recipe-shadow-sysroot.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/sstate:shadow-sysroot:core2-64-poky-linux:4.6:r0:core2-64:11:/recipe-shadow-sysroot.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/core2-64/http:__spdx.org_spdxdoc_recipe-shadow-sysroot-b6b6920a-50f2-5a27-a753-5106a834f19f
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/sstate:shadow-sysroot:core2-64-poky-linux:4.6:r0:core2-64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/core2-64/
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/
+/kitchen/build/tmp/deploy/spdx/core2-64/recipes/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/core2-64/
+/kitchen/build/tmp/deploy/spdx/by-hash/

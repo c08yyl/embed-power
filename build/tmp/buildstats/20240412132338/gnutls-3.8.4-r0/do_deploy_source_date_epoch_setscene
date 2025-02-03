@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928406.44 
+gnutls-3.8.4-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.28 seconds
+utime: 44
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 384888
+IO wchar: 61075
+IO syscr: 129
+IO syscw: 57
+IO read_bytes: 12288
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.446455
+rusage ru_stime: 0.034554
+rusage ru_maxrss: 52152
+rusage ru_minflt: 7877
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 104
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 736
+Child rusage ru_utime: 0.009608
+Child rusage ru_stime: 0.010534
+Child rusage ru_maxrss: 48780
+Child rusage ru_minflt: 927
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 28
+Child rusage ru_nivcsw: 56
+Status: PASSED 
+Ended: 1712928406.72 

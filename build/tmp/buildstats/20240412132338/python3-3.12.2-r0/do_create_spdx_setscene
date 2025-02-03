@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928287.30 
+python3-3.12.2-r0: do_create_spdx_setscene
+Elapsed time: 0.43 seconds
+utime: 62
+stime: 4
+cutime: 1
+cstime: 8
+IO rchar: 5854275
+IO wchar: 9546213
+IO syscr: 1133
+IO syscw: 1057
+IO read_bytes: 700416
+IO write_bytes: 4812800
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.628428
+rusage ru_stime: 0.048032
+rusage ru_maxrss: 53016
+rusage ru_minflt: 10268
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 184
+rusage ru_nvcsw: 214
+rusage ru_nivcsw: 878
+Child rusage ru_utime: 0.019798
+Child rusage ru_stime: 0.088667
+Child rusage ru_maxrss: 53016
+Child rusage ru_minflt: 3142
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1352
+Child rusage ru_oublock: 9216
+Child rusage ru_nvcsw: 417
+Child rusage ru_nivcsw: 566
+Status: PASSED 
+Ended: 1712928287.73 

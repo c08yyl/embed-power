@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928653.01 
+xxhash-native-0.8.2-r0: do_populate_sysroot
+Elapsed time: 1.14 seconds
+utime: 75
+stime: 11
+cutime: 13
+cstime: 12
+IO rchar: 3455055
+IO wchar: 1087966
+IO syscr: 1434
+IO syscw: 292
+IO read_bytes: 2195456
+IO write_bytes: 643072
+IO cancelled_write_bytes: 122880
+rusage ru_utime: 0.756946
+rusage ru_stime: 0.118892
+rusage ru_maxrss: 56316
+rusage ru_minflt: 20303
+rusage ru_majflt: 0
+rusage ru_inblock: 64
+rusage ru_oublock: 520
+rusage ru_nvcsw: 56
+rusage ru_nivcsw: 462
+Child rusage ru_utime: 0.134603
+Child rusage ru_stime: 0.129345
+Child rusage ru_maxrss: 56316
+Child rusage ru_minflt: 12667
+Child rusage ru_majflt: 30
+Child rusage ru_inblock: 4224
+Child rusage ru_oublock: 736
+Child rusage ru_nvcsw: 238
+Child rusage ru_nivcsw: 1201
+Status: PASSED 
+Ended: 1712928654.15 

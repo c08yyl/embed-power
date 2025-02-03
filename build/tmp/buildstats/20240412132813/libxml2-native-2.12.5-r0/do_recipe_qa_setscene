@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928561.01 
+libxml2-native-2.12.5-r0: do_recipe_qa_setscene
+Elapsed time: 0.20 seconds
+utime: 50
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 602446
+IO wchar: 60944
+IO syscr: 126
+IO syscw: 56
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.508667
+rusage ru_stime: 0.045489999999999996
+rusage ru_maxrss: 52872
+rusage ru_minflt: 8175
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 197
+Child rusage ru_utime: 0.0071129999999999995
+Child rusage ru_stime: 0.012144
+Child rusage ru_maxrss: 48108
+Child rusage ru_minflt: 915
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 32
+Child rusage ru_nivcsw: 19
+Status: PASSED 
+Ended: 1712928561.21 

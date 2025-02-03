@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928299.88 
+base-passwd-3.6.3-r0: do_create_spdx_setscene
+Elapsed time: 0.21 seconds
+utime: 39
+stime: 2
+cutime: 0
+cstime: 3
+IO rchar: 495097
+IO wchar: 161039
+IO syscr: 216
+IO syscw: 86
+IO read_bytes: 20480
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.396603
+rusage ru_stime: 0.02003
+rusage ru_maxrss: 51828
+rusage ru_minflt: 7812
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 112
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 331
+Child rusage ru_utime: 0.008711
+Child rusage ru_stime: 0.034051
+Child rusage ru_maxrss: 51828
+Child rusage ru_minflt: 1625
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 88
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 23
+Status: PASSED 
+Ended: 1712928300.09 

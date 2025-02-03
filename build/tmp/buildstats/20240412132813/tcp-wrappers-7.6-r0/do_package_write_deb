@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929153.04 
+tcp-wrappers-7.6-r0: do_package_write_deb
+Elapsed time: 8.03 seconds
+utime: 128
+stime: 94
+cutime: 114
+cstime: 73
+IO rchar: 7393916
+IO wchar: 3478088
+IO syscr: 3799
+IO syscw: 805
+IO read_bytes: 1916928
+IO write_bytes: 2289664
+IO cancelled_write_bytes: 319488
+rusage ru_utime: 1.2818239999999999
+rusage ru_stime: 0.9490419999999999
+rusage ru_maxrss: 54516
+rusage ru_minflt: 24387
+rusage ru_majflt: 0
+rusage ru_inblock: 1072
+rusage ru_oublock: 288
+rusage ru_nvcsw: 184
+rusage ru_nivcsw: 653
+Child rusage ru_utime: 1.146968
+Child rusage ru_stime: 0.737833
+Child rusage ru_maxrss: 52196
+Child rusage ru_minflt: 107177
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 2672
+Child rusage ru_oublock: 4184
+Child rusage ru_nvcsw: 856
+Child rusage ru_nivcsw: 1391
+Status: PASSED 
+Ended: 1712929161.06 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928624.61 
+gnu-config-native-20240101+git-r0: do_populate_sysroot_setscene
+Elapsed time: 0.21 seconds
+utime: 42
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 767392
+IO wchar: 262446
+IO syscr: 233
+IO syscw: 81
+IO read_bytes: 28672
+IO write_bytes: 167936
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.420805
+rusage ru_stime: 0.038255
+rusage ru_maxrss: 52592
+rusage ru_minflt: 7904
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 7
+rusage ru_nivcsw: 236
+Child rusage ru_utime: 0.022323
+Child rusage ru_stime: 0.014655
+Child rusage ru_maxrss: 52592
+Child rusage ru_minflt: 1654
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 56
+Child rusage ru_oublock: 208
+Child rusage ru_nvcsw: 47
+Child rusage ru_nivcsw: 60
+Status: PASSED 
+Ended: 1712928624.82 

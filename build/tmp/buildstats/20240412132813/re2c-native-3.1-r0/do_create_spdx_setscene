@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928618.36 
+re2c-native-3.1-r0: do_create_spdx_setscene
+Elapsed time: 0.25 seconds
+utime: 46
+stime: 4
+cutime: 0
+cstime: 3
+IO rchar: 680219
+IO wchar: 92876
+IO syscr: 223
+IO syscw: 69
+IO read_bytes: 4096
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.46264
+rusage ru_stime: 0.040229
+rusage ru_maxrss: 54136
+rusage ru_minflt: 8358
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 582
+Child rusage ru_utime: 0.007954
+Child rusage ru_stime: 0.031451
+Child rusage ru_maxrss: 54136
+Child rusage ru_minflt: 1603
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 55
+Status: PASSED 
+Ended: 1712928618.61 

@@ -1,0 +1,5 @@
+OEOuthashBasic
+15
+SSTATE_PKGSPEC=sstate:rpm-native:x86_64-linux:4.19.1:r0:x86_64:11:
+task=recipe_qa
+drwx                                                                                       .

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929940.61 
+util-linux-libuuid-2.39.3-r0: do_package_write_deb
+Elapsed time: 8.15 seconds
+utime: 95
+stime: 93
+cutime: 51
+cstime: 44
+IO rchar: 4140546
+IO wchar: 2052422
+IO syscr: 2495
+IO syscw: 621
+IO read_bytes: 1548288
+IO write_bytes: 1736704
+IO cancelled_write_bytes: 98304
+rusage ru_utime: 0.959015
+rusage ru_stime: 0.9383469999999999
+rusage ru_maxrss: 52436
+rusage ru_minflt: 24363
+rusage ru_majflt: 2
+rusage ru_inblock: 1824
+rusage ru_oublock: 288
+rusage ru_nvcsw: 92
+rusage ru_nivcsw: 608
+Child rusage ru_utime: 0.519118
+Child rusage ru_stime: 0.44626299999999997
+Child rusage ru_maxrss: 49856
+Child rusage ru_minflt: 62550
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 1200
+Child rusage ru_oublock: 3104
+Child rusage ru_nvcsw: 541
+Child rusage ru_nivcsw: 690
+Status: PASSED 
+Ended: 1712929948.76 

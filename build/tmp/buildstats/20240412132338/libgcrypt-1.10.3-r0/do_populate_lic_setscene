@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928290.73 
+libgcrypt-1.10.3-r0: do_populate_lic_setscene
+Elapsed time: 0.21 seconds
+utime: 38
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 555152
+IO wchar: 271647
+IO syscr: 233
+IO syscw: 78
+IO read_bytes: 24576
+IO write_bytes: 172032
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.38517199999999996
+rusage ru_stime: 0.048145999999999994
+rusage ru_maxrss: 51784
+rusage ru_minflt: 7807
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 76
+Child rusage ru_utime: 0.014065999999999999
+Child rusage ru_stime: 0.024089
+Child rusage ru_maxrss: 51784
+Child rusage ru_minflt: 1657
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 232
+Child rusage ru_nvcsw: 50
+Child rusage ru_nivcsw: 28
+Status: PASSED 
+Ended: 1712928290.93 

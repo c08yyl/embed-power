@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928248.33 
+cmake-native-3.28.3-r0: do_populate_lic_setscene
+Elapsed time: 0.22 seconds
+utime: 28
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 435350
+IO wchar: 117910
+IO syscr: 210
+IO syscw: 80
+IO read_bytes: 8192
+IO write_bytes: 110592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.289939
+rusage ru_stime: 0.035262
+rusage ru_maxrss: 50016
+rusage ru_minflt: 7277
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 99
+Child rusage ru_utime: 0.01393
+Child rusage ru_stime: 0.023228
+Child rusage ru_maxrss: 50016
+Child rusage ru_minflt: 1597
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 120
+Child rusage ru_nvcsw: 39
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1712928248.55 

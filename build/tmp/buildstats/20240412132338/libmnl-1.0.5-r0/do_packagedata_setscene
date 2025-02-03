@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928368.47 
+libmnl-1.0.5-r0: do_packagedata_setscene
+Elapsed time: 0.26 seconds
+utime: 37
+stime: 4
+cutime: 0
+cstime: 3
+IO rchar: 462668
+IO wchar: 117339
+IO syscr: 215
+IO syscw: 100
+IO read_bytes: 147456
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.37465099999999996
+rusage ru_stime: 0.042928
+rusage ru_maxrss: 52328
+rusage ru_minflt: 7828
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 112
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 361
+Child rusage ru_utime: 0.003519
+Child rusage ru_stime: 0.037472
+Child rusage ru_maxrss: 52328
+Child rusage ru_minflt: 1605
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 264
+Child rusage ru_oublock: 136
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 129
+Status: PASSED 
+Ended: 1712928368.73 

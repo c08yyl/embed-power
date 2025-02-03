@@ -1,0 +1,5 @@
+Host Info: Linux c5436b903291 6.5.0-27-generic #28~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Fri Mar 15 10:51:06 UTC 2 x86_64 x86_64 
+Build Started: 1712928495.59 
+Uncompressed Rootfs size: 28M	/kitchen/build/tmp/work/qemux86_64-poky-linux/core-image-minimal/1.0/rootfs
+Elapsed time: 2544.75 seconds 
+CPU usage: 84.6% 

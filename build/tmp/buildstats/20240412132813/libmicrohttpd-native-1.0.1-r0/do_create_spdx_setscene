@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928593.56 
+libmicrohttpd-native-1.0.1-r0: do_create_spdx_setscene
+Elapsed time: 0.40 seconds
+utime: 48
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 680976
+IO wchar: 97554
+IO syscr: 245
+IO syscw: 80
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.48643499999999995
+rusage ru_stime: 0.033937
+rusage ru_maxrss: 53084
+rusage ru_minflt: 8283
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 362
+Child rusage ru_utime: 0.0196
+Child rusage ru_stime: 0.017671
+Child rusage ru_maxrss: 53084
+Child rusage ru_minflt: 1611
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 37
+Child rusage ru_nivcsw: 37
+Status: PASSED 
+Ended: 1712928593.96 

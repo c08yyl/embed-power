@@ -1,0 +1,36 @@
+DEBUG: Executing python function extend_recipe_sysroot
+NOTE: Direct dependencies are ['virtual:native:/kitchen/meta/recipes-devtools/dpkg/dpkg_1.22.0.bb:do_populate_sysroot', 'virtual:native:/kitchen/meta/recipes-devtools/pseudo/pseudo_git.bb:do_populate_sysroot']
+NOTE: Installed into sysroot: ['gettext-minimal-native', 'libtool-native', 'texinfo-dummy-native', 'gettext-native', 'zlib-native', 'dpkg-native', 'make-native', 'opkg-utils-native', 'perl-native', 'bzip2-native', 'xz-native', 'attr-native', 'gdbm-native', 'libmd-native', 'sqlite3-native']
+NOTE: Skipping as already exists in sysroot: ['pseudo-native']
+DEBUG: sed -e 's:^[^/]*/:/kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/recipe-sysroot-native/:g' /kitchen/build/tmp/sysroots-components/x86_64/libtool-native/fixmepath /kitchen/build/tmp/sysroots-components/x86_64/gettext-native/fixmepath /kitchen/build/tmp/sysroots-components/x86_64/dpkg-native/fixmepath /kitchen/build/tmp/sysroots-components/x86_64/perl-native/fixmepath | xargs sed -i -e 's:FIXMESTAGINGDIRTARGET:/kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/recipe-sysroot:g; s:FIXMESTAGINGDIRHOST:/kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/recipe-sysroot-native:g' -e 's:FIXME_PSEUDO_SYSROOT:/kitchen/build/tmp/sysroots-components/x86_64/pseudo-native:g' -e 's:FIXME_HOSTTOOLS_DIR:/kitchen/build/tmp/hosttools:g' -e 's:FIXME_PKGDATA_DIR:/kitchen/build/tmp/pkgdata/qemux86-64:g' -e 's:FIXME_PSEUDO_LOCALSTATEDIR:/kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/pseudo/:g' -e 's:FIXME_LOGFIFO:/kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/temp/fifo.79350:g'
+DEBUG: Python function extend_recipe_sysroot finished
+DEBUG: Executing python function sstate_task_prefunc
+DEBUG: Python function sstate_task_prefunc finished
+DEBUG: Executing python function do_package_write_deb
+DEBUG: Executing python function read_subpackage_metadata
+DEBUG: Python function read_subpackage_metadata finished
+DEBUG: Executing python function do_package_deb
+NOTE: Not creating empty archive for base-files-src-3.0.14-r0
+DEBUG: Python function do_package_deb finished
+DEBUG: Python function do_package_write_deb finished
+DEBUG: Executing python function sstate_task_postfunc
+NOTE: Using umask 0o002 (not 22) for sstate packaging
+DEBUG: Preparing tree /kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/deploy-debs for packaging at /kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/sstate-build-package_write_deb/deploy-debs
+DEBUG: Executing python function target_add_sysroot_deps
+DEBUG: Python function target_add_sysroot_deps finished
+DEBUG: Executing python function sstate_hardcode_path
+NOTE: Removing hardcoded paths from sstate package: 'find /kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/sstate-build-package_write_deb/ \( -name "*.la" -o -name "*-config" -o -name "*_config" -o -name "postinst-*" \) -type f | xargs grep -l -e '/kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/recipe-sysroot' -e '/kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/recipe-sysroot-native' -e '/kitchen/build/tmp/hosttools' | tee /kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/sstate-build-package_write_deb/fixmepath | xargs --no-run-if-empty sed -i -e 's:/kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/recipe-sysroot-native:FIXMESTAGINGDIRHOST:g' -e 's:/kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/recipe-sysroot:FIXMESTAGINGDIRTARGET:g' -e 's:/kitchen/build/tmp/hosttools:FIXME_HOSTTOOLS_DIR:g''
+DEBUG: Python function sstate_hardcode_path finished
+DEBUG: Executing python function sstate_report_unihash
+DEBUG: Reported task 843cc189f726d7bea7d87dc82a47386d03e735153504d9860d42b0d3e58d7064 as unihash 843cc189f726d7bea7d87dc82a47386d03e735153504d9860d42b0d3e58d7064 to unix:///kitchen/build/hashserve.sock
+DEBUG: Python function sstate_report_unihash finished
+DEBUG: Executing python function sstate_create_and_sign_package
+DEBUG: Executing shell function sstate_archive_package
+DEBUG: Shell function sstate_archive_package finished
+DEBUG: Python function sstate_create_and_sign_package finished
+DEBUG: Executing python function sstate_hardcode_path_unpack
+DEBUG: Python function sstate_hardcode_path_unpack finished
+DEBUG: Executing python function uninative_changeinterp
+DEBUG: Python function uninative_changeinterp finished
+DEBUG: Staging files from /kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/deploy-debs to /kitchen/build/tmp/deploy/deb
+DEBUG: Python function sstate_task_postfunc finished

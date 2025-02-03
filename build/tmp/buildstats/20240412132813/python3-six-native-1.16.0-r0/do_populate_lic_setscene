@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928516.11 
+python3-six-native-1.16.0-r0: do_populate_lic_setscene
+Elapsed time: 0.24 seconds
+utime: 45
+stime: 7
+cutime: 1
+cstime: 1
+IO rchar: 629074
+IO wchar: 71391
+IO syscr: 226
+IO syscw: 69
+IO read_bytes: 12288
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.451534
+rusage ru_stime: 0.07282799999999999
+rusage ru_maxrss: 51368
+rusage ru_minflt: 7812
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 112
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 392
+Child rusage ru_utime: 0.019037
+Child rusage ru_stime: 0.019364
+Child rusage ru_maxrss: 51368
+Child rusage ru_minflt: 1602
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 81
+Status: PASSED 
+Ended: 1712928516.35 

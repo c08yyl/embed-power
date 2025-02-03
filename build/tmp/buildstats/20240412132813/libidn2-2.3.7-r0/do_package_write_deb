@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928765.66 
+libidn2-2.3.7-r0: do_package_write_deb
+Elapsed time: 10.54 seconds
+utime: 301
+stime: 132
+cutime: 327
+cstime: 225
+IO rchar: 18378786
+IO wchar: 6036466
+IO syscr: 10863
+IO syscw: 1564
+IO read_bytes: 3334144
+IO write_bytes: 3018752
+IO cancelled_write_bytes: 700416
+rusage ru_utime: 3.015557
+rusage ru_stime: 1.329021
+rusage ru_maxrss: 55592
+rusage ru_minflt: 32757
+rusage ru_majflt: 0
+rusage ru_inblock: 520
+rusage ru_oublock: 296
+rusage ru_nvcsw: 128
+rusage ru_nivcsw: 1194
+Child rusage ru_utime: 3.271462
+Child rusage ru_stime: 2.25946
+Child rusage ru_maxrss: 52720
+Child rusage ru_minflt: 316183
+Child rusage ru_majflt: 4
+Child rusage ru_inblock: 5992
+Child rusage ru_oublock: 5600
+Child rusage ru_nvcsw: 4114
+Child rusage ru_nivcsw: 4063
+Status: PASSED 
+Ended: 1712928776.19 

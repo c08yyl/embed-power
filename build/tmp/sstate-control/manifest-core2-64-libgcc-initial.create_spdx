@@ -1,0 +1,10 @@
+/kitchen/build/tmp/deploy/spdx/core2-64/recipes/recipe-libgcc-initial.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/sstate:libgcc-initial:core2-64-poky-linux:13.2.0:r0:core2-64:11:/recipe-libgcc-initial.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/core2-64/http:__spdx.org_spdxdoc_recipe-libgcc-initial-a4724a6f-7615-5e3e-b3b1-e881263363b2
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/sstate:libgcc-initial:core2-64-poky-linux:13.2.0:r0:core2-64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/core2-64/
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/
+/kitchen/build/tmp/deploy/spdx/core2-64/recipes/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/core2-64/
+/kitchen/build/tmp/deploy/spdx/by-hash/

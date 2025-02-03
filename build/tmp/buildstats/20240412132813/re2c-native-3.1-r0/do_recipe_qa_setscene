@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928619.09 
+re2c-native-3.1-r0: do_recipe_qa_setscene
+Elapsed time: 0.21 seconds
+utime: 44
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 594173
+IO wchar: 55530
+IO syscr: 113
+IO syscw: 49
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.44427999999999995
+rusage ru_stime: 0.043634
+rusage ru_maxrss: 53900
+rusage ru_minflt: 8209
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 226
+Child rusage ru_utime: 0.005291
+Child rusage ru_stime: 0.012917
+Child rusage ru_maxrss: 49340
+Child rusage ru_minflt: 924
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1712928619.30 

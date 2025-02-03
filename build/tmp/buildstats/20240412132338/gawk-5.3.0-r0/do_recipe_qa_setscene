@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928367.58 
+gawk-5.3.0-r0: do_recipe_qa_setscene
+Elapsed time: 0.19 seconds
+utime: 41
+stime: 3
+cutime: 0
+cstime: 0
+IO rchar: 387002
+IO wchar: 55251
+IO syscr: 114
+IO syscw: 45
+IO read_bytes: 12288
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.411232
+rusage ru_stime: 0.039924999999999995
+rusage ru_maxrss: 52096
+rusage ru_minflt: 7767
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 96
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 145
+Child rusage ru_utime: 0.008518999999999999
+Child rusage ru_stime: 0.009819999999999999
+Child rusage ru_maxrss: 48368
+Child rusage ru_minflt: 919
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 34
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1712928367.77 

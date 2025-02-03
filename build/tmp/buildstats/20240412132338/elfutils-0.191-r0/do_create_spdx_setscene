@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928256.02 
+elfutils-0.191-r0: do_create_spdx_setscene
+Elapsed time: 0.29 seconds
+utime: 39
+stime: 4
+cutime: 1
+cstime: 5
+IO rchar: 3978661
+IO wchar: 6683660
+IO syscr: 689
+IO syscw: 569
+IO read_bytes: 204800
+IO write_bytes: 3362816
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.397505
+rusage ru_stime: 0.044617
+rusage ru_maxrss: 50768
+rusage ru_minflt: 7802
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 120
+rusage ru_nvcsw: 69
+rusage ru_nivcsw: 131
+Child rusage ru_utime: 0.014076
+Child rusage ru_stime: 0.057497
+Child rusage ru_maxrss: 50768
+Child rusage ru_minflt: 2562
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 400
+Child rusage ru_oublock: 6448
+Child rusage ru_nvcsw: 245
+Child rusage ru_nivcsw: 241
+Status: PASSED 
+Ended: 1712928256.31 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928589.97 
+libcap-ng-native-0.8.4-r0: do_create_spdx_setscene
+Elapsed time: 0.30 seconds
+utime: 50
+stime: 2
+cutime: 0
+cstime: 3
+IO rchar: 678767
+IO wchar: 93968
+IO syscr: 235
+IO syscw: 75
+IO read_bytes: 4096
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.50727
+rusage ru_stime: 0.028180999999999998
+rusage ru_maxrss: 53140
+rusage ru_minflt: 8311
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 301
+Child rusage ru_utime: 0.005601999999999999
+Child rusage ru_stime: 0.032052
+Child rusage ru_maxrss: 53140
+Child rusage ru_minflt: 1619
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 16
+Status: PASSED 
+Ended: 1712928590.26 

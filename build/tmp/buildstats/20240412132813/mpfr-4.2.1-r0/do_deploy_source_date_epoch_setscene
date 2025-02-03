@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928507.74 
+mpfr-4.2.1-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.27 seconds
+utime: 37
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 363677
+IO wchar: 54656
+IO syscr: 109
+IO syscw: 47
+IO read_bytes: 4096
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.370758
+rusage ru_stime: 0.048891
+rusage ru_maxrss: 50340
+rusage ru_minflt: 7472
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 3
+rusage ru_nivcsw: 799
+Child rusage ru_utime: 0.001785
+Child rusage ru_stime: 0.016918
+Child rusage ru_maxrss: 45836
+Child rusage ru_minflt: 930
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 27
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1712928508.01 

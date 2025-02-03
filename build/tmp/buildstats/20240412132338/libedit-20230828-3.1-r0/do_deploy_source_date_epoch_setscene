@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928362.30 
+libedit-20230828-3.1-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.20 seconds
+utime: 38
+stime: 4
+cutime: 1
+cstime: 0
+IO rchar: 377601
+IO wchar: 55722
+IO syscr: 110
+IO syscw: 47
+IO read_bytes: 12288
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.38462999999999997
+rusage ru_stime: 0.042735999999999996
+rusage ru_maxrss: 52268
+rusage ru_minflt: 7766
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 96
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 297
+Child rusage ru_utime: 0.011741
+Child rusage ru_stime: 0.007981
+Child rusage ru_maxrss: 47844
+Child rusage ru_minflt: 931
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 173
+Status: PASSED 
+Ended: 1712928362.50 

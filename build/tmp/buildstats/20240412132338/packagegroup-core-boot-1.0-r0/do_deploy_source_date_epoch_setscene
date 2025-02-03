@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928240.91 
+packagegroup-core-boot-1.0-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.20 seconds
+utime: 33
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 330003
+IO wchar: 52213
+IO syscr: 100
+IO syscw: 41
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.337537
+rusage ru_stime: 0.037925
+rusage ru_maxrss: 49632
+rusage ru_minflt: 7034
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 3
+rusage ru_nivcsw: 499
+Child rusage ru_utime: 0.007588999999999999
+Child rusage ru_stime: 0.010931999999999999
+Child rusage ru_maxrss: 45964
+Child rusage ru_minflt: 923
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 31
+Status: PASSED 
+Ended: 1712928241.11 

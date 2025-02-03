@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928534.77 
+libepoxy-native-1.5.10-r0: do_populate_lic_setscene
+Elapsed time: 0.30 seconds
+utime: 51
+stime: 3
+cutime: 1
+cstime: 1
+IO rchar: 652831
+IO wchar: 76172
+IO syscr: 238
+IO syscw: 80
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.513871
+rusage ru_stime: 0.038929
+rusage ru_maxrss: 51664
+rusage ru_minflt: 8073
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 600
+Child rusage ru_utime: 0.018616999999999998
+Child rusage ru_stime: 0.017647
+Child rusage ru_maxrss: 51664
+Child rusage ru_minflt: 1585
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 51
+Status: PASSED 
+Ended: 1712928535.07 

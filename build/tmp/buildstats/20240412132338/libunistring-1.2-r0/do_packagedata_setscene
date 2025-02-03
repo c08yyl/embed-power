@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928411.14 
+libunistring-1.2-r0: do_packagedata_setscene
+Elapsed time: 0.37 seconds
+utime: 38
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 537244
+IO wchar: 229229
+IO syscr: 228
+IO syscw: 108
+IO read_bytes: 159744
+IO write_bytes: 172032
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.389507
+rusage ru_stime: 0.036745
+rusage ru_maxrss: 52372
+rusage ru_minflt: 7856
+rusage ru_majflt: 0
+rusage ru_inblock: 272
+rusage ru_oublock: 112
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 760
+Child rusage ru_utime: 0.013682
+Child rusage ru_stime: 0.027905
+Child rusage ru_maxrss: 52372
+Child rusage ru_minflt: 1644
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 224
+Child rusage ru_nvcsw: 47
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1712928411.51 

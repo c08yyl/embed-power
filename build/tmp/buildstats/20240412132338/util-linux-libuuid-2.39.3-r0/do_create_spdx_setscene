@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928288.22 
+util-linux-libuuid-2.39.3-r0: do_create_spdx_setscene
+Elapsed time: 0.26 seconds
+utime: 37
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 503989
+IO wchar: 182705
+IO syscr: 269
+IO syscw: 105
+IO read_bytes: 135168
+IO write_bytes: 106496
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.37584399999999996
+rusage ru_stime: 0.037170999999999996
+rusage ru_maxrss: 51472
+rusage ru_minflt: 7777
+rusage ru_majflt: 0
+rusage ru_inblock: 240
+rusage ru_oublock: 112
+rusage ru_nvcsw: 28
+rusage ru_nivcsw: 133
+Child rusage ru_utime: 0.018243
+Child rusage ru_stime: 0.021759
+Child rusage ru_maxrss: 51472
+Child rusage ru_minflt: 1627
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 96
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 60
+Status: PASSED 
+Ended: 1712928288.49 

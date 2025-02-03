@@ -1,0 +1,39 @@
+DEBUG: Executing python function extend_recipe_sysroot
+NOTE: Direct dependencies are []
+NOTE: Installed into sysroot: []
+NOTE: Skipping as already exists in sysroot: []
+DEBUG: Python function extend_recipe_sysroot finished
+DEBUG: Executing python function fetcher_hashes_dummyfunc
+DEBUG: Python function fetcher_hashes_dummyfunc finished
+DEBUG: Executing python function do_fetch
+DEBUG: Executing python function base_do_fetch
+DEBUG: Searching for autoconf-2.73.patch in paths:
+    /kitchen/meta/recipes-devtools/bison/bison-3.8.2/poky
+    /kitchen/meta/recipes-devtools/bison/bison/poky
+    /kitchen/meta/recipes-devtools/bison/files/poky
+    /kitchen/meta/recipes-devtools/bison/bison-3.8.2/
+    /kitchen/meta/recipes-devtools/bison/bison/
+    /kitchen/meta/recipes-devtools/bison/files/
+    /kitchen/meta/recipes-devtools/bison/bison-3.8.2/x86-64
+    /kitchen/meta/recipes-devtools/bison/bison/x86-64
+    /kitchen/meta/recipes-devtools/bison/files/x86-64
+    /kitchen/meta/recipes-devtools/bison/bison-3.8.2/
+    /kitchen/meta/recipes-devtools/bison/bison/
+    /kitchen/meta/recipes-devtools/bison/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/bison/bison/autoconf-2.73.patch for autoconf-2.73.patch
+DEBUG: Searching for add-with-bisonlocaledir.patch in paths:
+    /kitchen/meta/recipes-devtools/bison/bison-3.8.2/poky
+    /kitchen/meta/recipes-devtools/bison/bison/poky
+    /kitchen/meta/recipes-devtools/bison/files/poky
+    /kitchen/meta/recipes-devtools/bison/bison-3.8.2/
+    /kitchen/meta/recipes-devtools/bison/bison/
+    /kitchen/meta/recipes-devtools/bison/files/
+    /kitchen/meta/recipes-devtools/bison/bison-3.8.2/x86-64
+    /kitchen/meta/recipes-devtools/bison/bison/x86-64
+    /kitchen/meta/recipes-devtools/bison/files/x86-64
+    /kitchen/meta/recipes-devtools/bison/bison-3.8.2/
+    /kitchen/meta/recipes-devtools/bison/bison/
+    /kitchen/meta/recipes-devtools/bison/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/bison/bison/add-with-bisonlocaledir.patch for add-with-bisonlocaledir.patch
+DEBUG: Python function base_do_fetch finished
+DEBUG: Python function do_fetch finished

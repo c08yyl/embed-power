@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928250.54 
+gcc-runtime-13.2.0-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.22 seconds
+utime: 44
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 539469
+IO wchar: 169603
+IO syscr: 250
+IO syscw: 130
+IO read_bytes: 4096
+IO write_bytes: 122880
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.440198
+rusage ru_stime: 0.040018
+rusage ru_maxrss: 51424
+rusage ru_minflt: 8007
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 128
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 278
+Child rusage ru_utime: 0.017897
+Child rusage ru_stime: 0.025997
+Child rusage ru_maxrss: 51424
+Child rusage ru_minflt: 1619
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 112
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 84
+Status: PASSED 
+Ended: 1712928250.76 

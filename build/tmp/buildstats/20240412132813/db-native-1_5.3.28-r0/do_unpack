@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928628.81 
+db-native-1_5.3.28-r0: do_unpack
+Elapsed time: 4.42 seconds
+utime: 45
+stime: 19
+cutime: 134
+cstime: 132
+IO rchar: 188303020
+IO wchar: 297917572
+IO syscr: 17589
+IO syscw: 28010
+IO read_bytes: 36184064
+IO write_bytes: 164732928
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.45676799999999995
+rusage ru_stime: 0.195758
+rusage ru_maxrss: 51480
+rusage ru_minflt: 9124
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 64
+rusage ru_nvcsw: 19
+rusage ru_nivcsw: 334
+Child rusage ru_utime: 1.343279
+Child rusage ru_stime: 1.328028
+Child rusage ru_maxrss: 51352
+Child rusage ru_minflt: 3821
+Child rusage ru_majflt: 5
+Child rusage ru_inblock: 70672
+Child rusage ru_oublock: 321680
+Child rusage ru_nvcsw: 7683
+Child rusage ru_nivcsw: 9424
+Status: PASSED 
+Ended: 1712928633.23 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928290.04 
+libffi-3.4.6-r0: do_package_qa_setscene
+Elapsed time: 0.18 seconds
+utime: 39
+stime: 1
+cutime: 1
+cstime: 0
+IO rchar: 361355
+IO wchar: 54275
+IO syscr: 107
+IO syscw: 43
+IO read_bytes: 122880
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.391217
+rusage ru_stime: 0.019757999999999998
+rusage ru_maxrss: 51512
+rusage ru_minflt: 7642
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 228
+Child rusage ru_utime: 0.010092
+Child rusage ru_stime: 0.00879
+Child rusage ru_maxrss: 47040
+Child rusage ru_minflt: 915
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 240
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 32
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1712928290.21 

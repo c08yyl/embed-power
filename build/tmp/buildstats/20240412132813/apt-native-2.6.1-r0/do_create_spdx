@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928638.93 
+apt-native-2.6.1-r0: do_create_spdx
+Elapsed time: 0.60 seconds
+utime: 69
+stime: 4
+cutime: 3
+cstime: 3
+IO rchar: 1257206
+IO wchar: 510920
+IO syscr: 486
+IO syscw: 203
+IO read_bytes: 16384
+IO write_bytes: 221184
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.6954859999999999
+rusage ru_stime: 0.048805999999999995
+rusage ru_maxrss: 55396
+rusage ru_minflt: 10892
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 328
+rusage ru_nvcsw: 34
+rusage ru_nivcsw: 629
+Child rusage ru_utime: 0.03612
+Child rusage ru_stime: 0.039306
+Child rusage ru_maxrss: 55396
+Child rusage ru_minflt: 4244
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 104
+Child rusage ru_nvcsw: 57
+Child rusage ru_nivcsw: 126
+Status: PASSED 
+Ended: 1712928639.53 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928362.53 
+diffutils-3.10-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.22 seconds
+utime: 41
+stime: 4
+cutime: 1
+cstime: 0
+IO rchar: 388935
+IO wchar: 58178
+IO syscr: 120
+IO syscw: 52
+IO read_bytes: 12288
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.41847799999999996
+rusage ru_stime: 0.044690999999999995
+rusage ru_maxrss: 51900
+rusage ru_minflt: 7806
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 96
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 2336
+Child rusage ru_utime: 0.011703
+Child rusage ru_stime: 0.007526
+Child rusage ru_maxrss: 48312
+Child rusage ru_minflt: 919
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 29
+Child rusage ru_nivcsw: 105
+Status: PASSED 
+Ended: 1712928362.75 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928261.98 
+diffutils-3.10-r0: do_package_qa_setscene
+Elapsed time: 0.17 seconds
+utime: 38
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 377967
+IO wchar: 56401
+IO syscr: 113
+IO syscw: 46
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.381121
+rusage ru_stime: 0.055007
+rusage ru_maxrss: 50676
+rusage ru_minflt: 7659
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 85
+Child rusage ru_utime: 0.006941999999999999
+Child rusage ru_stime: 0.01044
+Child rusage ru_maxrss: 47048
+Child rusage ru_minflt: 910
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1712928262.15 

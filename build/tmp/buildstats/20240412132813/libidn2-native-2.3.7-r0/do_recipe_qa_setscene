@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928596.52 
+libidn2-native-2.3.7-r0: do_recipe_qa_setscene
+Elapsed time: 0.27 seconds
+utime: 47
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 603982
+IO wchar: 60829
+IO syscr: 127
+IO syscw: 56
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.47690899999999997
+rusage ru_stime: 0.040076
+rusage ru_maxrss: 52536
+rusage ru_minflt: 8246
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 178
+Child rusage ru_utime: 0.007437999999999999
+Child rusage ru_stime: 0.015167
+Child rusage ru_maxrss: 48776
+Child rusage ru_minflt: 920
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 31
+Child rusage ru_nivcsw: 135
+Status: PASSED 
+Ended: 1712928596.79 

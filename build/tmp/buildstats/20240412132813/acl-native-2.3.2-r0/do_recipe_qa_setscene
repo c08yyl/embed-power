@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928582.69 
+acl-native-2.3.2-r0: do_recipe_qa_setscene
+Elapsed time: 0.23 seconds
+utime: 47
+stime: 6
+cutime: 0
+cstime: 1
+IO rchar: 601063
+IO wchar: 56833
+IO syscr: 117
+IO syscw: 51
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.47102
+rusage ru_stime: 0.064058
+rusage ru_maxrss: 52820
+rusage ru_minflt: 8172
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 597
+Child rusage ru_utime: 0.004573
+Child rusage ru_stime: 0.013744999999999999
+Child rusage ru_maxrss: 48328
+Child rusage ru_minflt: 921
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 34
+Child rusage ru_nivcsw: 15
+Status: PASSED 
+Ended: 1712928582.92 

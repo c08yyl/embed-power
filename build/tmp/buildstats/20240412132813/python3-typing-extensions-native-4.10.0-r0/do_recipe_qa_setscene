@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928558.58 
+python3-typing-extensions-native-4.10.0-r0: do_recipe_qa_setscene
+Elapsed time: 0.19 seconds
+utime: 45
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 572087
+IO wchar: 57959
+IO syscr: 116
+IO syscw: 50
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.45511999999999997
+rusage ru_stime: 0.03222
+rusage ru_maxrss: 51904
+rusage ru_minflt: 7696
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 137
+Child rusage ru_utime: 0.008761
+Child rusage ru_stime: 0.010071
+Child rusage ru_maxrss: 47924
+Child rusage ru_minflt: 930
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 29
+Status: PASSED 
+Ended: 1712928558.77 

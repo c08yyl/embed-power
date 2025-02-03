@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928395.85 
+xz-5.4.6-r0: do_packagedata_setscene
+Elapsed time: 0.31 seconds
+utime: 44
+stime: 3
+cutime: 2
+cstime: 5
+IO rchar: 713491
+IO wchar: 413103
+IO syscr: 617
+IO syscw: 519
+IO read_bytes: 131072
+IO write_bytes: 380928
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.442326
+rusage ru_stime: 0.038463
+rusage ru_maxrss: 51752
+rusage ru_minflt: 7952
+rusage ru_majflt: 0
+rusage ru_inblock: 216
+rusage ru_oublock: 152
+rusage ru_nvcsw: 146
+rusage ru_nivcsw: 1298
+Child rusage ru_utime: 0.021974999999999998
+Child rusage ru_stime: 0.050015
+Child rusage ru_maxrss: 51752
+Child rusage ru_minflt: 1704
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 592
+Child rusage ru_nvcsw: 59
+Child rusage ru_nivcsw: 328
+Status: PASSED 
+Ended: 1712928396.17 

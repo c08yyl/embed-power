@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929247.98 
+bzip2-1.0.8-r0: do_package_write_deb
+Elapsed time: 29.14 seconds
+utime: 366
+stime: 115
+cutime: 392
+cstime: 89
+IO rchar: 32877483
+IO wchar: 23697856
+IO syscr: 6640
+IO syscw: 2070
+IO read_bytes: 7806976
+IO write_bytes: 13336576
+IO cancelled_write_bytes: 4005888
+rusage ru_utime: 3.665636
+rusage ru_stime: 1.155206
+rusage ru_maxrss: 55812
+rusage ru_minflt: 23632
+rusage ru_majflt: 0
+rusage ru_inblock: 1824
+rusage ru_oublock: 288
+rusage ru_nvcsw: 88
+rusage ru_nivcsw: 1507
+Child rusage ru_utime: 3.926133
+Child rusage ru_stime: 0.8971739999999999
+Child rusage ru_maxrss: 79116
+Child rusage ru_minflt: 120255
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 13424
+Child rusage ru_oublock: 25760
+Child rusage ru_nvcsw: 1398
+Child rusage ru_nivcsw: 3763
+Status: PASSED 
+Ended: 1712929277.12 

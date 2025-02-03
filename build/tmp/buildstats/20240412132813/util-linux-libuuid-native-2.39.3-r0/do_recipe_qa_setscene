@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928600.77 
+util-linux-libuuid-native-2.39.3-r0: do_recipe_qa_setscene
+Elapsed time: 0.21 seconds
+utime: 49
+stime: 1
+cutime: 0
+cstime: 1
+IO rchar: 597031
+IO wchar: 58305
+IO syscr: 117
+IO syscw: 51
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.492343
+rusage ru_stime: 0.018649
+rusage ru_maxrss: 53392
+rusage ru_minflt: 8258
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 259
+Child rusage ru_utime: 0.007009
+Child rusage ru_stime: 0.011318
+Child rusage ru_maxrss: 48912
+Child rusage ru_minflt: 925
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 32
+Child rusage ru_nivcsw: 40
+Status: PASSED 
+Ended: 1712928600.98 

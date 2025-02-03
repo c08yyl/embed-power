@@ -1,0 +1,16 @@
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/runtime-init-ifupdown-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/runtime-init-ifupdown-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/runtime-init-ifupdown.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:init-ifupdown:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/runtime-init-ifupdown-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:init-ifupdown:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/runtime-init-ifupdown-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:init-ifupdown:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/runtime-init-ifupdown.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-init-ifupdown-dbg-2f135a98-c866-51a4-b7ca-67dba8f15067
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-init-ifupdown-dev-af871a2f-4e84-574d-b555-7b0c8654e1a6
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-init-ifupdown-b8231e24-ee9a-521c-952a-5180fa012b17
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:init-ifupdown:qemux86_64-poky-linux:1.0:r0:qemux86_64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/by-hash/

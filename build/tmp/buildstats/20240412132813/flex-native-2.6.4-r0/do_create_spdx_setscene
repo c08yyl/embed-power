@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928597.96 
+flex-native-2.6.4-r0: do_create_spdx_setscene
+Elapsed time: 0.30 seconds
+utime: 50
+stime: 5
+cutime: 2
+cstime: 1
+IO rchar: 692258
+IO wchar: 96153
+IO syscr: 247
+IO syscw: 81
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.509151
+rusage ru_stime: 0.050143
+rusage ru_maxrss: 53208
+rusage ru_minflt: 8393
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 363
+Child rusage ru_utime: 0.020003999999999997
+Child rusage ru_stime: 0.019582
+Child rusage ru_maxrss: 53208
+Child rusage ru_minflt: 1613
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 137
+Status: PASSED 
+Ended: 1712928598.26 

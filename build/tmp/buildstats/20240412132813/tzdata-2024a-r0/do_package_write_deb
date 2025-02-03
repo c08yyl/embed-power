@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928905.64 
+tzdata-2024a-r0: do_package_write_deb
+Elapsed time: 10.70 seconds
+utime: 163
+stime: 92
+cutime: 182
+cstime: 168
+IO rchar: 11988671
+IO wchar: 5222338
+IO syscr: 12895
+IO syscw: 2882
+IO read_bytes: 8814592
+IO write_bytes: 2170880
+IO cancelled_write_bytes: 323584
+rusage ru_utime: 1.636277
+rusage ru_stime: 0.928804
+rusage ru_maxrss: 54328
+rusage ru_minflt: 26398
+rusage ru_majflt: 0
+rusage ru_inblock: 424
+rusage ru_oublock: 280
+rusage ru_nvcsw: 175
+rusage ru_nivcsw: 895
+Child rusage ru_utime: 1.828005
+Child rusage ru_stime: 1.6852969999999998
+Child rusage ru_maxrss: 51832
+Child rusage ru_minflt: 163436
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16792
+Child rusage ru_oublock: 3960
+Child rusage ru_nvcsw: 6030
+Child rusage ru_nivcsw: 6348
+Status: PASSED 
+Ended: 1712928916.34 

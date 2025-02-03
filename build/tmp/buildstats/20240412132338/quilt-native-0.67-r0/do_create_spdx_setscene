@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928258.26 
+quilt-native-0.67-r0: do_create_spdx_setscene
+Elapsed time: 0.22 seconds
+utime: 31
+stime: 6
+cutime: 0
+cstime: 2
+IO rchar: 452438
+IO wchar: 91187
+IO syscr: 238
+IO syscw: 73
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.31604
+rusage ru_stime: 0.063208
+rusage ru_maxrss: 50784
+rusage ru_minflt: 7635
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 578
+Child rusage ru_utime: 0.009564999999999999
+Child rusage ru_stime: 0.028201999999999998
+Child rusage ru_maxrss: 50784
+Child rusage ru_minflt: 1594
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 40
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1712928258.48 

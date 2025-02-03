@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928326.95 
+sysvinit-3.04-r0: do_recipe_qa_setscene
+Elapsed time: 0.23 seconds
+utime: 35
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 358315
+IO wchar: 49965
+IO syscr: 100
+IO syscw: 38
+IO read_bytes: 147456
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.35852799999999996
+rusage ru_stime: 0.05175
+rusage ru_maxrss: 52112
+rusage ru_minflt: 7670
+rusage ru_majflt: 0
+rusage ru_inblock: 280
+rusage ru_oublock: 96
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 490
+Child rusage ru_utime: 0.005462
+Child rusage ru_stime: 0.013760999999999999
+Child rusage ru_maxrss: 47560
+Child rusage ru_minflt: 901
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 217
+Status: PASSED 
+Ended: 1712928327.18 

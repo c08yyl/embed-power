@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928576.99 
+dtc-native-1.7.0-r0: do_recipe_qa_setscene
+Elapsed time: 0.19 seconds
+utime: 48
+stime: 4
+cutime: 0
+cstime: 0
+IO rchar: 590483
+IO wchar: 58874
+IO syscr: 118
+IO syscw: 56
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.48027499999999995
+rusage ru_stime: 0.046317
+rusage ru_maxrss: 52812
+rusage ru_minflt: 8105
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 294
+Child rusage ru_utime: 0.009947
+Child rusage ru_stime: 0.008838
+Child rusage ru_maxrss: 48916
+Child rusage ru_minflt: 911
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 29
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1712928577.17 

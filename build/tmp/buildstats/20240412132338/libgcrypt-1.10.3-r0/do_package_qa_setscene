@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928290.54 
+libgcrypt-1.10.3-r0: do_package_qa_setscene
+Elapsed time: 0.22 seconds
+utime: 38
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 370347
+IO wchar: 55932
+IO syscr: 111
+IO syscw: 45
+IO read_bytes: 8192
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.386737
+rusage ru_stime: 0.040708999999999995
+rusage ru_maxrss: 51524
+rusage ru_minflt: 7665
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 384
+Child rusage ru_utime: 0.004777
+Child rusage ru_stime: 0.014055
+Child rusage ru_maxrss: 47044
+Child rusage ru_minflt: 913
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 31
+Child rusage ru_nivcsw: 26
+Status: PASSED 
+Ended: 1712928290.76 

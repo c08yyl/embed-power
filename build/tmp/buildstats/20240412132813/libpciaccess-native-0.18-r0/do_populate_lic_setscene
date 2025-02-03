@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928541.19 
+libpciaccess-native-0.18-r0: do_populate_lic_setscene
+Elapsed time: 0.29 seconds
+utime: 47
+stime: 7
+cutime: 0
+cstime: 2
+IO rchar: 664408
+IO wchar: 88469
+IO syscr: 236
+IO syscw: 78
+IO read_bytes: 8192
+IO write_bytes: 73728
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.47665799999999997
+rusage ru_stime: 0.074233
+rusage ru_maxrss: 52056
+rusage ru_minflt: 8136
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 1422
+Child rusage ru_utime: 0.008901
+Child rusage ru_stime: 0.028624
+Child rusage ru_maxrss: 52056
+Child rusage ru_minflt: 1610
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 45
+Child rusage ru_nivcsw: 97
+Status: PASSED 
+Ended: 1712928541.48 

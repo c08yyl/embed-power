@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928564.67 
+patch-native-2.7.6-r0: do_populate_sysroot_setscene
+Elapsed time: 0.29 seconds
+utime: 50
+stime: 2
+cutime: 1
+cstime: 2
+IO rchar: 1177008
+IO wchar: 673841
+IO syscr: 262
+IO syscw: 89
+IO read_bytes: 106496
+IO write_bytes: 471040
+IO cancelled_write_bytes: 200704
+rusage ru_utime: 0.506285
+rusage ru_stime: 0.022838999999999998
+rusage ru_maxrss: 52696
+rusage ru_minflt: 8323
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 14
+rusage ru_nivcsw: 227
+Child rusage ru_utime: 0.018969
+Child rusage ru_stime: 0.026126
+Child rusage ru_maxrss: 52696
+Child rusage ru_minflt: 1975
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 200
+Child rusage ru_oublock: 808
+Child rusage ru_nvcsw: 50
+Child rusage ru_nivcsw: 31
+Status: PASSED 
+Ended: 1712928564.95 

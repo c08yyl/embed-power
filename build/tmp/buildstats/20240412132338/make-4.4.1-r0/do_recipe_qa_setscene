@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928346.03 
+make-4.4.1-r0: do_recipe_qa_setscene
+Elapsed time: 0.19 seconds
+utime: 33
+stime: 2
+cutime: 0
+cstime: 1
+IO rchar: 362059
+IO wchar: 54550
+IO syscr: 111
+IO syscw: 44
+IO read_bytes: 12288
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.33397099999999996
+rusage ru_stime: 0.024142
+rusage ru_maxrss: 52056
+rusage ru_minflt: 7660
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 96
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 155
+Child rusage ru_utime: 0.005554
+Child rusage ru_stime: 0.012976
+Child rusage ru_maxrss: 47708
+Child rusage ru_minflt: 919
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 17
+Status: PASSED 
+Ended: 1712928346.22 

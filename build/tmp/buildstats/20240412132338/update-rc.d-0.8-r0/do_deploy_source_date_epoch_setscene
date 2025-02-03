@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928384.47 
+update-rc.d-0.8-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.34 seconds
+utime: 34
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 324731
+IO wchar: 47634
+IO syscr: 100
+IO syscw: 43
+IO read_bytes: 12288
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.344607
+rusage ru_stime: 0.03446
+rusage ru_maxrss: 51544
+rusage ru_minflt: 7253
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 88
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 120
+Child rusage ru_utime: 0.011932
+Child rusage ru_stime: 0.007163999999999999
+Child rusage ru_maxrss: 47684
+Child rusage ru_minflt: 905
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 28
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1712928384.81 

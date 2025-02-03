@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928605.67 
+libnsl2-native-2.0.1-r0: do_populate_sysroot_setscene
+Elapsed time: 0.20 seconds
+utime: 47
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 772065
+IO wchar: 234494
+IO syscr: 236
+IO syscw: 95
+IO read_bytes: 24576
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.476151
+rusage ru_stime: 0.031481
+rusage ru_maxrss: 53696
+rusage ru_minflt: 8323
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 8
+rusage ru_nivcsw: 350
+Child rusage ru_utime: 0.01431
+Child rusage ru_stime: 0.024585
+Child rusage ru_maxrss: 53696
+Child rusage ru_minflt: 1646
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 48
+Child rusage ru_oublock: 176
+Child rusage ru_nvcsw: 49
+Child rusage ru_nivcsw: 26
+Status: PASSED 
+Ended: 1712928605.88 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928624.50 
+texinfo-dummy-native-1.0-r0: do_recipe_qa_setscene
+Elapsed time: 0.16 seconds
+utime: 28
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 361345
+IO wchar: 50238
+IO syscr: 101
+IO syscw: 39
+IO read_bytes: 4096
+IO write_bytes: 45056
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.29015599999999997
+rusage ru_stime: 0.026723999999999998
+rusage ru_maxrss: 51188
+rusage ru_minflt: 7183
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 268
+Child rusage ru_utime: 0.016869
+Child rusage ru_stime: 0.0
+Child rusage ru_maxrss: 47628
+Child rusage ru_minflt: 897
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1712928624.67 

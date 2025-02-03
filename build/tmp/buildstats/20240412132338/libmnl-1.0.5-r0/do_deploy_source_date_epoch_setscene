@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928369.82 
+libmnl-1.0.5-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.19 seconds
+utime: 37
+stime: 3
+cutime: 0
+cstime: 0
+IO rchar: 362528
+IO wchar: 54888
+IO syscr: 109
+IO syscw: 47
+IO read_bytes: 143360
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.372732
+rusage ru_stime: 0.034582999999999996
+rusage ru_maxrss: 52212
+rusage ru_minflt: 7717
+rusage ru_majflt: 0
+rusage ru_inblock: 272
+rusage ru_oublock: 96
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 124
+Child rusage ru_utime: 0.009191
+Child rusage ru_stime: 0.009929
+Child rusage ru_maxrss: 47828
+Child rusage ru_minflt: 923
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 27
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1712928370.02 

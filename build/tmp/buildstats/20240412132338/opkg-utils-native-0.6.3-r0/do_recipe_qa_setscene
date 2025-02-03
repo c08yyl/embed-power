@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928314.43 
+opkg-utils-native-0.6.3-r0: do_recipe_qa_setscene
+Elapsed time: 0.19 seconds
+utime: 41
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 553213
+IO wchar: 52170
+IO syscr: 103
+IO syscw: 44
+IO read_bytes: 8192
+IO write_bytes: 45056
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.417759
+rusage ru_stime: 0.036152
+rusage ru_maxrss: 52656
+rusage ru_minflt: 7715
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 88
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 115
+Child rusage ru_utime: 0.0017189999999999998
+Child rusage ru_stime: 0.017008
+Child rusage ru_maxrss: 48800
+Child rusage ru_minflt: 899
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 28
+Child rusage ru_nivcsw: 10
+Status: PASSED 
+Ended: 1712928314.62 

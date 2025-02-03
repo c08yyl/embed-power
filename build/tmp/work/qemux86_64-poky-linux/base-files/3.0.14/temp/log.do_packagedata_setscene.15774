@@ -1,0 +1,34 @@
+DEBUG: Executing python function do_packagedata_setscene
+DEBUG: Executing shell function sstate_unpack_package
+pkgdata-pdata-input/
+pkgdata-pdata-input/runtime-rprovides/
+pkgdata-pdata-input/base-files
+pkgdata-pdata-input/runtime-reverse/
+pkgdata-pdata-input/runtime-reverse/base-files
+pkgdata-pdata-input/runtime-reverse/base-files-dbg
+pkgdata-pdata-input/runtime-reverse/base-files-doc
+pkgdata-pdata-input/runtime-reverse/base-files-dev
+pkgdata-pdata-input/shlibs2/
+pkgdata-pdata-input/runtime/
+pkgdata-pdata-input/runtime/base-files
+pkgdata-pdata-input/runtime/base-files-dbg
+pkgdata-pdata-input/runtime/base-files.packaged
+pkgdata-pdata-input/runtime/base-files-dbg.packaged
+pkgdata-pdata-input/runtime/base-files-doc
+pkgdata-pdata-input/runtime/base-files-doc.packaged
+pkgdata-pdata-input/runtime/base-files-dev.packaged
+pkgdata-pdata-input/runtime/base-files-dev
+pkgdata-pdata-input/runtime/base-files-src
+pkgdata-pdata-input/extended/
+pkgdata-pdata-input/extended/base-files-dev.json.zstd
+pkgdata-pdata-input/extended/base-files-src.json.zstd
+pkgdata-pdata-input/extended/base-files-dbg.json.zstd
+pkgdata-pdata-input/extended/base-files-doc.json.zstd
+pkgdata-pdata-input/extended/base-files.json.zstd
+DEBUG: Shell function sstate_unpack_package finished
+DEBUG: Executing python function sstate_hardcode_path_unpack
+DEBUG: Python function sstate_hardcode_path_unpack finished
+DEBUG: Executing python function uninative_changeinterp
+DEBUG: Python function uninative_changeinterp finished
+DEBUG: Staging files from /kitchen/build/tmp/work/qemux86_64-poky-linux/base-files/3.0.14/pkgdata-pdata-input to /kitchen/build/tmp/pkgdata/qemux86-64
+DEBUG: Python function do_packagedata_setscene finished

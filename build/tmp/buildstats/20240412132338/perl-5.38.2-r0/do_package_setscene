@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928346.64 
+perl-5.38.2-r0: do_package_setscene
+Elapsed time: 33.78 seconds
+utime: 299
+stime: 198
+cutime: 430
+cstime: 1583
+IO rchar: 401124032
+IO wchar: 633930344
+IO syscr: 276939
+IO syscw: 121961
+IO read_bytes: 63459328
+IO write_bytes: 339079168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 2.9935039999999997
+rusage ru_stime: 1.986035
+rusage ru_maxrss: 57596
+rusage ru_minflt: 10178
+rusage ru_majflt: 0
+rusage ru_inblock: 24
+rusage ru_oublock: 4896
+rusage ru_nvcsw: 92922
+rusage ru_nivcsw: 1384
+Child rusage ru_utime: 4.302754
+Child rusage ru_stime: 15.831978
+Child rusage ru_maxrss: 84184
+Child rusage ru_minflt: 38822
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 123920
+Child rusage ru_oublock: 657368
+Child rusage ru_nvcsw: 60402
+Child rusage ru_nivcsw: 199565
+Status: PASSED 
+Ended: 1712928380.42 

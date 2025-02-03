@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928286.02 
+glibc-locale-2.39+git-r0: do_packagedata_setscene
+Elapsed time: 2.84 seconds
+utime: 87
+stime: 42
+cutime: 24
+cstime: 147
+IO rchar: 10263466
+IO wchar: 12585374
+IO syscr: 19014
+IO syscw: 22614
+IO read_bytes: 630784
+IO write_bytes: 17031168
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.87959
+rusage ru_stime: 0.42975399999999997
+rusage ru_maxrss: 51816
+rusage ru_minflt: 7892
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 2736
+rusage ru_nvcsw: 8881
+rusage ru_nivcsw: 290
+Child rusage ru_utime: 0.243862
+Child rusage ru_stime: 1.474636
+Child rusage ru_maxrss: 51816
+Child rusage ru_minflt: 4940
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1232
+Child rusage ru_oublock: 30528
+Child rusage ru_nvcsw: 862
+Child rusage ru_nivcsw: 8374
+Status: PASSED 
+Ended: 1712928288.86 

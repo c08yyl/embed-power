@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928555.00 
+python3-setuptools-scm-native-8.0.4-r0: do_populate_sysroot_setscene
+Elapsed time: 0.38 seconds
+utime: 47
+stime: 7
+cutime: 2
+cstime: 3
+IO rchar: 1062653
+IO wchar: 672295
+IO syscr: 348
+IO syscw: 266
+IO read_bytes: 86016
+IO write_bytes: 454656
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.472143
+rusage ru_stime: 0.07568699999999999
+rusage ru_maxrss: 51412
+rusage ru_minflt: 7855
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 136
+rusage ru_nvcsw: 50
+rusage ru_nivcsw: 645
+Child rusage ru_utime: 0.020738
+Child rusage ru_stime: 0.031984
+Child rusage ru_maxrss: 51412
+Child rusage ru_minflt: 1805
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 168
+Child rusage ru_oublock: 752
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 155
+Status: PASSED 
+Ended: 1712928555.39 

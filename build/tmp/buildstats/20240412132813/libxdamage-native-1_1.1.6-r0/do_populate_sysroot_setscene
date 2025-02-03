@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928563.66 
+libxdamage-native-1_1.1.6-r0: do_populate_sysroot_setscene
+Elapsed time: 0.26 seconds
+utime: 47
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 690502
+IO wchar: 119272
+IO syscr: 229
+IO syscw: 81
+IO read_bytes: 8192
+IO write_bytes: 86016
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.47507299999999997
+rusage ru_stime: 0.044538
+rusage ru_maxrss: 52808
+rusage ru_minflt: 8232
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 331
+Child rusage ru_utime: 0.025705
+Child rusage ru_stime: 0.012221
+Child rusage ru_maxrss: 52808
+Child rusage ru_minflt: 1619
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 64
+Child rusage ru_nvcsw: 47
+Child rusage ru_nivcsw: 33
+Status: PASSED 
+Ended: 1712928563.93 

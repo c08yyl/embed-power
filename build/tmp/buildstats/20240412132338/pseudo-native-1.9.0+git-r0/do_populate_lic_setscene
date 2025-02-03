@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928315.61 
+pseudo-native-1.9.0+git-r0: do_populate_lic_setscene
+Elapsed time: 0.23 seconds
+utime: 41
+stime: 6
+cutime: 1
+cstime: 2
+IO rchar: 694366
+IO wchar: 167659
+IO syscr: 221
+IO syscw: 68
+IO read_bytes: 16384
+IO write_bytes: 110592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.418554
+rusage ru_stime: 0.063177
+rusage ru_maxrss: 53580
+rusage ru_minflt: 8131
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 266
+Child rusage ru_utime: 0.016649999999999998
+Child rusage ru_stime: 0.023829
+Child rusage ru_maxrss: 53580
+Child rusage ru_minflt: 1594
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 120
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 39
+Status: PASSED 
+Ended: 1712928315.84 

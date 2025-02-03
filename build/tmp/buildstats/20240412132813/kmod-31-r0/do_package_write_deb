@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929964.65 
+kmod-31-r0: do_package_write_deb
+Elapsed time: 11.24 seconds
+utime: 164
+stime: 96
+cutime: 162
+cstime: 60
+IO rchar: 9170776
+IO wchar: 4947694
+IO syscr: 3689
+IO syscw: 909
+IO read_bytes: 2510848
+IO write_bytes: 2826240
+IO cancelled_write_bytes: 499712
+rusage ru_utime: 1.641769
+rusage ru_stime: 0.9659899999999999
+rusage ru_maxrss: 53068
+rusage ru_minflt: 25412
+rusage ru_majflt: 0
+rusage ru_inblock: 1000
+rusage ru_oublock: 288
+rusage ru_nvcsw: 97
+rusage ru_nivcsw: 834
+Child rusage ru_utime: 1.625909
+Child rusage ru_stime: 0.605372
+Child rusage ru_maxrss: 49956
+Child rusage ru_minflt: 90556
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 3904
+Child rusage ru_oublock: 5232
+Child rusage ru_nvcsw: 838
+Child rusage ru_nivcsw: 1345
+Status: PASSED 
+Ended: 1712929975.88 

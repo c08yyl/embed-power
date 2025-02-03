@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928388.87 
+bash-completion-2.12.0-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.23 seconds
+utime: 38
+stime: 2
+cutime: 0
+cstime: 0
+IO rchar: 363991
+IO wchar: 55978
+IO syscr: 109
+IO syscw: 47
+IO read_bytes: 12288
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.38650399999999996
+rusage ru_stime: 0.023174
+rusage ru_maxrss: 52596
+rusage ru_minflt: 7776
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 96
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 178
+Child rusage ru_utime: 0.009718
+Child rusage ru_stime: 0.009328999999999999
+Child rusage ru_maxrss: 47968
+Child rusage ru_minflt: 922
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 31
+Child rusage ru_nivcsw: 66
+Status: PASSED 
+Ended: 1712928389.10 

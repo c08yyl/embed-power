@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928314.34 
+patch-native-2.7.6-r0: do_create_spdx_setscene
+Elapsed time: 0.20 seconds
+utime: 46
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 674805
+IO wchar: 94069
+IO syscr: 222
+IO syscw: 69
+IO read_bytes: 8192
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.46576399999999996
+rusage ru_stime: 0.038813
+rusage ru_maxrss: 53676
+rusage ru_minflt: 8279
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 164
+Child rusage ru_utime: 0.020158
+Child rusage ru_stime: 0.018598999999999997
+Child rusage ru_maxrss: 53676
+Child rusage ru_minflt: 1601
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1712928314.54 

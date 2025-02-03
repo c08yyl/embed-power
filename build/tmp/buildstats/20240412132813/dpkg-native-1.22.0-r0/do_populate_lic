@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928640.98 
+dpkg-native-1.22.0-r0: do_populate_lic
+Elapsed time: 0.40 seconds
+utime: 53
+stime: 6
+cutime: 3
+cstime: 3
+IO rchar: 1283297
+IO wchar: 210904
+IO syscr: 449
+IO syscw: 133
+IO read_bytes: 20480
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.534249
+rusage ru_stime: 0.068689
+rusage ru_maxrss: 54420
+rusage ru_minflt: 9084
+rusage ru_majflt: 1
+rusage ru_inblock: 40
+rusage ru_oublock: 200
+rusage ru_nvcsw: 25
+rusage ru_nivcsw: 507
+Child rusage ru_utime: 0.038571
+Child rusage ru_stime: 0.033575
+Child rusage ru_maxrss: 54420
+Child rusage ru_minflt: 4128
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 48
+Child rusage ru_nvcsw: 62
+Child rusage ru_nivcsw: 42
+Status: PASSED 
+Ended: 1712928641.38 

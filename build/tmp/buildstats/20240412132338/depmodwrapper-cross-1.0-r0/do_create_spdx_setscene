@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928276.46 
+depmodwrapper-cross-1.0-r0: do_create_spdx_setscene
+Elapsed time: 0.19 seconds
+utime: 30
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 415399
+IO wchar: 85500
+IO syscr: 222
+IO syscw: 65
+IO read_bytes: 4096
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.30679999999999996
+rusage ru_stime: 0.034950999999999996
+rusage ru_maxrss: 49988
+rusage ru_minflt: 7106
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 318
+Child rusage ru_utime: 0.022178999999999997
+Child rusage ru_stime: 0.015612
+Child rusage ru_maxrss: 49988
+Child rusage ru_minflt: 1582
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 23
+Status: PASSED 
+Ended: 1712928276.66 

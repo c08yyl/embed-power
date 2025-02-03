@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928369.23 
+libnsl2-2.0.1-r0: do_packagedata_setscene
+Elapsed time: 0.23 seconds
+utime: 36
+stime: 6
+cutime: 0
+cstime: 3
+IO rchar: 476158
+IO wchar: 132481
+IO syscr: 218
+IO syscw: 113
+IO read_bytes: 12288
+IO write_bytes: 126976
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.366511
+rusage ru_stime: 0.061085
+rusage ru_maxrss: 52336
+rusage ru_minflt: 7889
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 112
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 1541
+Child rusage ru_utime: 0.009941
+Child rusage ru_stime: 0.03256
+Child rusage ru_maxrss: 52336
+Child rusage ru_minflt: 1622
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 136
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 162
+Status: PASSED 
+Ended: 1712928369.46 

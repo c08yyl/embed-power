@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929756.64 
+findutils-4.9.0-r0: do_package_write_deb
+Elapsed time: 22.93 seconds
+utime: 429
+stime: 124
+cutime: 700
+cstime: 382
+IO rchar: 37006584
+IO wchar: 15699983
+IO syscr: 16899
+IO syscw: 2677
+IO read_bytes: 10313728
+IO write_bytes: 6709248
+IO cancelled_write_bytes: 2002944
+rusage ru_utime: 4.297303
+rusage ru_stime: 1.243342
+rusage ru_maxrss: 53920
+rusage ru_minflt: 37614
+rusage ru_majflt: 2
+rusage ru_inblock: 2432
+rusage ru_oublock: 296
+rusage ru_nvcsw: 123
+rusage ru_nivcsw: 1733
+Child rusage ru_utime: 7.006886
+Child rusage ru_stime: 3.825322
+Child rusage ru_maxrss: 51168
+Child rusage ru_minflt: 554835
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 17712
+Child rusage ru_oublock: 12808
+Child rusage ru_nvcsw: 6671
+Child rusage ru_nivcsw: 6763
+Status: PASSED 
+Ended: 1712929779.57 

@@ -1,0 +1,6 @@
+20241228-224908.937501 do_recipe_qa (101): log.do_recipe_qa.101
+20241228-224909.605178 do_fetch (173): log.do_fetch.173
+20241228-224909.941120 do_prepare_recipe_sysroot (212): log.do_prepare_recipe_sysroot.212
+20241228-224910.039004 do_unpack (205): log.do_unpack.205
+20241229-055044.006326 do_unpack (71): log.do_unpack.71
+20241229-055044.013652 do_prepare_recipe_sysroot (73): log.do_prepare_recipe_sysroot.73

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928620.88 
+sqlite3-native-3_3.45.1-r0: do_recipe_qa_setscene
+Elapsed time: 0.24 seconds
+utime: 46
+stime: 6
+cutime: 0
+cstime: 1
+IO rchar: 596846
+IO wchar: 56727
+IO syscr: 115
+IO syscw: 50
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.463223
+rusage ru_stime: 0.064246
+rusage ru_maxrss: 54052
+rusage ru_minflt: 8207
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 576
+Child rusage ru_utime: 0.009857999999999999
+Child rusage ru_stime: 0.010232999999999999
+Child rusage ru_maxrss: 49408
+Child rusage ru_minflt: 915
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 45
+Status: PASSED 
+Ended: 1712928621.12 

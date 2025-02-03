@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928654.64 
+apt-native-2.6.1-r0: do_generate_toolchain_file
+Elapsed time: 0.13 seconds
+utime: 49
+stime: 2
+cutime: 0
+cstime: 0
+IO rchar: 546050
+IO wchar: 36308
+IO syscr: 66
+IO syscw: 33
+IO read_bytes: 0
+IO write_bytes: 32768
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.49870899999999996
+rusage ru_stime: 0.023748
+rusage ru_maxrss: 55724
+rusage ru_minflt: 6414
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 48
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 108
+Child rusage ru_utime: 0.001671
+Child rusage ru_stime: 0.007042
+Child rusage ru_maxrss: 51984
+Child rusage ru_minflt: 478
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 0
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 5
+Child rusage ru_nivcsw: 5
+Status: PASSED 
+Ended: 1712928654.77 

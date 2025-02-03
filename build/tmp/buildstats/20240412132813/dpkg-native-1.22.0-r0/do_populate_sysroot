@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928745.24 
+dpkg-native-1.22.0-r0: do_populate_sysroot
+Elapsed time: 1.68 seconds
+utime: 100
+stime: 36
+cutime: 47
+cstime: 57
+IO rchar: 20457425
+IO wchar: 7537441
+IO syscr: 6041
+IO syscw: 1079
+IO read_bytes: 4808704
+IO write_bytes: 4612096
+IO cancelled_write_bytes: 1146880
+rusage ru_utime: 1.00026
+rusage ru_stime: 0.36932699999999996
+rusage ru_maxrss: 56816
+rusage ru_minflt: 31818
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 3104
+rusage ru_nvcsw: 141
+rusage ru_nivcsw: 597
+Child rusage ru_utime: 0.476421
+Child rusage ru_stime: 0.577749
+Child rusage ru_maxrss: 56816
+Child rusage ru_minflt: 53868
+Child rusage ru_majflt: 38
+Child rusage ru_inblock: 9392
+Child rusage ru_oublock: 5904
+Child rusage ru_nvcsw: 582
+Child rusage ru_nivcsw: 1344
+Status: PASSED 
+Ended: 1712928746.91 

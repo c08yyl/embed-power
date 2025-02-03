@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928363.43 
+findutils-4.9.0-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.20 seconds
+utime: 41
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 388729
+IO wchar: 58280
+IO syscr: 120
+IO syscw: 52
+IO read_bytes: 282624
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.414483
+rusage ru_stime: 0.038024999999999996
+rusage ru_maxrss: 51516
+rusage ru_minflt: 7800
+rusage ru_majflt: 0
+rusage ru_inblock: 280
+rusage ru_oublock: 96
+rusage ru_nvcsw: 6
+rusage ru_nivcsw: 512
+Child rusage ru_utime: 0.011949999999999999
+Child rusage ru_stime: 0.007735
+Child rusage ru_maxrss: 48328
+Child rusage ru_minflt: 919
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 272
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 32
+Child rusage ru_nivcsw: 26
+Status: PASSED 
+Ended: 1712928363.63 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928553.59 
+python3-pathlib2-native-2.3.7-r0: do_recipe_qa_setscene
+Elapsed time: 0.20 seconds
+utime: 46
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 571477
+IO wchar: 57043
+IO syscr: 116
+IO syscw: 50
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.465248
+rusage ru_stime: 0.039096
+rusage ru_maxrss: 51752
+rusage ru_minflt: 7732
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 289
+Child rusage ru_utime: 0.008272999999999999
+Child rusage ru_stime: 0.010159
+Child rusage ru_maxrss: 47888
+Child rusage ru_minflt: 924
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 31
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1712928553.79 

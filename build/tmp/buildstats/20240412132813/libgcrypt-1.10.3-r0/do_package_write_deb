@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928775.52 
+libgcrypt-1.10.3-r0: do_package_write_deb
+Elapsed time: 21.41 seconds
+utime: 499
+stime: 136
+cutime: 1423
+cstime: 126
+IO rchar: 137383901
+IO wchar: 76650171
+IO syscr: 17249
+IO syscw: 7304
+IO read_bytes: 61083648
+IO write_bytes: 14098432
+IO cancelled_write_bytes: 4243456
+rusage ru_utime: 4.990328
+rusage ru_stime: 1.361702
+rusage ru_maxrss: 55456
+rusage ru_minflt: 25086
+rusage ru_majflt: 0
+rusage ru_inblock: 672
+rusage ru_oublock: 288
+rusage ru_nvcsw: 86
+rusage ru_nivcsw: 2245
+Child rusage ru_utime: 14.230829
+Child rusage ru_stime: 1.261504
+Child rusage ru_maxrss: 239628
+Child rusage ru_minflt: 186589
+Child rusage ru_majflt: 27
+Child rusage ru_inblock: 118632
+Child rusage ru_oublock: 27248
+Child rusage ru_nvcsw: 6160
+Child rusage ru_nivcsw: 9547
+Status: PASSED 
+Ended: 1712928796.94 

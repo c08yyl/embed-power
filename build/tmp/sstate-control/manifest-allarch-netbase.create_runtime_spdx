@@ -1,0 +1,16 @@
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:netbase:all-poky-linux:6.4:r0:allarch:11:/runtime-netbase.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:netbase:all-poky-linux:6.4:r0:allarch:11:/runtime-netbase-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:netbase:all-poky-linux:6.4:r0:allarch:11:/runtime-netbase-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/http:__spdx.org_spdxdoc_runtime-netbase-dbg-7ecbaf5f-0c20-53b2-ba77-4c88cb10f9a1
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/http:__spdx.org_spdxdoc_runtime-netbase-e0dd75fd-3c3c-52b5-87f5-64f56686c87e
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/http:__spdx.org_spdxdoc_runtime-netbase-dev-54cadbf5-22a7-58d4-aea1-50acbb118e72
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/runtime-netbase.spdx.json
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/runtime-netbase-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/runtime-netbase-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/sstate:netbase:all-poky-linux:6.4:r0:allarch:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/allarch/
+/kitchen/build/tmp/deploy/spdx/allarch/runtime/
+/kitchen/build/tmp/deploy/spdx/by-hash/allarch/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/allarch/
+/kitchen/build/tmp/deploy/spdx/by-hash/

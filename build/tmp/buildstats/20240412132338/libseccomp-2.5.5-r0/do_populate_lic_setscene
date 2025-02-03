@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928295.03 
+libseccomp-2.5.5-r0: do_populate_lic_setscene
+Elapsed time: 0.21 seconds
+utime: 39
+stime: 3
+cutime: 1
+cstime: 2
+IO rchar: 496875
+IO wchar: 169090
+IO syscr: 224
+IO syscw: 65
+IO read_bytes: 16384
+IO write_bytes: 110592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.395262
+rusage ru_stime: 0.034537
+rusage ru_maxrss: 51624
+rusage ru_minflt: 7836
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 186
+Child rusage ru_utime: 0.013403
+Child rusage ru_stime: 0.023794
+Child rusage ru_maxrss: 51624
+Child rusage ru_minflt: 1612
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 112
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 29
+Status: PASSED 
+Ended: 1712928295.24 

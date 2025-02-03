@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928586.20 
+gdbm-native-1.23-r0: do_populate_lic_setscene
+Elapsed time: 0.32 seconds
+utime: 47
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 751337
+IO wchar: 211127
+IO syscr: 239
+IO syscw: 76
+IO read_bytes: 16384
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.476574
+rusage ru_stime: 0.047263
+rusage ru_maxrss: 53308
+rusage ru_minflt: 8352
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 236
+Child rusage ru_utime: 0.025162
+Child rusage ru_stime: 0.014580999999999998
+Child rusage ru_maxrss: 53308
+Child rusage ru_minflt: 1645
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 152
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 121
+Status: PASSED 
+Ended: 1712928586.52 

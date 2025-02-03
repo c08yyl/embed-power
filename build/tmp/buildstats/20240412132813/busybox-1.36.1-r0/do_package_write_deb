@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712930111.59 
+busybox-1.36.1-r0: do_package_write_deb
+Elapsed time: 16.96 seconds
+utime: 480
+stime: 137
+cutime: 879
+cstime: 133
+IO rchar: 36006303
+IO wchar: 22627156
+IO syscr: 10654
+IO syscw: 3150
+IO read_bytes: 12570624
+IO write_bytes: 9699328
+IO cancelled_write_bytes: 2834432
+rusage ru_utime: 4.805053
+rusage ru_stime: 1.37455
+rusage ru_maxrss: 53752
+rusage ru_minflt: 27065
+rusage ru_majflt: 0
+rusage ru_inblock: 1024
+rusage ru_oublock: 288
+rusage ru_nvcsw: 300
+rusage ru_nivcsw: 1550
+Child rusage ru_utime: 8.79547
+Child rusage ru_stime: 1.331111
+Child rusage ru_maxrss: 66944
+Child rusage ru_minflt: 140018
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 23528
+Child rusage ru_oublock: 18656
+Child rusage ru_nvcsw: 3588
+Child rusage ru_nivcsw: 6188
+Status: PASSED 
+Ended: 1712930128.55 

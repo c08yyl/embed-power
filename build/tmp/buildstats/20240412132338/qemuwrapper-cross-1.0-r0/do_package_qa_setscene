@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928257.02 
+qemuwrapper-cross-1.0-r0: do_package_qa_setscene
+Elapsed time: 0.19 seconds
+utime: 34
+stime: 2
+cutime: 1
+cstime: 0
+IO rchar: 332053
+IO wchar: 49964
+IO syscr: 94
+IO syscw: 37
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.346003
+rusage ru_stime: 0.023861999999999998
+rusage ru_maxrss: 49504
+rusage ru_minflt: 7089
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 143
+Child rusage ru_utime: 0.010733
+Child rusage ru_stime: 0.006494
+Child rusage ru_maxrss: 46192
+Child rusage ru_minflt: 912
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 14
+Status: PASSED 
+Ended: 1712928257.20 

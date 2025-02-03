@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928516.69 
+python3-trove-classifiers-native-2024.2.23-r0: do_populate_lic_setscene
+Elapsed time: 0.29 seconds
+utime: 51
+stime: 2
+cutime: 1
+cstime: 1
+IO rchar: 662342
+IO wchar: 115062
+IO syscr: 230
+IO syscw: 72
+IO read_bytes: 12288
+IO write_bytes: 86016
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.515537
+rusage ru_stime: 0.027547
+rusage ru_maxrss: 52008
+rusage ru_minflt: 8213
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 12
+rusage ru_nivcsw: 253
+Child rusage ru_utime: 0.019403999999999998
+Child rusage ru_stime: 0.018643
+Child rusage ru_maxrss: 51368
+Child rusage ru_minflt: 1621
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 56
+Child rusage ru_nvcsw: 38
+Child rusage ru_nivcsw: 78
+Status: PASSED 
+Ended: 1712928516.98 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928521.17 
+unifdef-native-2.12-r0: do_populate_lic_setscene
+Elapsed time: 0.31 seconds
+utime: 41
+stime: 5
+cutime: 2
+cstime: 1
+IO rchar: 633808
+IO wchar: 80704
+IO syscr: 221
+IO syscw: 68
+IO read_bytes: 4096
+IO write_bytes: 73728
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.414697
+rusage ru_stime: 0.05234
+rusage ru_maxrss: 50856
+rusage ru_minflt: 7648
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 23
+rusage ru_nivcsw: 220
+Child rusage ru_utime: 0.020621999999999998
+Child rusage ru_stime: 0.015073999999999999
+Child rusage ru_maxrss: 50856
+Child rusage ru_minflt: 1580
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 36
+Child rusage ru_nivcsw: 22
+Status: PASSED 
+Ended: 1712928521.49 

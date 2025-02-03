@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928325.33 
+sysvinit-inittab-2.88dsf-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.25 seconds
+utime: 32
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 334285
+IO wchar: 51594
+IO syscr: 100
+IO syscw: 43
+IO read_bytes: 12288
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.328453
+rusage ru_stime: 0.058206
+rusage ru_maxrss: 50692
+rusage ru_minflt: 7236
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 96
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 383
+Child rusage ru_utime: 0.003052
+Child rusage ru_stime: 0.015260999999999999
+Child rusage ru_maxrss: 47368
+Child rusage ru_minflt: 926
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1712928325.58 

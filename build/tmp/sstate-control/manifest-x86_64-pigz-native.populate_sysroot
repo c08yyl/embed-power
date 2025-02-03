@@ -1,0 +1,12 @@
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/sysroot-providers/pigz-native
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/sysroot-providers/gzip-native
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/usr/bin/gunzip
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/usr/bin/gzip
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/usr/bin/zcat
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/bin/unpigz
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/bin/pigzcat
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/bin/pigz
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/sysroot-providers/
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/usr/bin/
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/bin/
+/kitchen/build/tmp/sysroots-components/x86_64/pigz-native/usr/

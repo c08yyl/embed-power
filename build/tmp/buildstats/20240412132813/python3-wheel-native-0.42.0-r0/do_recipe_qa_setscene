@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928579.37 
+python3-wheel-native-0.42.0-r0: do_recipe_qa_setscene
+Elapsed time: 0.23 seconds
+utime: 45
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 574957
+IO wchar: 56877
+IO syscr: 117
+IO syscw: 50
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.456001
+rusage ru_stime: 0.051102999999999996
+rusage ru_maxrss: 51724
+rusage ru_minflt: 7778
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 6
+rusage ru_nivcsw: 550
+Child rusage ru_utime: 0.004928
+Child rusage ru_stime: 0.015172999999999999
+Child rusage ru_maxrss: 48252
+Child rusage ru_minflt: 922
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 29
+Child rusage ru_nivcsw: 45
+Status: PASSED 
+Ended: 1712928579.60 

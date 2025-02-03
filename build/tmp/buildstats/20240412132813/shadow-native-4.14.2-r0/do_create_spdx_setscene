@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928529.66 
+shadow-native-4.14.2-r0: do_create_spdx_setscene
+Elapsed time: 0.28 seconds
+utime: 50
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 692475
+IO wchar: 97229
+IO syscr: 229
+IO syscw: 72
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.508827
+rusage ru_stime: 0.047932999999999996
+rusage ru_maxrss: 51752
+rusage ru_minflt: 8141
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 494
+Child rusage ru_utime: 0.012523999999999999
+Child rusage ru_stime: 0.024534999999999998
+Child rusage ru_maxrss: 51752
+Child rusage ru_minflt: 1599
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 25
+Status: PASSED 
+Ended: 1712928529.94 

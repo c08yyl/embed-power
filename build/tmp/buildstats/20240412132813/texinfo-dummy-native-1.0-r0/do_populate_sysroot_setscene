@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928623.91 
+texinfo-dummy-native-1.0-r0: do_populate_sysroot_setscene
+Elapsed time: 0.23 seconds
+utime: 29
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 478897
+IO wchar: 159049
+IO syscr: 212
+IO syscw: 75
+IO read_bytes: 8192
+IO write_bytes: 102400
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.292539
+rusage ru_stime: 0.044080999999999995
+rusage ru_maxrss: 51308
+rusage ru_minflt: 7406
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 187
+Child rusage ru_utime: 0.014110999999999999
+Child rusage ru_stime: 0.022979
+Child rusage ru_maxrss: 51308
+Child rusage ru_minflt: 1600
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 96
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 57
+Status: PASSED 
+Ended: 1712928624.14 

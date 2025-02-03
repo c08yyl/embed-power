@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928381.39 
+perl-5.38.2-r0: do_recipe_qa_setscene
+Elapsed time: 0.23 seconds
+utime: 37
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 383353
+IO wchar: 51674
+IO syscr: 108
+IO syscw: 41
+IO read_bytes: 8192
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.376799
+rusage ru_stime: 0.054383
+rusage ru_maxrss: 52536
+rusage ru_minflt: 7766
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 96
+rusage ru_nvcsw: 3
+rusage ru_nivcsw: 151
+Child rusage ru_utime: 0.004866
+Child rusage ru_stime: 0.013732
+Child rusage ru_maxrss: 47844
+Child rusage ru_minflt: 894
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 34
+Child rusage ru_nivcsw: 19
+Status: PASSED 
+Ended: 1712928381.62 

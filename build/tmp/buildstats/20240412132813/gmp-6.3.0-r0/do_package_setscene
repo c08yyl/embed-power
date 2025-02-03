@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928510.43 
+gmp-6.3.0-r0: do_package_setscene
+Elapsed time: 1.26 seconds
+utime: 50
+stime: 10
+cutime: 11
+cstime: 32
+IO rchar: 8564109
+IO wchar: 12041906
+IO syscr: 6838
+IO syscw: 3251
+IO read_bytes: 1564672
+IO write_bytes: 6766592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.502333
+rusage ru_stime: 0.10127599999999999
+rusage ru_maxrss: 50820
+rusage ru_minflt: 8390
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 264
+rusage ru_nvcsw: 2114
+rusage ru_nivcsw: 666
+Child rusage ru_utime: 0.11369699999999999
+Child rusage ru_stime: 0.326545
+Child rusage ru_maxrss: 48276
+Child rusage ru_minflt: 4277
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 3056
+Child rusage ru_oublock: 12952
+Child rusage ru_nvcsw: 811
+Child rusage ru_nivcsw: 4643
+Status: PASSED 
+Ended: 1712928511.69 

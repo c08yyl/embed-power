@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928574.65 
+xorgproto-native-2023.2-r0: do_populate_sysroot_setscene
+Elapsed time: 0.33 seconds
+utime: 49
+stime: 6
+cutime: 2
+cstime: 4
+IO rchar: 2133471
+IO wchar: 2548928
+IO syscr: 662
+IO syscw: 670
+IO read_bytes: 180224
+IO write_bytes: 1613824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.494164
+rusage ru_stime: 0.063763
+rusage ru_maxrss: 52584
+rusage ru_minflt: 8268
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 152
+rusage ru_nvcsw: 164
+rusage ru_nivcsw: 416
+Child rusage ru_utime: 0.028947999999999998
+Child rusage ru_stime: 0.043912
+Child rusage ru_maxrss: 52584
+Child rusage ru_minflt: 2274
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 352
+Child rusage ru_oublock: 3000
+Child rusage ru_nvcsw: 159
+Child rusage ru_nivcsw: 365
+Status: PASSED 
+Ended: 1712928574.98 

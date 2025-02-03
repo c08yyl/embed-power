@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928538.06 
+virglrenderer-native-1.0.1-r0: do_populate_sysroot_setscene
+Elapsed time: 0.37 seconds
+utime: 51
+stime: 3
+cutime: 2
+cstime: 3
+IO rchar: 1722611
+IO wchar: 1554367
+IO syscr: 340
+IO syscw: 174
+IO read_bytes: 282624
+IO write_bytes: 835584
+IO cancelled_write_bytes: 65536
+rusage ru_utime: 0.5147889999999999
+rusage ru_stime: 0.031924
+rusage ru_maxrss: 51968
+rusage ru_minflt: 8220
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 424
+Child rusage ru_utime: 0.022014
+Child rusage ru_stime: 0.03891
+Child rusage ru_maxrss: 51968
+Child rusage ru_minflt: 2223
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 552
+Child rusage ru_oublock: 1528
+Child rusage ru_nvcsw: 62
+Child rusage ru_nivcsw: 314
+Status: PASSED 
+Ended: 1712928538.42 

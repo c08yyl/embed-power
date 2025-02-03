@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928259.63 
+bash-5.2.21-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.28 seconds
+utime: 42
+stime: 4
+cutime: 2
+cstime: 3
+IO rchar: 702622
+IO wchar: 401531
+IO syscr: 539
+IO syscw: 405
+IO read_bytes: 8192
+IO write_bytes: 286720
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.425095
+rusage ru_stime: 0.045141999999999995
+rusage ru_maxrss: 50432
+rusage ru_minflt: 7807
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 176
+rusage ru_nvcsw: 159
+rusage ru_nivcsw: 195
+Child rusage ru_utime: 0.027072
+Child rusage ru_stime: 0.035809
+Child rusage ru_maxrss: 50432
+Child rusage ru_minflt: 1712
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 384
+Child rusage ru_nvcsw: 56
+Child rusage ru_nivcsw: 183
+Status: PASSED 
+Ended: 1712928259.91 

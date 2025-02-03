@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928270.70 
+shadow-4.14.2-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.26 seconds
+utime: 41
+stime: 3
+cutime: 1
+cstime: 5
+IO rchar: 676642
+IO wchar: 370883
+IO syscr: 452
+IO syscw: 349
+IO read_bytes: 8192
+IO write_bytes: 262144
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.417798
+rusage ru_stime: 0.034816
+rusage ru_maxrss: 51292
+rusage ru_minflt: 7785
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 160
+rusage ru_nvcsw: 115
+rusage ru_nivcsw: 343
+Child rusage ru_utime: 0.012222
+Child rusage ru_stime: 0.052451
+Child rusage ru_maxrss: 51292
+Child rusage ru_minflt: 1714
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 16
+Child rusage ru_oublock: 352
+Child rusage ru_nvcsw: 58
+Child rusage ru_nivcsw: 188
+Status: PASSED 
+Ended: 1712928270.96 

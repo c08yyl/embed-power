@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928389.62 
+gdbm-1.23-r0: do_package_setscene
+Elapsed time: 1.32 seconds
+utime: 48
+stime: 11
+cutime: 8
+cstime: 30
+IO rchar: 5028855
+IO wchar: 6791832
+IO syscr: 5653
+IO syscw: 2083
+IO read_bytes: 921600
+IO write_bytes: 3751936
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.481795
+rusage ru_stime: 0.110889
+rusage ru_maxrss: 50764
+rusage ru_minflt: 8411
+rusage ru_majflt: 0
+rusage ru_inblock: 256
+rusage ru_oublock: 232
+rusage ru_nvcsw: 1515
+rusage ru_nivcsw: 1223
+Child rusage ru_utime: 0.08508299999999999
+Child rusage ru_stime: 0.30888099999999996
+Child rusage ru_maxrss: 48216
+Child rusage ru_minflt: 3458
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 1544
+Child rusage ru_oublock: 7096
+Child rusage ru_nvcsw: 841
+Child rusage ru_nivcsw: 4073
+Status: PASSED 
+Ended: 1712928390.94 

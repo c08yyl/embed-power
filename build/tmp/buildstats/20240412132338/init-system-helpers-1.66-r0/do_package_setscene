@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928322.15 
+init-system-helpers-1.66-r0: do_package_setscene
+Elapsed time: 0.52 seconds
+utime: 40
+stime: 6
+cutime: 0
+cstime: 5
+IO rchar: 477341
+IO wchar: 195476
+IO syscr: 684
+IO syscw: 186
+IO read_bytes: 20480
+IO write_bytes: 200704
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.400755
+rusage ru_stime: 0.064884
+rusage ru_maxrss: 50484
+rusage ru_minflt: 8185
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 168
+rusage ru_nvcsw: 158
+rusage ru_nivcsw: 880
+Child rusage ru_utime: 0.008126999999999999
+Child rusage ru_stime: 0.054354
+Child rusage ru_maxrss: 47600
+Child rusage ru_minflt: 1839
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 224
+Child rusage ru_nvcsw: 82
+Child rusage ru_nivcsw: 628
+Status: PASSED 
+Ended: 1712928322.67 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928546.34 
+python3-markupsafe-native-2.1.5-r0: do_recipe_qa_setscene
+Elapsed time: 0.20 seconds
+utime: 44
+stime: 6
+cutime: 0
+cstime: 1
+IO rchar: 579683
+IO wchar: 58509
+IO syscr: 120
+IO syscw: 52
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.446277
+rusage ru_stime: 0.06773799999999999
+rusage ru_maxrss: 52520
+rusage ru_minflt: 8119
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 212
+Child rusage ru_utime: 0.006934999999999999
+Child rusage ru_stime: 0.01253
+Child rusage ru_maxrss: 47880
+Child rusage ru_minflt: 929
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 32
+Child rusage ru_nivcsw: 38
+Status: PASSED 
+Ended: 1712928546.54 

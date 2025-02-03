@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928504.41 
+mpfr-4.2.1-r0: do_packagedata_setscene
+Elapsed time: 0.39 seconds
+utime: 38
+stime: 4
+cutime: 1
+cstime: 3
+IO rchar: 507862
+IO wchar: 168561
+IO syscr: 218
+IO syscw: 116
+IO read_bytes: 32768
+IO write_bytes: 143360
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.386378
+rusage ru_stime: 0.040095
+rusage ru_maxrss: 50336
+rusage ru_minflt: 7624
+rusage ru_majflt: 0
+rusage ru_inblock: 40
+rusage ru_oublock: 120
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 382
+Child rusage ru_utime: 0.016002
+Child rusage ru_stime: 0.032868999999999995
+Child rusage ru_maxrss: 50336
+Child rusage ru_minflt: 1636
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 24
+Child rusage ru_oublock: 160
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 134
+Status: PASSED 
+Ended: 1712928504.80 

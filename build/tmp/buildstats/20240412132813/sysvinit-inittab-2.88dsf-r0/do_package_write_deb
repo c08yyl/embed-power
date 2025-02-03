@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929854.42 
+sysvinit-inittab-2.88dsf-r0: do_package_write_deb
+Elapsed time: 7.44 seconds
+utime: 87
+stime: 91
+cutime: 34
+cstime: 32
+IO rchar: 3132301
+IO wchar: 1590009
+IO syscr: 1975
+IO syscw: 523
+IO read_bytes: 1175552
+IO write_bytes: 1564672
+IO cancelled_write_bytes: 40960
+rusage ru_utime: 0.877676
+rusage ru_stime: 0.9173899999999999
+rusage ru_maxrss: 51700
+rusage ru_minflt: 24162
+rusage ru_majflt: 2
+rusage ru_inblock: 2168
+rusage ru_oublock: 288
+rusage ru_nvcsw: 109
+rusage ru_nivcsw: 621
+Child rusage ru_utime: 0.342497
+Child rusage ru_stime: 0.328354
+Child rusage ru_maxrss: 49348
+Child rusage ru_minflt: 31650
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 128
+Child rusage ru_oublock: 2768
+Child rusage ru_nvcsw: 314
+Child rusage ru_nivcsw: 446
+Status: PASSED 
+Ended: 1712929861.85 

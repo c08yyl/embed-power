@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928510.62 
+python3-flit-core-native-3.9.0-r0: do_populate_lic_setscene
+Elapsed time: 0.23 seconds
+utime: 45
+stime: 4
+cutime: 1
+cstime: 2
+IO rchar: 625799
+IO wchar: 72096
+IO syscr: 222
+IO syscw: 66
+IO read_bytes: 4096
+IO write_bytes: 65536
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.459507
+rusage ru_stime: 0.043952
+rusage ru_maxrss: 51236
+rusage ru_minflt: 7742
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 377
+Child rusage ru_utime: 0.014098999999999999
+Child rusage ru_stime: 0.022247
+Child rusage ru_maxrss: 51108
+Child rusage ru_minflt: 1597
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 19
+Status: PASSED 
+Ended: 1712928510.85 

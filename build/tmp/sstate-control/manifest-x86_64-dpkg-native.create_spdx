@@ -1,0 +1,10 @@
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/sstate:dpkg-native:x86_64-linux:1.22.0:r0:x86_64:11:/recipe-dpkg-native.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/x86_64/http:__spdx.org_spdxdoc_recipe-dpkg-native-b9d8d78e-b990-5e9a-901d-8d4bf9f38a50
+/kitchen/build/tmp/deploy/spdx/x86_64/recipes/recipe-dpkg-native.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/sstate:dpkg-native:x86_64-linux:1.22.0:r0:x86_64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/x86_64/
+/kitchen/build/tmp/deploy/spdx/x86_64/recipes/
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/by-hash/
+/kitchen/build/tmp/deploy/spdx/x86_64/

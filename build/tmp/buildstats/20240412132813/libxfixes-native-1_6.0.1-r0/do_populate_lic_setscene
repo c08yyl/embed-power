@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928566.00 
+libxfixes-native-1_6.0.1-r0: do_populate_lic_setscene
+Elapsed time: 0.19 seconds
+utime: 43
+stime: 7
+cutime: 1
+cstime: 2
+IO rchar: 654825
+IO wchar: 72655
+IO syscr: 223
+IO syscw: 68
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.43566299999999997
+rusage ru_stime: 0.070648
+rusage ru_maxrss: 52856
+rusage ru_minflt: 8209
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 305
+Child rusage ru_utime: 0.011869
+Child rusage ru_stime: 0.023771
+Child rusage ru_maxrss: 52856
+Child rusage ru_minflt: 1598
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 48
+Child rusage ru_nivcsw: 27
+Status: PASSED 
+Ended: 1712928566.19 

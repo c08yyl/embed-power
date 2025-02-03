@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928253.50 
+make-4.4.1-r0: do_populate_lic_setscene
+Elapsed time: 0.21 seconds
+utime: 36
+stime: 4
+cutime: 1
+cstime: 1
+IO rchar: 501679
+IO wchar: 207828
+IO syscr: 223
+IO syscw: 66
+IO read_bytes: 16384
+IO write_bytes: 131072
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.365647
+rusage ru_stime: 0.047693
+rusage ru_maxrss: 50656
+rusage ru_minflt: 7805
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 190
+Child rusage ru_utime: 0.019259
+Child rusage ru_stime: 0.014034999999999999
+Child rusage ru_maxrss: 50656
+Child rusage ru_minflt: 1643
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 32
+Child rusage ru_oublock: 152
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 12
+Status: PASSED 
+Ended: 1712928253.71 

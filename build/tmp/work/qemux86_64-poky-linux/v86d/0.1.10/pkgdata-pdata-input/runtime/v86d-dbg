@@ -1,0 +1,15 @@
+PN: v86d
+PV: 0.1.10
+PR: r0
+PKGV: 0.1.10
+PKGR: r0
+LICENSE: GPL-2.0-only
+DESCRIPTION:v86d-dbg: v86d provides a backend for kernel drivers that need to execute x86 BIOS code. The code is executed in a controlled environment and the results are passed back to the kernel via the netlink interface.  This package contains ELF symbols and related sources for debugging purposes.
+SUMMARY:v86d-dbg: User support binary for the uvesafb kernel module - Debugging files
+RRECOMMENDS:v86d-dbg: glibc-dbg
+SECTION:v86d-dbg: devel
+PKG:v86d-dbg: v86d-dbg
+ALLOW_EMPTY:v86d-dbg: 1
+FILES:v86d-dbg: /usr/lib/debug /usr/lib/debug-static /usr/src/debug
+FILES_INFO:v86d-dbg: {"/sbin/.debug/v86d": 312416}
+PKGSIZE:v86d-dbg: 312416

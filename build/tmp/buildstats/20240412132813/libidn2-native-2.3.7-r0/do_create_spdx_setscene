@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928595.82 
+libidn2-native-2.3.7-r0: do_create_spdx_setscene
+Elapsed time: 0.24 seconds
+utime: 49
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 690555
+IO wchar: 100841
+IO syscr: 241
+IO syscw: 78
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.49046799999999996
+rusage ru_stime: 0.046909
+rusage ru_maxrss: 52396
+rusage ru_minflt: 8401
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 544
+Child rusage ru_utime: 0.020971999999999998
+Child rusage ru_stime: 0.019773
+Child rusage ru_maxrss: 52396
+Child rusage ru_minflt: 1607
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 45
+Child rusage ru_nivcsw: 31
+Status: PASSED 
+Ended: 1712928596.06 

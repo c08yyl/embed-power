@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928528.87 
+shadow-native-4.14.2-r0: do_populate_lic_setscene
+Elapsed time: 0.22 seconds
+utime: 49
+stime: 3
+cutime: 2
+cstime: 1
+IO rchar: 670991
+IO wchar: 73817
+IO syscr: 228
+IO syscw: 71
+IO read_bytes: 4096
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.49494699999999997
+rusage ru_stime: 0.037781999999999996
+rusage ru_maxrss: 51880
+rusage ru_minflt: 8117
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 213
+Child rusage ru_utime: 0.020590999999999998
+Child rusage ru_stime: 0.016063
+Child rusage ru_maxrss: 51880
+Child rusage ru_minflt: 1602
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1712928529.09 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928533.35 
+base-passwd-3.6.3-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.21 seconds
+utime: 37
+stime: 5
+cutime: 0
+cstime: 1
+IO rchar: 366540
+IO wchar: 54744
+IO syscr: 107
+IO syscw: 46
+IO read_bytes: 4096
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.376695
+rusage ru_stime: 0.055513
+rusage ru_maxrss: 50600
+rusage ru_minflt: 7611
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 3
+rusage ru_nivcsw: 293
+Child rusage ru_utime: 0.009696
+Child rusage ru_stime: 0.010329
+Child rusage ru_maxrss: 46244
+Child rusage ru_minflt: 935
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 29
+Child rusage ru_nivcsw: 13
+Status: PASSED 
+Ended: 1712928533.57 

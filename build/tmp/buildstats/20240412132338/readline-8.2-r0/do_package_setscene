@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928367.23 
+readline-8.2-r0: do_package_setscene
+Elapsed time: 0.48 seconds
+utime: 44
+stime: 7
+cutime: 5
+cstime: 11
+IO rchar: 6672189
+IO wchar: 9521163
+IO syscr: 2385
+IO syscw: 1185
+IO read_bytes: 1392640
+IO write_bytes: 4931584
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.442534
+rusage ru_stime: 0.071864
+rusage ru_maxrss: 50976
+rusage ru_minflt: 8387
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 184
+rusage ru_nvcsw: 546
+rusage ru_nivcsw: 728
+Child rusage ru_utime: 0.051247999999999995
+Child rusage ru_stime: 0.11923299999999999
+Child rusage ru_maxrss: 48248
+Child rusage ru_minflt: 3882
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 2712
+Child rusage ru_oublock: 9448
+Child rusage ru_nvcsw: 705
+Child rusage ru_nivcsw: 1584
+Status: PASSED 
+Ended: 1712928367.71 

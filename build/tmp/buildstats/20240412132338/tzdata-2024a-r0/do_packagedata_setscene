@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928273.46 
+tzdata-2024a-r0: do_packagedata_setscene
+Elapsed time: 0.24 seconds
+utime: 31
+stime: 5
+cutime: 1
+cstime: 3
+IO rchar: 583942
+IO wchar: 334624
+IO syscr: 255
+IO syscw: 170
+IO read_bytes: 32768
+IO write_bytes: 262144
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.312925
+rusage ru_stime: 0.051494
+rusage ru_maxrss: 50192
+rusage ru_minflt: 7356
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 26
+rusage ru_nivcsw: 120
+Child rusage ru_utime: 0.011833
+Child rusage ru_stime: 0.033026
+Child rusage ru_maxrss: 50192
+Child rusage ru_minflt: 1644
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 64
+Child rusage ru_oublock: 408
+Child rusage ru_nvcsw: 49
+Child rusage ru_nivcsw: 37
+Status: PASSED 
+Ended: 1712928273.69 

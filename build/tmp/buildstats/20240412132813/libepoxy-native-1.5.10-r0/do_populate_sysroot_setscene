@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928539.09 
+libepoxy-native-1.5.10-r0: do_populate_sysroot_setscene
+Elapsed time: 0.31 seconds
+utime: 49
+stime: 4
+cutime: 2
+cstime: 4
+IO rchar: 3967724
+IO wchar: 5916139
+IO syscr: 565
+IO syscw: 434
+IO read_bytes: 389120
+IO write_bytes: 2990080
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.49345999999999995
+rusage ru_stime: 0.046261
+rusage ru_maxrss: 51888
+rusage ru_minflt: 8174
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 314
+Child rusage ru_utime: 0.021627
+Child rusage ru_stime: 0.041786
+Child rusage ru_maxrss: 51888
+Child rusage ru_minflt: 2620
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 760
+Child rusage ru_oublock: 5736
+Child rusage ru_nvcsw: 225
+Child rusage ru_nivcsw: 184
+Status: PASSED 
+Ended: 1712928539.40 

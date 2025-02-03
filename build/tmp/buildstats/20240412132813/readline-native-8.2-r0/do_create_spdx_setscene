@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928523.36 
+readline-native-8.2-r0: do_create_spdx_setscene
+Elapsed time: 0.29 seconds
+utime: 47
+stime: 5
+cutime: 1
+cstime: 1
+IO rchar: 684982
+IO wchar: 95444
+IO syscr: 237
+IO syscw: 76
+IO read_bytes: 8192
+IO write_bytes: 65536
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.473541
+rusage ru_stime: 0.056824
+rusage ru_maxrss: 51880
+rusage ru_minflt: 8277
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 474
+Child rusage ru_utime: 0.018867
+Child rusage ru_stime: 0.019437
+Child rusage ru_maxrss: 51880
+Child rusage ru_minflt: 1604
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 36
+Child rusage ru_nivcsw: 79
+Status: PASSED 
+Ended: 1712928523.65 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928257.88 
+qemu-native-8.2.1-r0: do_create_spdx_setscene
+Elapsed time: 0.26 seconds
+utime: 33
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 459007
+IO wchar: 94944
+IO syscr: 228
+IO syscw: 68
+IO read_bytes: 4096
+IO write_bytes: 65536
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.33638999999999997
+rusage ru_stime: 0.058671999999999995
+rusage ru_maxrss: 50784
+rusage ru_minflt: 7660
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 627
+Child rusage ru_utime: 0.016576999999999998
+Child rusage ru_stime: 0.021283
+Child rusage ru_maxrss: 49632
+Child rusage ru_minflt: 1581
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 16
+Child rusage ru_nvcsw: 41
+Child rusage ru_nivcsw: 27
+Status: PASSED 
+Ended: 1712928258.14 

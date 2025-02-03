@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928355.13 
+bash-5.2.21-r0: do_package_setscene
+Elapsed time: 2.35 seconds
+utime: 64
+stime: 21
+cutime: 22
+cstime: 96
+IO rchar: 28619052
+IO wchar: 42938501
+IO syscr: 20155
+IO syscw: 9624
+IO read_bytes: 9019392
+IO write_bytes: 23867392
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.640551
+rusage ru_stime: 0.21351699999999998
+rusage ru_maxrss: 51272
+rusage ru_minflt: 8561
+rusage ru_majflt: 0
+rusage ru_inblock: 152
+rusage ru_oublock: 472
+rusage ru_nvcsw: 7309
+rusage ru_nivcsw: 471
+Child rusage ru_utime: 0.22489099999999998
+Child rusage ru_stime: 0.966281
+Child rusage ru_maxrss: 48360
+Child rusage ru_minflt: 10196
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 17464
+Child rusage ru_oublock: 46144
+Child rusage ru_nvcsw: 5821
+Child rusage ru_nivcsw: 11333
+Status: PASSED 
+Ended: 1712928357.48 

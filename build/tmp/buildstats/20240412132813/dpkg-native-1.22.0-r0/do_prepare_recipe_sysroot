@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928627.84 
+dpkg-native-1.22.0-r0: do_prepare_recipe_sysroot
+Elapsed time: 0.36 seconds
+utime: 52
+stime: 14
+cutime: 5
+cstime: 1
+IO rchar: 2598099
+IO wchar: 2190794
+IO syscr: 651
+IO syscw: 579
+IO read_bytes: 110592
+IO write_bytes: 2285568
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.523224
+rusage ru_stime: 0.144892
+rusage ru_maxrss: 52904
+rusage ru_minflt: 5521
+rusage ru_majflt: 0
+rusage ru_inblock: 32
+rusage ru_oublock: 544
+rusage ru_nvcsw: 4
+rusage ru_nivcsw: 160
+Child rusage ru_utime: 0.059052
+Child rusage ru_stime: 0.017055999999999998
+Child rusage ru_maxrss: 52904
+Child rusage ru_minflt: 587
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 184
+Child rusage ru_oublock: 3920
+Child rusage ru_nvcsw: 13
+Child rusage ru_nivcsw: 5
+Status: PASSED 
+Ended: 1712928628.20 

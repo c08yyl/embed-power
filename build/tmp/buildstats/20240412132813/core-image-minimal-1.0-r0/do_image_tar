@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712931031.13 
+core-image-minimal-1.0-r0: do_image_tar
+Elapsed time: 3.11 seconds
+utime: 58
+stime: 12
+cutime: 734
+cstime: 33
+IO rchar: 55825098
+IO wchar: 45940453
+IO syscr: 6044
+IO syscw: 2842
+IO read_bytes: 81920
+IO write_bytes: 45936640
+IO cancelled_write_bytes: 28151808
+rusage ru_utime: 0.586541
+rusage ru_stime: 0.12203199999999999
+rusage ru_maxrss: 54364
+rusage ru_minflt: 12706
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 64
+rusage ru_nvcsw: 2444
+rusage ru_nivcsw: 33
+Child rusage ru_utime: 7.3428889999999996
+Child rusage ru_stime: 0.331961
+Child rusage ru_maxrss: 51668
+Child rusage ru_minflt: 53516
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 160
+Child rusage ru_oublock: 89656
+Child rusage ru_nvcsw: 3352
+Child rusage ru_nivcsw: 3283
+Status: PASSED 
+Ended: 1712931034.24 

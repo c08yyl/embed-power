@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928302.09 
+expat-native-2.6.2-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.18 seconds
+utime: 48
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 566056
+IO wchar: 55108
+IO syscr: 117
+IO syscw: 53
+IO read_bytes: 94208
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.486434
+rusage ru_stime: 0.039871
+rusage ru_maxrss: 53524
+rusage ru_minflt: 8200
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 3
+rusage ru_nivcsw: 593
+Child rusage ru_utime: 0.003542
+Child rusage ru_stime: 0.015829
+Child rusage ru_maxrss: 48780
+Child rusage ru_minflt: 905
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 184
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 36
+Child rusage ru_nivcsw: 21
+Status: PASSED 
+Ended: 1712928302.26 

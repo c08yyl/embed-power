@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929015.96 
+libcap-2.69-r0: do_package_write_deb
+Elapsed time: 10.87 seconds
+utime: 124
+stime: 95
+cutime: 128
+cstime: 69
+IO rchar: 7734647
+IO wchar: 3907834
+IO syscr: 3921
+IO syscw: 890
+IO read_bytes: 3579904
+IO write_bytes: 2449408
+IO cancelled_write_bytes: 372736
+rusage ru_utime: 1.241651
+rusage ru_stime: 0.9596349999999999
+rusage ru_maxrss: 54432
+rusage ru_minflt: 24402
+rusage ru_majflt: 0
+rusage ru_inblock: 3424
+rusage ru_oublock: 288
+rusage ru_nvcsw: 100
+rusage ru_nivcsw: 820
+Child rusage ru_utime: 1.289489
+Child rusage ru_stime: 0.694975
+Child rusage ru_maxrss: 52112
+Child rusage ru_minflt: 104497
+Child rusage ru_majflt: 1
+Child rusage ru_inblock: 3568
+Child rusage ru_oublock: 4496
+Child rusage ru_nvcsw: 868
+Child rusage ru_nivcsw: 1596
+Status: PASSED 
+Ended: 1712929026.83 

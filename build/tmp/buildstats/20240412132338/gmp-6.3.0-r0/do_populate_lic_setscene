@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928286.34 
+gmp-6.3.0-r0: do_populate_lic_setscene
+Elapsed time: 0.20 seconds
+utime: 39
+stime: 3
+cutime: 0
+cstime: 2
+IO rchar: 566756
+IO wchar: 310095
+IO syscr: 231
+IO syscw: 79
+IO read_bytes: 20480
+IO write_bytes: 188416
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.396655
+rusage ru_stime: 0.032052
+rusage ru_maxrss: 51316
+rusage ru_minflt: 7752
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 148
+Child rusage ru_utime: 0.009372
+Child rusage ru_stime: 0.028946
+Child rusage ru_maxrss: 51316
+Child rusage ru_minflt: 1669
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 264
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1712928286.54 

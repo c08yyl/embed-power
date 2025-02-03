@@ -1,0 +1,10 @@
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/sstate:xxhash-native:x86_64-linux:0.8.2:r0:x86_64:11:/recipe-xxhash-native.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/x86_64/http:__spdx.org_spdxdoc_recipe-xxhash-native-f7fa18c8-8551-54de-84e0-11a536d0cfe0
+/kitchen/build/tmp/deploy/spdx/x86_64/recipes/recipe-xxhash-native.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/sstate:xxhash-native:x86_64-linux:0.8.2:r0:x86_64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/x86_64/
+/kitchen/build/tmp/deploy/spdx/x86_64/recipes/
+/kitchen/build/tmp/deploy/spdx/by-hash/x86_64/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/by-hash/
+/kitchen/build/tmp/deploy/spdx/x86_64/

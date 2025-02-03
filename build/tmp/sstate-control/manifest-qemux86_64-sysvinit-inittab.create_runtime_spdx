@@ -1,0 +1,16 @@
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/runtime-sysvinit-inittab-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/runtime-sysvinit-inittab.spdx.json
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/runtime-sysvinit-inittab-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:sysvinit-inittab:qemux86_64-poky-linux:2.88dsf:r0:qemux86_64:11:/runtime-sysvinit-inittab-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:sysvinit-inittab:qemux86_64-poky-linux:2.88dsf:r0:qemux86_64:11:/runtime-sysvinit-inittab.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:sysvinit-inittab:qemux86_64-poky-linux:2.88dsf:r0:qemux86_64:11:/runtime-sysvinit-inittab-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-sysvinit-inittab-eb5f2f56-4d26-5bb7-91a7-28e7e7768008
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-sysvinit-inittab-dbg-41e89d83-1b0a-5d6b-9175-e534193be512
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/http:__spdx.org_spdxdoc_runtime-sysvinit-inittab-dev-4b0f7724-a1df-57f8-b88a-1b0620e7f8bd
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/sstate:sysvinit-inittab:qemux86_64-poky-linux:2.88dsf:r0:qemux86_64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/by-hash/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/qemux86_64/runtime/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/qemux86_64/
+/kitchen/build/tmp/deploy/spdx/by-hash/

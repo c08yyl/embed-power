@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928390.49 
+libcap-ng-0.8.4-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.38 seconds
+utime: 38
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 363675
+IO wchar: 55773
+IO syscr: 111
+IO syscw: 48
+IO read_bytes: 12288
+IO write_bytes: 57344
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.384751
+rusage ru_stime: 0.048093
+rusage ru_maxrss: 52484
+rusage ru_minflt: 7734
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 104
+rusage ru_nvcsw: 6
+rusage ru_nivcsw: 1572
+Child rusage ru_utime: 0.004763
+Child rusage ru_stime: 0.013576
+Child rusage ru_maxrss: 48000
+Child rusage ru_minflt: 934
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 29
+Child rusage ru_nivcsw: 458
+Status: PASSED 
+Ended: 1712928390.87 

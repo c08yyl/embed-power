@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928567.96 
+libxrender-native-1_0.9.11-r0: do_populate_lic_setscene
+Elapsed time: 0.29 seconds
+utime: 45
+stime: 8
+cutime: 1
+cstime: 2
+IO rchar: 655434
+IO wchar: 72819
+IO syscr: 223
+IO syscw: 68
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.451437
+rusage ru_stime: 0.08172499999999999
+rusage ru_maxrss: 52764
+rusage ru_minflt: 8229
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 112
+rusage ru_nvcsw: 9
+rusage ru_nivcsw: 413
+Child rusage ru_utime: 0.015545
+Child rusage ru_stime: 0.022756
+Child rusage ru_maxrss: 52764
+Child rusage ru_minflt: 1595
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 35
+Child rusage ru_nivcsw: 82
+Status: PASSED 
+Ended: 1712928568.26 

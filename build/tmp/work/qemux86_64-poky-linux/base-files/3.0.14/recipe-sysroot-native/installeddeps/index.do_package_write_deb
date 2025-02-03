@@ -1,0 +1,17 @@
+TaskDeps: do_deploy_source_date_epoch do_packagedata do_package do_patch do_install do_unpack do_compile do_fetch do_configure do_recipe_qa do_prepare_recipe_sysroot
+attr-native
+bzip2-native
+dpkg-native
+gdbm-native
+gettext-minimal-native
+gettext-native
+libmd-native
+libtool-native
+make-native
+opkg-utils-native
+perl-native
+pseudo-native
+sqlite3-native
+texinfo-dummy-native
+xz-native
+zlib-native

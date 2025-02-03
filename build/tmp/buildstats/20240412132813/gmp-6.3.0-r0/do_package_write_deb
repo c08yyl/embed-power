@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928929.90 
+gmp-6.3.0-r0: do_package_write_deb
+Elapsed time: 21.04 seconds
+utime: 261
+stime: 104
+cutime: 443
+cstime: 89
+IO rchar: 21023375
+IO wchar: 12733569
+IO syscr: 6512
+IO syscw: 1880
+IO read_bytes: 7077888
+IO write_bytes: 5451776
+IO cancelled_write_bytes: 1368064
+rusage ru_utime: 2.616069
+rusage ru_stime: 1.049734
+rusage ru_maxrss: 55044
+rusage ru_minflt: 24479
+rusage ru_majflt: 0
+rusage ru_inblock: 792
+rusage ru_oublock: 288
+rusage ru_nvcsw: 249
+rusage ru_nivcsw: 1150
+Child rusage ru_utime: 4.437164
+Child rusage ru_stime: 0.89474
+Child rusage ru_maxrss: 52548
+Child rusage ru_minflt: 107277
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 13032
+Child rusage ru_oublock: 10360
+Child rusage ru_nvcsw: 3452
+Child rusage ru_nivcsw: 3587
+Status: PASSED 
+Ended: 1712928950.94 

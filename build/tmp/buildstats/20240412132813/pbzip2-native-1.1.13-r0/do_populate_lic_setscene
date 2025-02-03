@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928527.08 
+pbzip2-native-1.1.13-r0: do_populate_lic_setscene
+Elapsed time: 0.32 seconds
+utime: 42
+stime: 5
+cutime: 2
+cstime: 0
+IO rchar: 625267
+IO wchar: 66635
+IO syscr: 215
+IO syscw: 62
+IO read_bytes: 4096
+IO write_bytes: 61440
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.42035
+rusage ru_stime: 0.054488999999999996
+rusage ru_maxrss: 50728
+rusage ru_minflt: 7649
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 311
+Child rusage ru_utime: 0.029802
+Child rusage ru_stime: 0.009296
+Child rusage ru_maxrss: 50600
+Child rusage ru_minflt: 1574
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 69
+Status: PASSED 
+Ended: 1712928527.40 

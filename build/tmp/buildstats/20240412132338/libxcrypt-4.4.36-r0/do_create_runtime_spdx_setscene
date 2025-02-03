@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928239.30 
+libxcrypt-4.4.36-r0: do_create_runtime_spdx_setscene
+Elapsed time: 0.20 seconds
+utime: 36
+stime: 4
+cutime: 2
+cstime: 1
+IO rchar: 444673
+IO wchar: 106927
+IO syscr: 216
+IO syscw: 79
+IO read_bytes: 4096
+IO write_bytes: 77824
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.365558
+rusage ru_stime: 0.042327
+rusage ru_maxrss: 50656
+rusage ru_minflt: 7599
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 112
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 102
+Child rusage ru_utime: 0.028926999999999998
+Child rusage ru_stime: 0.011593
+Child rusage ru_maxrss: 50656
+Child rusage ru_minflt: 1602
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 40
+Child rusage ru_nvcsw: 44
+Child rusage ru_nivcsw: 28
+Status: PASSED 
+Ended: 1712928239.50 

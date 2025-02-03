@@ -1,0 +1,256 @@
+DEBUG: Executing python function extend_recipe_sysroot
+NOTE: Direct dependencies are []
+NOTE: Installed into sysroot: []
+NOTE: Skipping as already exists in sysroot: []
+DEBUG: Python function extend_recipe_sysroot finished
+DEBUG: Executing python function fetcher_hashes_dummyfunc
+DEBUG: Python function fetcher_hashes_dummyfunc finished
+DEBUG: Executing python function do_fetch
+DEBUG: Executing python function base_do_fetch
+DEBUG: Trying PREMIRRORS
+DEBUG: For url ['git', 'sourceware.org', '/git/binutils-gdb.git', '', '', OrderedDict([('branch', 'binutils-2_42-branch'), ('protocol', 'https')])] comparing ['git', 'sourceware.org', '/git/glibc.git', '', '', OrderedDict()] to ['https', 'downloads.yoctoproject.org', '/mirror/sources/', '', '', OrderedDict()]
+DEBUG: For url ['git', 'sourceware.org', '/git/binutils-gdb.git', '', '', OrderedDict([('branch', 'binutils-2_42-branch'), ('protocol', 'https')])] comparing ['git', 'sourceware.org', '/git/glibc.git', '', '', OrderedDict()] to ['https', 'downloads.yoctoproject.org', '/mirror/sources/', '', '', OrderedDict()]
+DEBUG: For url ['git', 'sourceware.org', '/git/binutils-gdb.git', '', '', OrderedDict([('branch', 'binutils-2_42-branch'), ('protocol', 'https')])] comparing ['git', 'sourceware.org', '/git/binutils-gdb.git', '', '', OrderedDict()] to ['https', 'downloads.yoctoproject.org', '/mirror/sources/', '', '', OrderedDict()]
+DEBUG: For url git://sourceware.org/git/binutils-gdb.git;branch=binutils-2_42-branch;protocol=https returning https://downloads.yoctoproject.org/mirror/sources/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz
+DEBUG: For url ['https', 'downloads.yoctoproject.org', '/mirror/sources/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz', '', '', OrderedDict()] comparing ['git', 'sourceware.org', '/git/glibc.git', '', '', OrderedDict()] to ['https', 'downloads.yoctoproject.org', '/mirror/sources/', '', '', OrderedDict()]
+DEBUG: For url ['https', 'downloads.yoctoproject.org', '/mirror/sources/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz', '', '', OrderedDict()] comparing ['git', 'sourceware.org', '/git/glibc.git', '', '', OrderedDict()] to ['https', 'downloads.yoctoproject.org', '/mirror/sources/', '', '', OrderedDict()]
+DEBUG: For url ['git', 'sourceware.org', '/git/binutils-gdb.git', '', '', OrderedDict([('branch', 'binutils-2_42-branch'), ('protocol', 'https')])] comparing ['git', 'sourceware.org', '/git/binutils-gdb.git', '', '', OrderedDict()] to ['https', 'downloads.yoctoproject.org', '/mirror/sources/', '', '', OrderedDict()]
+DEBUG: For url git://sourceware.org/git/binutils-gdb.git;branch=binutils-2_42-branch;protocol=https returning https://downloads.yoctoproject.org/mirror/sources/git2_sourceware.org.git.binutils-gdb.git.tar.gz
+DEBUG: For url ['https', 'downloads.yoctoproject.org', '/mirror/sources/git2_sourceware.org.git.binutils-gdb.git.tar.gz', '', '', OrderedDict()] comparing ['git', 'sourceware.org', '/git/glibc.git', '', '', OrderedDict()] to ['https', 'downloads.yoctoproject.org', '/mirror/sources/', '', '', OrderedDict()]
+DEBUG: For url ['https', 'downloads.yoctoproject.org', '/mirror/sources/git2_sourceware.org.git.binutils-gdb.git.tar.gz', '', '', OrderedDict()] comparing ['git', 'sourceware.org', '/git/glibc.git', '', '', OrderedDict()] to ['https', 'downloads.yoctoproject.org', '/mirror/sources/', '', '', OrderedDict()]
+DEBUG: Fetching https://downloads.yoctoproject.org/mirror/sources/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz using command '/usr/bin/env wget -t 2 -T 30 --passive-ftp -O /downloads/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz.tmp -P /downloads 'https://downloads.yoctoproject.org/mirror/sources/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz''
+DEBUG: Fetcher accessed the network with the command /usr/bin/env wget -t 2 -T 30 --passive-ftp -O /downloads/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz.tmp -P /downloads 'https://downloads.yoctoproject.org/mirror/sources/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz'
+DEBUG: Running export PSEUDO_DISABLED=1; export PATH="/kitchen/scripts/cross-intercept:/kitchen/build/tmp/sysroots-uninative/x86_64-linux/usr/bin:/kitchen/scripts:/kitchen/build/tmp/work/x86_64-linux/binutils-cross-x86_64/2.42/recipe-sysroot-native/usr/bin/x86_64-poky-linux:/kitchen/build/tmp/work/x86_64-linux/binutils-cross-x86_64/2.42/recipe-sysroot-native/kitchen/build/tmp/work/x86_64-linux/binutils-cross-x86_64/2.42/recipe-sysroot-native/usr/bin/x86_64-poky-linux/crossscripts:/kitchen/build/tmp/work/x86_64-linux/binutils-cross-x86_64/2.42/recipe-sysroot-native/usr/sbin:/kitchen/build/tmp/work/x86_64-linux/binutils-cross-x86_64/2.42/recipe-sysroot-native/usr/bin:/kitchen/build/tmp/work/x86_64-linux/binutils-cross-x86_64/2.42/recipe-sysroot-native/sbin:/kitchen/build/tmp/work/x86_64-linux/binutils-cross-x86_64/2.42/recipe-sysroot-native/bin:/kitchen/bitbake/bin:/kitchen/build/tmp/hosttools"; export HOME="/home/leo"; /usr/bin/env wget -t 2 -T 30 --passive-ftp -O /downloads/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz.tmp -P /downloads 'https://downloads.yoctoproject.org/mirror/sources/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz' --progress=dot -v
+--2024-12-28 21:50:43--  https://downloads.yoctoproject.org/mirror/sources/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz
+Resolving downloads.yoctoproject.org (downloads.yoctoproject.org)... 37.27.135.249, 2a01:4f9:3070:3985::2
+Connecting to downloads.yoctoproject.org (downloads.yoctoproject.org)|37.27.135.249|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 72149520 (69M) [application/octet-stream]
+Saving to: ‘/downloads/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz.tmp’
+
+
+2024-12-28 21:51:13 (2.48 MB/s) - ‘/downloads/gitshallow_sourceware.org.git.binutils-gdb.git_553c7f6-1_binutils-2_42-branch.tar.gz.tmp’ saved [72149520/72149520]
+
+DEBUG: Searching for 0004-Point-scripts-location-to-libdir.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0004-Point-scripts-location-to-libdir.patch for 0004-Point-scripts-location-to-libdir.patch
+DEBUG: Searching for 0005-don-t-let-the-distro-compiler-point-to-the-wrong-ins.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0005-don-t-let-the-distro-compiler-point-to-the-wrong-ins.patch for 0005-don-t-let-the-distro-compiler-point-to-the-wrong-ins.patch
+DEBUG: Searching for 0006-warn-for-uses-of-system-directories-when-cross-linki.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0006-warn-for-uses-of-system-directories-when-cross-linki.patch for 0006-warn-for-uses-of-system-directories-when-cross-linki.patch
+DEBUG: Searching for 0007-fix-the-incorrect-assembling-for-ppc-wait-mnemonic.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0007-fix-the-incorrect-assembling-for-ppc-wait-mnemonic.patch for 0007-fix-the-incorrect-assembling-for-ppc-wait-mnemonic.patch
+DEBUG: Searching for 0008-Use-libtool-2.4.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0008-Use-libtool-2.4.patch for 0008-Use-libtool-2.4.patch
+DEBUG: Searching for 0009-Fix-rpath-in-libtool-when-sysroot-is-enabled.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0009-Fix-rpath-in-libtool-when-sysroot-is-enabled.patch for 0009-Fix-rpath-in-libtool-when-sysroot-is-enabled.patch
+DEBUG: Searching for 0010-sync-with-OE-libtool-changes.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0010-sync-with-OE-libtool-changes.patch for 0010-sync-with-OE-libtool-changes.patch
+DEBUG: Searching for 0011-Check-for-clang-before-checking-gcc-version.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0011-Check-for-clang-before-checking-gcc-version.patch for 0011-Check-for-clang-before-checking-gcc-version.patch
+DEBUG: Searching for 0012-Only-generate-an-RPATH-entry-if-LD_RUN_PATH-is-not-e.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0012-Only-generate-an-RPATH-entry-if-LD_RUN_PATH-is-not-e.patch for 0012-Only-generate-an-RPATH-entry-if-LD_RUN_PATH-is-not-e.patch
+DEBUG: Searching for 0013-Define-alignof-using-_Alignof-when-using-C11-or-newe.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0013-Define-alignof-using-_Alignof-when-using-C11-or-newe.patch for 0013-Define-alignof-using-_Alignof-when-using-C11-or-newe.patch
+DEBUG: Searching for 0014-Remove-duplicate-pe-dll.o-entry-deom-targ_extra_ofil.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0014-Remove-duplicate-pe-dll.o-entry-deom-targ_extra_ofil.patch for 0014-Remove-duplicate-pe-dll.o-entry-deom-targ_extra_ofil.patch
+DEBUG: Searching for 0015-gprofng-change-use-of-bignum-to-bigint.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0015-gprofng-change-use-of-bignum-to-bigint.patch for 0015-gprofng-change-use-of-bignum-to-bigint.patch
+DEBUG: Searching for 0002-binutils-cross-Do-not-generate-linker-script-directo.patch in paths:
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils/poky
+    /kitchen/meta/recipes-devtools/binutils/files/poky
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/files/qemux86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils/qemuall
+    /kitchen/meta/recipes-devtools/binutils/files/qemuall
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils/x86-64
+    /kitchen/meta/recipes-devtools/binutils/files/x86-64
+    /kitchen/meta/recipes-devtools/binutils/binutils-2.42/
+    /kitchen/meta/recipes-devtools/binutils/binutils/
+    /kitchen/meta/recipes-devtools/binutils/files/
+DEBUG: Using /kitchen/meta/recipes-devtools/binutils/binutils/0002-binutils-cross-Do-not-generate-linker-script-directo.patch for 0002-binutils-cross-Do-not-generate-linker-script-directo.patch
+DEBUG: Python function base_do_fetch finished
+DEBUG: Python function do_fetch finished

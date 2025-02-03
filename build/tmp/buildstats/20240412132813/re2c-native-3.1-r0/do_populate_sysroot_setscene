@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928618.03 
+re2c-native-3.1-r0: do_populate_sysroot_setscene
+Elapsed time: 0.43 seconds
+utime: 46
+stime: 5
+cutime: 4
+cstime: 3
+IO rchar: 5053883
+IO wchar: 6228072
+IO syscr: 499
+IO syscw: 312
+IO read_bytes: 299008
+IO write_bytes: 4145152
+IO cancelled_write_bytes: 1990656
+rusage ru_utime: 0.46645899999999996
+rusage ru_stime: 0.051828
+rusage ru_maxrss: 53872
+rusage ru_minflt: 8413
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 22
+rusage ru_nivcsw: 296
+Child rusage ru_utime: 0.04203
+Child rusage ru_stime: 0.038145
+Child rusage ru_maxrss: 53872
+Child rusage ru_minflt: 3718
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 584
+Child rusage ru_oublock: 7992
+Child rusage ru_nvcsw: 167
+Child rusage ru_nivcsw: 254
+Status: PASSED 
+Ended: 1712928618.46 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928608.72 
+gdbm-native-1.23-r0: do_populate_sysroot_setscene
+Elapsed time: 0.32 seconds
+utime: 50
+stime: 6
+cutime: 2
+cstime: 3
+IO rchar: 1361282
+IO wchar: 963373
+IO syscr: 318
+IO syscw: 131
+IO read_bytes: 110592
+IO write_bytes: 622592
+IO cancelled_write_bytes: 217088
+rusage ru_utime: 0.500192
+rusage ru_stime: 0.065598
+rusage ru_maxrss: 53496
+rusage ru_minflt: 8467
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 21
+rusage ru_nivcsw: 642
+Child rusage ru_utime: 0.023766
+Child rusage ru_stime: 0.039744
+Child rusage ru_maxrss: 53496
+Child rusage ru_minflt: 2350
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 216
+Child rusage ru_oublock: 1112
+Child rusage ru_nvcsw: 53
+Child rusage ru_nivcsw: 277
+Status: PASSED 
+Ended: 1712928609.04 

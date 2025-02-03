@@ -1,0 +1,5 @@
+def fetcher_hashes_dummyfunc(d):
+    return
+
+fetcher_hashes_dummyfunc(d)
+

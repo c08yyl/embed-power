@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928536.68 
+libxcrypt-4.4.36-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.24 seconds
+utime: 38
+stime: 4
+cutime: 1
+cstime: 0
+IO rchar: 363358
+IO wchar: 56023
+IO syscr: 113
+IO syscw: 49
+IO read_bytes: 4096
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.38089799999999996
+rusage ru_stime: 0.041856
+rusage ru_maxrss: 50600
+rusage ru_minflt: 7693
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 3
+rusage ru_nivcsw: 242
+Child rusage ru_utime: 0.011611
+Child rusage ru_stime: 0.00917
+Child rusage ru_maxrss: 46664
+Child rusage ru_minflt: 941
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 29
+Child rusage ru_nivcsw: 167
+Status: PASSED 
+Ended: 1712928536.91 

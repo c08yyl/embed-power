@@ -1,0 +1,13 @@
+/kitchen/build/tmp/deploy/spdx/core2-64/runtime/runtime-linux-libc-headers-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/core2-64/runtime/runtime-linux-libc-headers-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/sstate:linux-libc-headers:core2-64-poky-linux:6.6:r0:core2-64:11:/runtime-linux-libc-headers-dbg.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/sstate:linux-libc-headers:core2-64-poky-linux:6.6:r0:core2-64:11:/runtime-linux-libc-headers-dev.spdx.json
+/kitchen/build/tmp/deploy/spdx/by-namespace/core2-64/http:__spdx.org_spdxdoc_runtime-linux-libc-headers-dbg-73f607bb-78bc-5e8f-8921-58c466441f11
+/kitchen/build/tmp/deploy/spdx/by-namespace/core2-64/http:__spdx.org_spdxdoc_runtime-linux-libc-headers-dev-c08d83c7-1dcd-5fb3-a987-ebb71837bf91
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/sstate:linux-libc-headers:core2-64-poky-linux:6.6:r0:core2-64:11:/
+/kitchen/build/tmp/deploy/spdx/by-namespace/core2-64/
+/kitchen/build/tmp/deploy/spdx/by-hash/core2-64/
+/kitchen/build/tmp/deploy/spdx/core2-64/runtime/
+/kitchen/build/tmp/deploy/spdx/by-namespace/
+/kitchen/build/tmp/deploy/spdx/core2-64/
+/kitchen/build/tmp/deploy/spdx/by-hash/

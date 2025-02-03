@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928297.23 
+mpfr-4.2.1-r0: do_populate_lic_setscene
+Elapsed time: 0.23 seconds
+utime: 35
+stime: 5
+cutime: 1
+cstime: 2
+IO rchar: 489622
+IO wchar: 166110
+IO syscr: 216
+IO syscw: 63
+IO read_bytes: 20480
+IO write_bytes: 110592
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.351271
+rusage ru_stime: 0.051309
+rusage ru_maxrss: 51676
+rusage ru_minflt: 7751
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 155
+Child rusage ru_utime: 0.013887
+Child rusage ru_stime: 0.023483
+Child rusage ru_maxrss: 51676
+Child rusage ru_minflt: 1632
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 40
+Child rusage ru_oublock: 112
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 18
+Status: PASSED 
+Ended: 1712928297.45 

@@ -1,0 +1,71 @@
+DEBUG: Executing python function extend_recipe_sysroot
+NOTE: Direct dependencies are ['virtual:native:/kitchen/meta/recipes-devtools/pseudo/pseudo_git.bb:do_populate_sysroot']
+NOTE: Installed into sysroot: ['pseudo-native']
+NOTE: Skipping as already exists in sysroot: []
+DEBUG: Python function extend_recipe_sysroot finished
+DEBUG: Executing python function do_package_setscene
+DEBUG: Executing shell function sstate_unpack_package
+package/
+package/etc/
+package/etc/init.d/
+package/etc/init.d/networking
+package/etc/network/
+package/etc/network/if-pre-up.d/
+package/etc/network/if-pre-up.d/nfsroot
+package/etc/network/interfaces
+package/etc/network/if-down.d/
+package/etc/network/if-up.d/
+package/etc/network/if-post-down.d/
+package/etc/network/nm-disabled-eth0
+packages-split/
+packages-split/init-ifupdown-dbg/
+packages-split/init-ifupdown-doc/
+packages-split/init-ifupdown-staticdev/
+packages-split/init-ifupdown-dev/
+packages-split/init-ifupdown-src/
+packages-split/init-ifupdown-locale/
+packages-split/init-ifupdown/
+packages-split/init-ifupdown/etc/
+packages-split/init-ifupdown/etc/init.d/
+packages-split/init-ifupdown/etc/init.d/networking
+packages-split/init-ifupdown/etc/network/
+packages-split/init-ifupdown/etc/network/if-pre-up.d/
+packages-split/init-ifupdown/etc/network/if-pre-up.d/nfsroot
+packages-split/init-ifupdown/etc/network/interfaces
+packages-split/init-ifupdown/etc/network/if-down.d/
+packages-split/init-ifupdown/etc/network/if-up.d/
+packages-split/init-ifupdown/etc/network/if-post-down.d/
+packages-split/init-ifupdown/etc/network/nm-disabled-eth0
+pkgdata/
+pkgdata/runtime-rprovides/
+pkgdata/runtime-reverse/
+pkgdata/runtime-reverse/init-ifupdown-dbg
+pkgdata/runtime-reverse/init-ifupdown-dev
+pkgdata/runtime-reverse/init-ifupdown
+pkgdata/shlibs2/
+pkgdata/runtime/
+pkgdata/runtime/init-ifupdown-dbg.packaged
+pkgdata/runtime/init-ifupdown-dbg
+pkgdata/runtime/init-ifupdown-dev.packaged
+pkgdata/runtime/init-ifupdown-doc
+pkgdata/runtime/init-ifupdown-staticdev
+pkgdata/runtime/init-ifupdown-dev
+pkgdata/runtime/init-ifupdown-src
+pkgdata/runtime/init-ifupdown.packaged
+pkgdata/runtime/init-ifupdown-locale
+pkgdata/runtime/init-ifupdown
+pkgdata/init-ifupdown
+pkgdata/extended/
+pkgdata/extended/init-ifupdown-src.json.zstd
+pkgdata/extended/init-ifupdown-staticdev.json.zstd
+pkgdata/extended/init-ifupdown-dbg.json.zstd
+pkgdata/extended/init-ifupdown.json.zstd
+pkgdata/extended/init-ifupdown-locale.json.zstd
+pkgdata/extended/init-ifupdown-dev.json.zstd
+pkgdata/extended/init-ifupdown-doc.json.zstd
+DEBUG: Shell function sstate_unpack_package finished
+DEBUG: Executing python function sstate_hardcode_path_unpack
+DEBUG: Python function sstate_hardcode_path_unpack finished
+DEBUG: Executing python function uninative_changeinterp
+DEBUG: Python function uninative_changeinterp finished
+DEBUG: Python function do_package_setscene finished

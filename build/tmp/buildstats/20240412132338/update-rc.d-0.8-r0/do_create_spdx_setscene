@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928279.79 
+update-rc.d-0.8-r0: do_create_spdx_setscene
+Elapsed time: 0.23 seconds
+utime: 33
+stime: 1
+cutime: 1
+cstime: 2
+IO rchar: 419221
+IO wchar: 99243
+IO syscr: 208
+IO syscw: 72
+IO read_bytes: 8192
+IO write_bytes: 69632
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.330891
+rusage ru_stime: 0.019464
+rusage ru_maxrss: 50164
+rusage ru_minflt: 7263
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 104
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 189
+Child rusage ru_utime: 0.010524
+Child rusage ru_stime: 0.026961
+Child rusage ru_maxrss: 50164
+Child rusage ru_minflt: 1595
+Child rusage ru_majflt: 2
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 32
+Child rusage ru_nvcsw: 42
+Child rusage ru_nivcsw: 38
+Status: PASSED 
+Ended: 1712928280.02 

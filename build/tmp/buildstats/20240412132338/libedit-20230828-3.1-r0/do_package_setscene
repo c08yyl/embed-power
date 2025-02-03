@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928361.44 
+libedit-20230828-3.1-r0: do_package_setscene
+Elapsed time: 0.52 seconds
+utime: 44
+stime: 6
+cutime: 3
+cstime: 12
+IO rchar: 2639694
+IO wchar: 3266403
+IO syscr: 2138
+IO syscw: 877
+IO read_bytes: 483328
+IO write_bytes: 1777664
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.44801399999999997
+rusage ru_stime: 0.060542
+rusage ru_maxrss: 50820
+rusage ru_minflt: 8370
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 184
+rusage ru_nvcsw: 629
+rusage ru_nivcsw: 550
+Child rusage ru_utime: 0.033651
+Child rusage ru_stime: 0.124119
+Child rusage ru_maxrss: 48132
+Child rusage ru_minflt: 2759
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 928
+Child rusage ru_oublock: 3288
+Child rusage ru_nvcsw: 227
+Child rusage ru_nivcsw: 1941
+Status: PASSED 
+Ended: 1712928361.95 

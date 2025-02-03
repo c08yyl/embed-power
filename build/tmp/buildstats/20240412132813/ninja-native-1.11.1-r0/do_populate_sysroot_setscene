@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928602.22 
+ninja-native-1.11.1-r0: do_populate_sysroot_setscene
+Elapsed time: 0.42 seconds
+utime: 40
+stime: 5
+cutime: 2
+cstime: 2
+IO rchar: 1365602
+IO wchar: 964893
+IO syscr: 259
+IO syscw: 90
+IO read_bytes: 126976
+IO write_bytes: 663552
+IO cancelled_write_bytes: 303104
+rusage ru_utime: 0.402866
+rusage ru_stime: 0.051273
+rusage ru_maxrss: 52624
+rusage ru_minflt: 7942
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 10
+rusage ru_nivcsw: 443
+Child rusage ru_utime: 0.024222
+Child rusage ru_stime: 0.024657
+Child rusage ru_maxrss: 52624
+Child rusage ru_minflt: 2072
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 248
+Child rusage ru_oublock: 1200
+Child rusage ru_nvcsw: 46
+Child rusage ru_nivcsw: 140
+Status: PASSED 
+Ended: 1712928602.64 

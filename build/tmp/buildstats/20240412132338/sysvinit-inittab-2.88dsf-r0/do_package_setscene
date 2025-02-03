@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928324.66 
+sysvinit-inittab-2.88dsf-r0: do_package_setscene
+Elapsed time: 0.35 seconds
+utime: 40
+stime: 3
+cutime: 0
+cstime: 5
+IO rchar: 415566
+IO wchar: 121561
+IO syscr: 583
+IO syscw: 155
+IO read_bytes: 12288
+IO write_bytes: 159744
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.406283
+rusage ru_stime: 0.039831
+rusage ru_maxrss: 50308
+rusage ru_minflt: 8159
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 168
+rusage ru_nvcsw: 108
+rusage ru_nivcsw: 499
+Child rusage ru_utime: 0.007136
+Child rusage ru_stime: 0.050885
+Child rusage ru_maxrss: 47592
+Child rusage ru_minflt: 1835
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 144
+Child rusage ru_nvcsw: 76
+Child rusage ru_nivcsw: 168
+Status: PASSED 
+Ended: 1712928325.01 

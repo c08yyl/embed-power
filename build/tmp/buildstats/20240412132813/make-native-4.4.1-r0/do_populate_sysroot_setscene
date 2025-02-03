@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928606.66 
+make-native-4.4.1-r0: do_populate_sysroot_setscene
+Elapsed time: 0.47 seconds
+utime: 47
+stime: 5
+cutime: 2
+cstime: 2
+IO rchar: 1345402
+IO wchar: 894471
+IO syscr: 273
+IO syscw: 103
+IO read_bytes: 135168
+IO write_bytes: 614400
+IO cancelled_write_bytes: 270336
+rusage ru_utime: 0.47662099999999996
+rusage ru_stime: 0.054694
+rusage ru_maxrss: 53476
+rusage ru_minflt: 8403
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 104
+rusage ru_nvcsw: 11
+rusage ru_nivcsw: 852
+Child rusage ru_utime: 0.023975
+Child rusage ru_stime: 0.025425
+Child rusage ru_maxrss: 53456
+Child rusage ru_minflt: 2067
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 264
+Child rusage ru_oublock: 1096
+Child rusage ru_nvcsw: 55
+Child rusage ru_nivcsw: 85
+Status: PASSED 
+Ended: 1712928607.14 

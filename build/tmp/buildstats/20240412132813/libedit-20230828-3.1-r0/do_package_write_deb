@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712929181.12 
+libedit-20230828-3.1-r0: do_package_write_deb
+Elapsed time: 8.13 seconds
+utime: 139
+stime: 103
+cutime: 139
+cstime: 63
+IO rchar: 8477186
+IO wchar: 4758764
+IO syscr: 3405
+IO syscw: 907
+IO read_bytes: 2920448
+IO write_bytes: 2772992
+IO cancelled_write_bytes: 458752
+rusage ru_utime: 1.393038
+rusage ru_stime: 1.03976
+rusage ru_maxrss: 55072
+rusage ru_minflt: 22420
+rusage ru_majflt: 0
+rusage ru_inblock: 2056
+rusage ru_oublock: 288
+rusage ru_nvcsw: 104
+rusage ru_nivcsw: 818
+Child rusage ru_utime: 1.3905539999999998
+Child rusage ru_stime: 0.636591
+Child rusage ru_maxrss: 52520
+Child rusage ru_minflt: 80371
+Child rusage ru_majflt: 3
+Child rusage ru_inblock: 3648
+Child rusage ru_oublock: 5128
+Child rusage ru_nvcsw: 758
+Child rusage ru_nivcsw: 1384
+Status: PASSED 
+Ended: 1712929189.25 

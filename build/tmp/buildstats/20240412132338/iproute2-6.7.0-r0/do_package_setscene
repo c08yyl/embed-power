@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928317.52 
+iproute2-6.7.0-r0: do_package_setscene
+Elapsed time: 1.08 seconds
+utime: 50
+stime: 10
+cutime: 15
+cstime: 37
+IO rchar: 20273576
+IO wchar: 30189241
+IO syscr: 7828
+IO syscw: 4273
+IO read_bytes: 4464640
+IO write_bytes: 16011264
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.5014689999999999
+rusage ru_stime: 0.10360899999999999
+rusage ru_maxrss: 50984
+rusage ru_minflt: 8478
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 288
+rusage ru_nvcsw: 2176
+rusage ru_nivcsw: 529
+Child rusage ru_utime: 0.150888
+Child rusage ru_stime: 0.375006
+Child rusage ru_maxrss: 48104
+Child rusage ru_minflt: 7721
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8704
+Child rusage ru_oublock: 30984
+Child rusage ru_nvcsw: 1813
+Child rusage ru_nivcsw: 5194
+Status: PASSED 
+Ended: 1712928318.60 

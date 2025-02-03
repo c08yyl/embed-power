@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928595.48 
+libcap-native-2.69-r0: do_populate_sysroot_setscene
+Elapsed time: 0.25 seconds
+utime: 44
+stime: 6
+cutime: 2
+cstime: 3
+IO rchar: 1119179
+IO wchar: 724274
+IO syscr: 311
+IO syscw: 126
+IO read_bytes: 65536
+IO write_bytes: 466944
+IO cancelled_write_bytes: 110592
+rusage ru_utime: 0.447687
+rusage ru_stime: 0.06715299999999999
+rusage ru_maxrss: 52132
+rusage ru_minflt: 7959
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 27
+rusage ru_nivcsw: 600
+Child rusage ru_utime: 0.020682
+Child rusage ru_stime: 0.037187
+Child rusage ru_maxrss: 52132
+Child rusage ru_minflt: 2340
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 128
+Child rusage ru_oublock: 816
+Child rusage ru_nvcsw: 59
+Child rusage ru_nivcsw: 28
+Status: PASSED 
+Ended: 1712928595.73 

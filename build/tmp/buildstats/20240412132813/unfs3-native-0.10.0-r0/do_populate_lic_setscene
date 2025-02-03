@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928520.95 
+unfs3-native-0.10.0-r0: do_populate_lic_setscene
+Elapsed time: 0.31 seconds
+utime: 43
+stime: 5
+cutime: 1
+cstime: 1
+IO rchar: 645143
+IO wchar: 70602
+IO syscr: 218
+IO syscw: 66
+IO read_bytes: 8192
+IO write_bytes: 73728
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.43654899999999996
+rusage ru_stime: 0.05556
+rusage ru_maxrss: 52136
+rusage ru_minflt: 8154
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 120
+rusage ru_nvcsw: 16
+rusage ru_nivcsw: 312
+Child rusage ru_utime: 0.017466
+Child rusage ru_stime: 0.018573
+Child rusage ru_maxrss: 52136
+Child rusage ru_minflt: 1589
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 24
+Child rusage ru_nvcsw: 43
+Child rusage ru_nivcsw: 24
+Status: PASSED 
+Ended: 1712928521.26 

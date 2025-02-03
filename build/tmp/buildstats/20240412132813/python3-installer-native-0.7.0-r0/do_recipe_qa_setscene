@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928582.31 
+python3-installer-native-0.7.0-r0: do_recipe_qa_setscene
+Elapsed time: 0.25 seconds
+utime: 47
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 575686
+IO wchar: 57149
+IO syscr: 117
+IO syscw: 50
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.476747
+rusage ru_stime: 0.037538999999999996
+rusage ru_maxrss: 51400
+rusage ru_minflt: 7703
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 564
+Child rusage ru_utime: 0.011966
+Child rusage ru_stime: 0.006404
+Child rusage ru_maxrss: 48128
+Child rusage ru_minflt: 915
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 20
+Status: PASSED 
+Ended: 1712928582.56 

@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928376.95 
+tcp-wrappers-7.6-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.28 seconds
+utime: 38
+stime: 3
+cutime: 1
+cstime: 0
+IO rchar: 344497
+IO wchar: 51016
+IO syscr: 99
+IO syscw: 42
+IO read_bytes: 8192
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.381347
+rusage ru_stime: 0.039723
+rusage ru_maxrss: 51232
+rusage ru_minflt: 7312
+rusage ru_majflt: 0
+rusage ru_inblock: 8
+rusage ru_oublock: 96
+rusage ru_nvcsw: 15
+rusage ru_nivcsw: 872
+Child rusage ru_utime: 0.010447
+Child rusage ru_stime: 0.008988
+Child rusage ru_maxrss: 47752
+Child rusage ru_minflt: 917
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 33
+Child rusage ru_nivcsw: 27
+Status: PASSED 
+Ended: 1712928377.24 

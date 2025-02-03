@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928361.32 
+util-linux-libuuid-2.39.3-r0: do_deploy_source_date_epoch_setscene
+Elapsed time: 0.23 seconds
+utime: 39
+stime: 4
+cutime: 0
+cstime: 1
+IO rchar: 367082
+IO wchar: 57456
+IO syscr: 115
+IO syscw: 50
+IO read_bytes: 12288
+IO write_bytes: 53248
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.39827799999999997
+rusage ru_stime: 0.043809999999999995
+rusage ru_maxrss: 52260
+rusage ru_minflt: 7747
+rusage ru_majflt: 0
+rusage ru_inblock: 16
+rusage ru_oublock: 96
+rusage ru_nvcsw: 5
+rusage ru_nivcsw: 2005
+Child rusage ru_utime: 0.007162
+Child rusage ru_stime: 0.012711
+Child rusage ru_maxrss: 47808
+Child rusage ru_minflt: 935
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 8
+Child rusage ru_nvcsw: 25
+Child rusage ru_nivcsw: 194
+Status: PASSED 
+Ended: 1712928361.55 

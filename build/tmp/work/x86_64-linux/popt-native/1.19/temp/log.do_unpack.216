@@ -1,0 +1,26 @@
+DEBUG: Executing python function do_unpack
+DEBUG: Executing python function base_do_unpack
+NOTE: Unpacking /downloads/popt-1.19.tar.gz to /kitchen/build/tmp/work/x86_64-linux/popt-native/1.19/
+DEBUG: Searching for run-ptest in paths:
+    /kitchen/meta/recipes-support/popt/popt-1.19/poky
+    /kitchen/meta/recipes-support/popt/popt/poky
+    /kitchen/meta/recipes-support/popt/files/poky
+    /kitchen/meta/recipes-support/popt/popt-1.19/
+    /kitchen/meta/recipes-support/popt/popt/
+    /kitchen/meta/recipes-support/popt/files/
+    /kitchen/meta/recipes-support/popt/popt-1.19/x86-64
+    /kitchen/meta/recipes-support/popt/popt/x86-64
+    /kitchen/meta/recipes-support/popt/files/x86-64
+    /kitchen/meta/recipes-support/popt/popt-1.19/
+    /kitchen/meta/recipes-support/popt/popt/
+    /kitchen/meta/recipes-support/popt/files/
+DEBUG: Using /kitchen/meta/recipes-support/popt/popt/run-ptest for run-ptest
+NOTE: Unpacking /kitchen/meta/recipes-support/popt/popt/run-ptest to /kitchen/build/tmp/work/x86_64-linux/popt-native/1.19/
+DEBUG: Python function base_do_unpack finished
+DEBUG: Python function do_unpack finished
+DEBUG: Executing python function create_source_date_epoch_stamp
+DEBUG: Newest file found: /kitchen/build/tmp/work/x86_64-linux/popt-native/1.19/popt-1.19/po/uk.gmo
+DEBUG: SOURCE_DATE_EPOCH: 1663311851
+DEBUG: Python function create_source_date_epoch_stamp finished
+DEBUG: Executing python function do_qa_unpack
+DEBUG: Python function do_qa_unpack finished

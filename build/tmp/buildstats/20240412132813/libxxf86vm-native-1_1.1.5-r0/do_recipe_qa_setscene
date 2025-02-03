@@ -1,0 +1,35 @@
+Event: TaskStarted 
+Started: 1712928570.44 
+libxxf86vm-native-1_1.1.5-r0: do_recipe_qa_setscene
+Elapsed time: 0.29 seconds
+utime: 46
+stime: 3
+cutime: 0
+cstime: 1
+IO rchar: 591159
+IO wchar: 57501
+IO syscr: 116
+IO syscw: 51
+IO read_bytes: 4096
+IO write_bytes: 49152
+IO cancelled_write_bytes: 0
+rusage ru_utime: 0.46871799999999997
+rusage ru_stime: 0.034296
+rusage ru_maxrss: 52820
+rusage ru_minflt: 8091
+rusage ru_majflt: 0
+rusage ru_inblock: 0
+rusage ru_oublock: 96
+rusage ru_nvcsw: 2
+rusage ru_nivcsw: 346
+Child rusage ru_utime: 0.0069429999999999995
+Child rusage ru_stime: 0.014128
+Child rusage ru_maxrss: 48280
+Child rusage ru_minflt: 926
+Child rusage ru_majflt: 0
+Child rusage ru_inblock: 8
+Child rusage ru_oublock: 0
+Child rusage ru_nvcsw: 30
+Child rusage ru_nivcsw: 100
+Status: PASSED 
+Ended: 1712928570.73 
